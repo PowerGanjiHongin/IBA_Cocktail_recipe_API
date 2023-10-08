@@ -1,0 +1,65 @@
+{
+"Cocktail"
+{
+"Cocktail recipe" : [
+{
+"Name" : "Alexander"
+"Ingredients" : [
+{"Volume" : "30 ml", "Name" : "Cognac", "Garnish" : "false"},
+{"Volume" : "30 ml", "Name" : "Crème de Cacao (Brown)", "Garnish" : "false"},
+{"Volume" : "30 ml", "Name" : "Fresh Cream", "Garnish" : "false"},
+{"Volume" : "a little", "Name" : "", "Garnish" : "true"}
+]
+"Method" : "Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass."
+"Garnish" : "Sprinkle fresh ground nutmeg on top."
+"Histoy" : "The Alexander cocktail was born in London in 1922 by Hery Mc Elhone, at Ciro's Club in honor of a famous bride, at the beginning it was called Panama, Gin was used instead of Cognac and light cocoa cream instead of dark."
+},
+{
+"Name" : "Grasshopper"
+"Ingredients" : [
+{"Volume" : "30 ml", "Name" : "crème de menthe verde", "Garnish" : "false"},
+{"Volume" : "30 ml", "Name" : "Crème de Cacao (Brown)", "Garnish" : "false"},
+{"Volume" : "30 ml", "Name" : "Fresh Cream", "Garnish" : "false"},
+]
+"Method" : "Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass."
+"Garnish" : "Sprinkle fresh ground nutmeg on top."
+"Histoy" : "Alexander's variation"
+},
+{
+"Name" : "Alexandra"
+"Ingredients" : [
+{"Volume" : "30 ml", "Name" : "Cognac", "Garnish" : "false"},
+{"Volume" : "30 ml", "Name" : "Crème de Cacao (Brown)", "Garnish" : "false"},
+{"Volume" : "30 ml", "Name" : " light cocoa cream", "Garnish" : "false"},
+{"Volume" : "a little", "Name" : "cocoa", "Garnish" : "true"}
+]
+"Method" : "Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass."
+"Garnish" : "Sprinkle fresh ground nutmeg on top."
+"Histoy" : "Alexander's variation"
+},
+{
+"Name" : ""
+"Ingredients" : [
+{"Volume" : "", "Name" : "", "Garnish" : "false"},
+{"Volume" : "", "Name" : "", "Garnish" : "false"},
+]
+"Method" : ""
+"Garnish" : ""
+"Histoy" : ""
+},
+
+
+
+
+
+
+{
+"Name" : "",
+"Ingredients" : [
+{"Volume" : "", "Name" : "", "Garnish" : "false"},
+{"Volume" : "", "Name" : "", "Garnish" : "false"}
+],
+"Method" : "",
+"Garnish" : "",
+"Histoy" : ""
+}
