@@ -23,15 +23,3 @@ jobs:
 
     - name: Start Express Server
       run: node index.js & # Express 서버를 실행합니다.
-
-    # - name: Extract Port Number
-    #   run: |
-    #     # 서버 로그에서 포트 번호 추출
-    #     port=$(grep -oP 'PORT - \K\d+' ./logs/server.log)
-    #     echo "Server is running on port $port"
-
-    - name: Access Server URL
-      run: |
-        # 서버 URL 생성
-        url="http://localhost:3000"
-        echo "Access the server at $url"
