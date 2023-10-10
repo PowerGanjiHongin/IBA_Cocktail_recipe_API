@@ -1,0 +1,2757 @@
+{
+    "Cocktail": {
+        "Cocktail recipe": [
+            {
+                "Name": "Alexander",
+                "Ingredients": [
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Cognac",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Crème de Cacao (Brown)",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Fresh Cream",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients into cocktail shaker filled with ice cubes.\n2. Shake and strain into a chilled cocktail glass.",
+                "Garnish": "Sprinkle fresh ground nutmeg on top.",
+                "Histoy": "The Alexander cocktail was born in London in 1922 by Hery Mc Elhone, at Ciro's Club in honor of a famous bride, at the beginning it was called Panama, Gin was used instead of Cognac and light cocoa cream instead of dark."
+            },
+            {
+                "Name": "Grasshopper",
+                "Ingredients": [
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Crème de Menthe (Green)",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Crème de Cacao (White)",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Fresh Cream",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients into shaker filled with ice.\n2. Shake briskly for few seconds.\n3. Strain into chilled cocktail glass.",
+                "Garnish": "optional mint leaf",
+                "Histoy": "Alexander's variation"
+            },
+            {
+                "Name": "Alexandra",
+                "Ingredients": [
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Cognac",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Crème de Cacao (Brown)",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": " light cocoa cream",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients into cocktail shaker filled with ice cubes.\n2. Shake and strain into a chilled cocktail glass.",
+                "Garnish": "Sprinkle cocoa on top.",
+                "Histoy": "Alexander's variation"
+            },
+            {
+                "Name": "Alexander's Sister",
+                "Ingredients": [
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Cognac",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "crème de menthe",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": " Fresh Cream",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients into cocktail shaker filled with ice cubes.\n2. Shake and strain",
+                "Garnish": "Sprinkle fresh ground nutmeg on top.",
+                "Histoy": "Alexander's variation"
+            },
+            {
+                "Name": "Alejandro",
+                "Ingredients": [
+                    {
+                        "Volume": "30 ml",
+                        "Name": "rum",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Crème de Cacao (Brown)",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Fresh Cream",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients into cocktail shaker filled with ice cubes.\n2. Shake and strain into a chilled cocktail glass.",
+                "Garnish": "Sprinkle fresh ground nutmeg on top.",
+                "Histoy": "The Alexander cocktail was born in London in 1922 by Hery Mc Elhone, at Ciro's Club in honor of a famous bride, at the beginning it was called Panama, Gin was used instead of Cognac and light cocoa cream instead of dark."
+            },
+            {
+                "Name": "Americano",
+                "Ingredients": [
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Bitter Campari",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Sweet Red Vermouth",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "A Splash",
+                        "Name": "Soda Water",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Mix the ingredients directly in an old fashioned glass filled with ice cubes.\n2. Add a splash of Soda Water.\n3. Stir gently.",
+                "Garnish": "Garnish with half orange slice and a lemon zest.",
+                "Histoy": "The story of the Americano dates back to the second half of the 1800s in Gaspare Campari's bar in Milan. Over the years the cocktail acquires notoriety thanks to some homages from the world of cinema, including James Bond (007 Casino Royale) whose favorite cocktail was, precisely, the Americano. \nThe nickname \"American\" was born when Primo Carnera, a giant Italian boxer, became world heavyweight champion at Madison Square Garden in New York. When Carnera returned to Italy with the title, he was greeted with this very Italian cocktail which, for the occasion, was called \"Americano\". \nThe Americano entered the IBA Cocktail List only in 1987 but, in reality, it was a cocktail that spread all over Italy during the 1930s."
+            },
+            {
+                "Name": "Angel Face",
+                "Ingredients": [
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Gin",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Apricot Brandy",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Calvados",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients into cocktail shaker filled with ice cubes.\n2. Shake and strain into a chilled cocktail glass.",
+                "Garnish": "N/A",
+                "Histoy": "Although the origin of the cocktail is not known, the main hypotheses assume that it was born in the twenties of the twentieth century in France: this thesis would prove the presence of calvados, a liqueur commonly used in France and, in particular, in that period, as an epidemic of phylloxera in European vineyards had limited the production of brandy. On this basis, one of the most frequent hypotheses has it that the cocktail was created by Harry MacElhone, founder of Harry's New York Bar in Paris on July 19, 1919, in honor of the celebrations for the victory of the First World War. The first reliable evidence, however, dates back to 1930 when Harry Craddock included the Angel Face among the recipes of his book \"Savoy cocktail book\". Some sources indicate that the name derives from that of an American gangster active during Prohibition; less likely the dedication to Rick Blaine, the protagonist of Casablanca played by Humphrey Bogart, as the film follows the first testimonies (1942)."
+            },
+            {
+                "Name": "Aviation",
+                "Ingredients": [
+                    {
+                        "Volume": "45 ml",
+                        "Name": "Gin",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Maraschino Luxardo",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Fresh Lemon Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "1 Bar Spoon",
+                        "Name": "Crème de Violette",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Add all ingredients into a cocktail shaker.\n2. Shake with cracked ice and strain into a chilled cocktail glass.",
+                "Garnish": "N/A",
+                "Histoy": "Aviation was created in New York at the Walkick hotel by the head bartender Hugo Ensslin while he was writing his book \"Recipes for Mixed Drinks\" (1916) one of the last cocktail books published before the start of American Prohibition.\nLately David Wondrich found the aviation recipe in a 1911 magazine, so the recipe is thought to have been born earlier then 1916.\n In his book Ensslin also indicates the type of Gin to be used 'El Bart Gin \"and the recipe is made up in addition to gin, with lemon juice, maraschino Luxardo and Creme di Violette.\nThe recipe is found again in Harry Craddock's 1930 Savoy Cocktail Book but without the Creme de Violette, this probably due to the difficulty of finding the violet cream during the post-war period In the 1960s it was still unavailable and therefore, simply, the basic ingredient of the Aviation cocktail was discontinued and the bartenders definitively gave up the characteristic blue color of the drink.\nThe IBA proposes it today in its original version with the creme de violette which is now on the market again.  This fragrant ingredient not only gave the mix a sweetly floral taste, but also gave it a beautiful sky blue color."
+            },
+            {
+                "Name": "Barracuda",
+                "Ingredients": [
+                    {
+                        "Volume": "45 ml",
+                        "Name": "Gold Rum",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Galliano",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "60 ml",
+                        "Name": "Fresh Pineapple Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "1 dash",
+                        "Name": "Fresh Lime Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "Top up",
+                        "Name": "Prosecco",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients into cocktail shaker except the Prosecco, shake well with ice.\n2. strain into chilled highball glass filled with ice and top up with Prosecco.",
+                "Garnish": "Pineapple and Cherry, optional mint sprig for additional aroma.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Bee's Knees",
+                "Ingredients": [
+                    {
+                        "Volume": "52.5 ml",
+                        "Name": "Dry Gin",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "2 teaspoons",
+                        "Name": "Syrup",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "22.5 ml",
+                        "Name": "Fresh Lemon Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "22.5 ml",
+                        "Name": "Fresh Orange Juice",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Stir honey with lemon and orange juices until it dissolves, add gin and shake with ice.\n2. Strain into a chilled cocktail glass.",
+                "Garnish": "Optionally garnish with a lemon or orange zest.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Bellini",
+                "Ingredients": [
+                    {
+                        "Volume": "100 ml",
+                        "Name": "Prosecco",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "50 ml",
+                        "Name": "White Peach Puree",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour peach puree into the mixing glass with ice, add the Prosecco wine.\n2. Stir gently and pour in a chilled flute glass.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "PUCCINI",
+                "Ingredients": [
+                    {
+                        "Volume": "100 ml",
+                        "Name": "Prosecco",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "50 ml",
+                        "Name": "Fresh Mandarin Orange Juice",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Fresh Mandarin Orange Juice into mixing glass with ice, add prosecco wine.\n2. stir slowly and pour into cold flute glass.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "ROSSINI",
+                "Ingredients": [
+                    {
+                        "Volume": "100 ml",
+                        "Name": "Prosecco",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "50 ml",
+                        "Name": "Fresh Strawberry Puree",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Fresh Strawberry Puree into mixing glass with ice, add prosecco wine.\n2. stir slowly and pour into cold flute glass.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "TINTORETTO",
+                "Ingredients": [
+                    {
+                        "Volume": "100 ml",
+                        "Name": "Prosecco",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "50 ml",
+                        "Name": "Fresh Pomegranate Juice.",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Fresh Pomegranate Juice. into mixing glass with ice, add prosecco wine.\n2. stir slowly and pour into cold flute glass.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Between the Sheets",
+                "Ingredients": [
+                    {
+                        "Volume": "30 ml",
+                        "Name": "White Rum",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Cognac",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Triple Sec",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "20 ml",
+                        "Name": "Fresh Lemon Juice",
+                        "Optional": false
+                    }
+                ],
+                "Method": "Add all ingredients into a cocktail shaker. Shake with ice and strain into a chilled cocktail glass.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Black Russian",
+                "Ingredients": [
+                    {
+                        "Volume": "50 ml ",
+                        "Name": "Vodka",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "20 ml",
+                        "Name": "Coffee Liqueur",
+                        "Optional": false
+                    }
+                ],
+                "Method": "Pour the ingredients into the old fashioned glass filled with ice cubes.\n2. Stir gently.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "White Russian",
+                "Ingredients": [
+                    {
+                        "Volume": "50 ml ",
+                        "Name": "Vodka",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "20 ml",
+                        "Name": "Coffee Liqueur",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "fresh cream",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour the ingredients into the old fashioned glass filled with ice cubes.\n2. Stir gently.\n3. Float fresh cream on the top and stir in slowly.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Bloody Mary",
+                "Ingredients": [
+                    {
+                        "Volume": "45 ml",
+                        "Name": "Vodka",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "90 ml",
+                        "Name": "Tomato Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Fresh Lemon Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "2 dashes",
+                        "Name": "Worcestershire Sauce",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "Up to taste",
+                        "Name": "Tabasco",
+                        "Optional": true
+                    },
+                    {
+                        "Volume": "Up to taste",
+                        "Name": "Celery Salt",
+                        "Optional": true
+                    },
+                    {
+                        "Volume": "Up to taste",
+                        "Name": "Pepper ",
+                        "Optional": true
+                    }
+                ],
+                "Method": "Stir gently all the ingredients in a mixing glass with ice, pour into rocks glass. \n\n Note : If requested served with ice, pour into highball glass.",
+                "Garnish": "Celery, Lemon Wedge (Optional)",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Boulevardier",
+                "Ingredients": [
+                    {
+                        "Volume": "45 ml",
+                        "Name": "Bourbon or Rye Whiskey",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Bitter Campari",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Sweet Red Vermouth",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into a chilled cocktail glass.",
+                "Garnish": "Garnish with orange zest, optionally a lemon zest.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Bramble",
+                "Ingredients": [
+                    {
+                        "Volume": "50 ml",
+                        "Name": "Gin",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "25 ml",
+                        "Name": "Fresh Lemon Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "12,5 ml",
+                        "Name": "Sugar Syrup",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Crème de Mûr",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients into a cocktail shaker except the Crème de Mûre, shake well with ice, strain into chilled old fashioned glass filled with crushed ice, then pour the blackberry liqueur (Crème de Mûre) over the top of the drink, in a circular motion.",
+                "Garnish": "Garnish optionally with a lemon slice and blackberries.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Brandy Crusta",
+                "Ingredients": [
+                    {
+                        "Volume": "52,5 ml",
+                        "Name": "Brandy",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "7,5 ml",
+                        "Name": "Maraschino Luxardo",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "1 Bar",
+                        "Name": "Curacao",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Fresh Lemon Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "1 Bar",
+                        "Name": "Simple Syrup",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "2 Dashes",
+                        "Name": "Aromatic Bitters",
+                        "Optional": false
+                    }
+                ],
+                "Method": "Mix together all ingredients with ice cubes in a mixing glass and strain into prepared slim cocktail glass.",
+                "Garnish": "Rub a slice of orange (or lemon) around the rim of the glass and dip it in pulverized white sugar, so that the sugar will adhere to the edge of the glass. Carefully curling place the orange/lemon peel around the inside of the glass.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Canchanchara",
+                "Ingredients": [
+                    {
+                        "Volume": "60 ml",
+                        "Name": "Cuban Aguardiente",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Fresh Lime Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Raw Honey",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "50 ml",
+                        "Name": "Water",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Mix honey with water and lime juice and spread the mixture on the bottom and sides of the glass. \n2. Add cracked ice, and then the rum. End by energetically stirring from bottom to top.",
+                "Garnish": "Lime wedge.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Caipirinha",
+                "Ingredients": [
+                    {
+                        "Volume": "60 ml",
+                        "Name": "Cachaça",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "1",
+                        "Name": "Lime cut into small wedges",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "4 Teaspoons",
+                        "Name": "White Cane Sugar",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Place lime and sugar into a double old fashioned glass and muddle gently.\n2. Fill the glass with cracked ice and add Cachaça.\n3. Stir gently to involve ingredients.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "CAIPIROSKA",
+                "Ingredients": [
+                    {
+                        "Volume": "60 ml",
+                        "Name": "Vodka",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "1",
+                        "Name": "Lime cut into small wedges",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "4 Teaspoons",
+                        "Name": "White Cane Sugar",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Place lime and sugar into a double old fashioned glass and muddle gently.\n2. Fill the glass with cracked ice and add Vodka. \n3. Stir gently to involve ingredients.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Casino",
+                "Ingredients": [
+                    {
+                        "Volume": "40 ml",
+                        "Name": "Old Tom Gin",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "10 ml",
+                        "Name": "Maraschino Luxardo",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "10 ml",
+                        "Name": "Fresh Lemon Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "2 Dashes",
+                        "Name": "Orange Bitters",
+                        "Optional": false
+                    }
+                ],
+                "Method": "Pour all ingredients into cocktails shaker, shake well with ice, strain into chilled rocks glass with ice.",
+                "Garnish": "Garnish with lemon zest and a maraschino cherry.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Champagne Cocktail",
+                "Ingredients": [
+                    {
+                        "Volume": "90 ml",
+                        "Name": "Chilled Champagne",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "10 ml",
+                        "Name": "Cognac",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "2 dashes",
+                        "Name": "Angostura bitters",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "Few drops",
+                        "Name": "Grand Marnier",
+                        "Optional": true
+                    },
+                    {
+                        "Volume": "1",
+                        "Name": "sugar cube",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Place the sugar cube with 2 dashes of bitters in a large Champagne glass, add the cognac.\n2. Pour gently chilled Champagne.",
+                "Garnish": "Garnish with orange zest and maraschino cherry.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Clover Club",
+                "Ingredients": [
+                    {
+                        "Volume": "45 ml",
+                        "Name": "Gin",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Raspberry Syrup",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Fresh Lemon Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "Few Drops",
+                        "Name": "Egg White",
+                        "Optional": false
+                    }
+                ],
+                "Method": "Pour all ingredients into cocktails shaker, shake well with ice, strain into chilled cocktail glass.",
+                "Garnish": "Fresh raspberries.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Corpse Reviver #2",
+                "Ingredients": [
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Gin",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Cointreau",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Lillet Blanc",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Fresh Lemon Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "1 dash",
+                        "Name": "Absinthe",
+                        "Optional": false
+                    }
+                ],
+                "Method": "Pour all ingredients into shaker with ice. Shake well and strain in chilled cocktail glass.",
+                "Garnish": "Garnish with orange zest",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Cosmopolitan",
+                "Ingredients": [
+                    {
+                        "Volume": "40 ml",
+                        "Name": "Vodka Citron",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Cointreau",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Fresh Lime Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Cranberry Juice",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Add all ingredients into a cocktail shaker filled with ice.\n2. Shake well and strain into a large cocktail glass.",
+                "Garnish": "Garnish with a lemon twist.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Cuba Libre",
+                "Ingredients": [
+                    {
+                        "Volume": "50 ml",
+                        "Name": "White Rum",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "120ml",
+                        "Name": "Coca Cola",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "10 ml",
+                        "Name": "Fresh Lime Juice",
+                        "Optional": false
+                    }
+                ],
+                "Method": "Build all ingredients in a highball glass filled with ice.",
+                "Garnish": "Garnish with lime wedge.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Daiquiri",
+                "Ingredients": [
+                    {
+                        "Volume": "60 ml",
+                        "Name": "White Cuban Ron",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "20 ml",
+                        "Name": "Fresh Lime Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "2 Bar Spoons",
+                        "Name": "Superfine Sugar",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. In a cocktail shaker add all ingredients.\n2. Stir well to dissolve the sugar. Add ice and shake.\n3. Strain into chilled cocktail glass.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Dark 'n' stormy",
+                "Ingredients": [
+                    {
+                        "Volume": "60 ml",
+                        "Name": "Goslings Rum",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "100 ml",
+                        "Name": "Ginger Beer",
+                        "Optional": false
+                    }
+                ],
+                "Method": "In a highball glass filled with ice pour the ginger beer and top floating with the Rum.",
+                "Garnish": "Garnish with a lime wedge or slice.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Dry Martini",
+                "Ingredients": [
+                    {
+                        "Volume": "60 ml",
+                        "Name": "Gin",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "10 ml",
+                        "Name": "Dry Vermouth",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into chilled martini cocktail glass.",
+                "Garnish": "Squeeze oil from lemon peel onto the drink, or garnish with green olives if requested.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Espresso Martini",
+                "Ingredients": [
+                    {
+                        "Volume": "50 ml",
+                        "Name": "Vodka",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Kahlúa",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "10 ml",
+                        "Name": "Sugar Syrup",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "1",
+                        "Name": "strong Espresso",
+                        "Optional": false
+                    }
+                ],
+                "Method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Fernandito",
+                "Ingredients": [
+                    {
+                        "Volume": "50 ml",
+                        "Name": "Fernet Branca",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "Fill up",
+                        "Name": "Cola",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour the Fernet Branca into a double old fashioned glass with ice, fill the glass up with Cola.\n2. Gently stir.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "French 75",
+                "Ingredients": [
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Gin",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Fresh Lemon Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Sugar Syrup",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "60 ml",
+                        "Name": "Champagne",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all the ingredients, except Champagne, into a shaker.\n2. Shake well and strain into a Champagne flute.\n3. Top up with Champagne. Stir gently.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "French Connection",
+                "Ingredients": [
+                    {
+                        "Volume": "35 ml",
+                        "Name": "Cognac",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "35 ml",
+                        "Name": "Amaretto",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients directly into an old fashioned glass filled with ice cubes.\n2. Stir gently.",
+                "Garnish": "",
+                "Histoy": "None"
+            },
+            {
+                "Name": "French Martini",
+                "Ingredients": [
+                    {
+                        "Volume": "45 ml",
+                        "Name": "Vodka",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Raspberry Liqueur",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Fresh Pineapple Juice",
+                        "Optional": false
+                    }
+                ],
+                "Method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+                "Garnish": "Squeeze oil from lemon peel onto the drink.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Gin Fizz",
+                "Ingredients": [
+                    {
+                        "Volume": "45 ml",
+                        "Name": "Gin",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Fresh Lemon Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "10 ml",
+                        "Name": "Simple Syrup",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "Splash of",
+                        "Name": "Soda Water",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Shake all ingredients with ice except soda water.\n2. Pour into thin tall Tumbler glass, top with a splash soda water.\n Note : Serve without ice.",
+                "Garnish": "Garnish with a lemon slice, optional lemon zest.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Golden Dream",
+                "Ingredients": [
+                    {
+                        "Volume": "20 ml",
+                        "Name": "Galliano",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "20 ml",
+                        "Name": "Triple Sec",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "20 ml",
+                        "Name": "Fresh Orange Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "10 ml",
+                        "Name": "Fresh Cream",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients into shaker filled with ice.\n2. Shake briskly for few seconds.\n3. Strain into chilled cocktail glass.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Hanky Panky",
+                "Ingredients": [
+                    {
+                        "Volume": "45 ml",
+                        "Name": "London Dry Gin",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "45 ml",
+                        "Name": "Sweet Red Vermouth",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "7.5 ml",
+                        "Name": "Fernet Branca",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients into mixing glass with ice cubes. Stir well.\n2. Strain into chilled cocktail glass.",
+                "Garnish": "Orange zest.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Hemingway Special",
+                "Ingredients": [
+                    {
+                        "Volume": "60 ml",
+                        "Name": "Rum",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "40 ml",
+                        "Name": "Grapefruit Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Maraschino Luxardo",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Fresh Lime",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients into a shaker with ice.\n2. Shake well and strain into a large cocktail glass.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Horse's Neck",
+                "Ingredients": [
+                    {
+                        "Volume": "40 ml",
+                        "Name": "Cognac",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "120 ml",
+                        "Name": "Ginger Ale",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "1 dash",
+                        "Name": "Angostura Bitters",
+                        "Optional": true
+                    }
+                ],
+                "Method": "1. Pour Cognac and ginger ale directly into a highball glass with ice cubes.\n2. Stir gently.\n3. If preferred, add dashes of Angostura Bitter.",
+                "Garnish": "Garnish with a rind of one lemon spiral.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Illegal",
+                "Ingredients": [
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Espadin Mezcal",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Jamaica Overproof White Rum",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Falernum",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "1 Bar Spoon",
+                        "Name": "Maraschino Luxardo",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "22.5 ml",
+                        "Name": "Fresh Lime Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Simple Syrup",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "Few Drops",
+                        "Name": "Egg White",
+                        "Optional": true
+                    }
+                ],
+                "Method": "1. Pour all ingredients into the shaker.\n2. Shake vigorously with ice.\n3.  Strain into a chilled cocktail glass, or \"on the rocks\" in a traditional clay or terracotta mug.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Irish Coffee",
+                "Ingredients": [
+                    {
+                        "Volume": "50 ml",
+                        "Name": "Irish Whiskey",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "120 ml",
+                        "Name": "Hot coffee",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "50 ml",
+                        "Name": "Fresh cream (Chilled)",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "1 teaspoon",
+                        "Name": "Sugar",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Warm black coffee is poured into a pre-heated Irish coffee glass.\n2. Whiskey and at least one teaspoon of sugar is added and stirred until dissolved.\n3. Fresh thick chilled cream is carefully poured over the back of a spoon held just above the surface of the coffee.\n4. The layer of cream will float on the coffee without mixing.\n5. Plain sugar can be replaced with sugar syrup",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "John Collins",
+                "Ingredients": [
+                    {
+                        "Volume": "45 ml",
+                        "Name": "Gin",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Fresh Lemon Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Simple Syrup",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "60 ml",
+                        "Name": "Soda Water",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients directly into a highball filled with ice.\n2. Stir gently.",
+                "Garnish": "Garnish with a lemon slice and maraschino cherry.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Tom Collins",
+                "Ingredients": [
+                    {
+                        "Volume": "45 ml",
+                        "Name": "Gin(Old Tom)",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Fresh Lemon Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Simple Syrup",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "60 ml",
+                        "Name": "Soda Water",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients directly into a highball filled with ice.\n2. Stir gently.",
+                "Garnish": "Garnish with a lemon slice and maraschino cherry.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "KIR",
+                "Ingredients": [
+                    {
+                        "Volume": "90 ml",
+                        "Name": "Dry White Wine",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "10 ml",
+                        "Name": "Crème de Cassis",
+                        "Optional": false
+                    }
+                ],
+                "Method": "Pour Crème de Cassis into glass, top up with white wine.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "KIR ROYAL",
+                "Ingredients": [
+                    {
+                        "Volume": "90 ml",
+                        "Name": "Champagne",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "10 ml",
+                        "Name": "Crème de Cassis",
+                        "Optional": false
+                    }
+                ],
+                "Method": "Pour Crème de Cassis into glass, top up with champagne.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Last word",
+                "Ingredients": [
+                    {
+                        "Volume": "22.5 ml",
+                        "Name": "Gin",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "22.5 ml",
+                        "Name": "Green Chartreuse",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "22.5 ml",
+                        "Name": "Maraschino Luxardo",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "22.5 ml",
+                        "Name": "Fresh Lime Juice",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Add all ingredients into a cocktail shaker.\n2. Shake with ice and strain into a chilled cocktail glass.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Lemon Drop Martini",
+                "Ingredients": [
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Vodka Citron",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "20 ml",
+                        "Name": "Triple Sec",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Fresh Lemon Juice",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+                "Garnish": "Garnish with sugar rim around the glass.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Long Island Ice Tea",
+                "Ingredients": [
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Vodka",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Tequila",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "White rum",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Gin",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Cointreau",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Lemon juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "20 ml",
+                        "Name": "Simple syrup",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "Top With",
+                        "Name": "Cola",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Add all ingredients into a highball glass filled with ice.\n2. Stir gently.",
+                "Garnish": "Lemon Slice (Optional)",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Mai-Tai",
+                "Ingredients": [
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Amber Jamaican Rum",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Martinique Molasses Rhum *",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Orange Curacao",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Orgeat Syrup (Almond)",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Fresh Lime Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "7.5 ml",
+                        "Name": "Simple Syrup",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Add all ingredients into a shaker with ice.\n2. Shake and pour into a double rocks glass or a highball glass. \n\n * The Martinique molasses rum used by Trader Vic was not an Agricole rum but a type of \"rummy\" from molasses.",
+                "Garnish": "Garnish with pineapple spear, mint leaves, and lime peel.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Manhattan",
+                "Ingredients": [
+                    {
+                        "Volume": "50 ml",
+                        "Name": "Rye Whiskey",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "20 ml",
+                        "Name": "Sweet Red Vermouth",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "1 dash",
+                        "Name": "Angostura Bitters",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into a chilled cocktail glass.",
+                "Garnish": "Garnish with a cocktail cherry.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Margarita",
+                "Ingredients": [
+                    {
+                        "Volume": "50 ml",
+                        "Name": "Tequila 100% Agave",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "20 ml",
+                        "Name": "Triple Sec",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Freshly Squeezed Lime Juice",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Add all ingredients into a shaker with ice.\n2. Shake and strain into a chilled cocktail glass",
+                "Garnish": "Half salt rim (Optional)",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Martinez",
+                "Ingredients": [
+                    {
+                        "Volume": "45 ml",
+                        "Name": "London Dry Gin",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "45 ml",
+                        "Name": "Sweet Red Vermouth",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "1 Bar Spoon",
+                        "Name": "Maraschino Liqueur",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "2 Dashes",
+                        "Name": "Orange Bitters",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into a chilled cocktail glass.",
+                "Garnish": "Lemon zest.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Mary Pickford",
+                "Ingredients": [
+                    {
+                        "Volume": "45 ml",
+                        "Name": "White Rum",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "45 ml",
+                        "Name": "Fresh Pineapple Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "7.5 ml",
+                        "Name": "Maraschino Luxardo",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "5 ml",
+                        "Name": "Grenadine Syrup",
+                        "Optional": false
+                    }
+                ],
+                "Method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Mimosa",
+                "Ingredients": [
+                    {
+                        "Volume": "75 ml",
+                        "Name": "Fresh orange juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "75 ml",
+                        "Name": "Prosecco",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1.Pour orange juice into a flute glass and gently pour the sparkling wine.\n2. Stir gently.\n\n Note : Also known as Buck's Fizz.",
+                "Garnish": "Garnish with an orange twist (optional).",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Mint Julep",
+                "Ingredients": [
+                    {
+                        "Volume": "60 ml",
+                        "Name": "Bourbon Whiskey",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "4",
+                        "Name": "fresh Mint sprigs",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "1 teaspoon",
+                        "Name": "Powdered Sugar",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "2 teaspoons",
+                        "Name": "Water",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. In Julep Stainless Steel Cup gently muddle the mint with sugar and water.\n2. Fill the glass with cracked ice, add the Bourbon and stir well until the cup frosts.",
+                "Garnish": "Garnish with a mint sprig.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Mojito",
+                "Ingredients": [
+                    {
+                        "Volume": "45 ml",
+                        "Name": "White Cuban Ron",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "20 ml",
+                        "Name": "Fresh Lime Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "6 pieces",
+                        "Name": "Mint Sprigs",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "2 teaspoons",
+                        "Name": "White Cane Sugar",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "",
+                        "Name": "Soda Water",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Mix mint springs with sugar and lime juice.\n2. Add splash of soda water and fill the glass with ice.\n3. Pour the rum and top with soda water.\n4. Light stir to involve all ingredients.",
+                "Garnish": "Garnish with sprigs of mint and slice of lime.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Monkey Gland",
+                "Ingredients": [
+                    {
+                        "Volume": "45 ml",
+                        "Name": "Dry Gin",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "45 ml",
+                        "Name": "Fresh Orange Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "1 Table Spoon",
+                        "Name": "Absinthe",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "1 Table Spoon",
+                        "Name": "Grenadine Syrup",
+                        "Optional": false
+                    }
+                ],
+                "Method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Moscow Mule",
+                "Ingredients": [
+                    {
+                        "Volume": "45 ml",
+                        "Name": "Smirnoff Vodka",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "120 ml",
+                        "Name": "Ginger Beer",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "10 ml",
+                        "Name": "Fresh lime juice",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. In a Mule Cup or rocks glass, combine the vodka and ginger beer.\n2. Add lime juice and gently stir to involve all ingredients.",
+                "Garnish": "Garnish with a lime slice",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Naked and Famous",
+                "Ingredients": [
+                    {
+                        "Volume": "22.5 ml",
+                        "Name": "Mezcal",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "22.5 ml",
+                        "Name": "Yellow Chartreuse",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "22.5 ml",
+                        "Name": "Aperol",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "22.5 ml",
+                        "Name": "Fresh Lime Juice",
+                        "Optional": false
+                    }
+                ],
+                "Method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Negroni",
+                "Ingredients": [
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Gin",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Bitter Campari",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Sweet Red Vermouth",
+                        "Optional": false
+                    }
+                ],
+                "Method": "Pour all ingredients directly into a chilled old fashioned glass filled with ice, Stir gently.",
+                "Garnish": "Garnish with a half orange slice.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "New York Sour",
+                "Ingredients": [
+                    {
+                        "Volume": "60 ml",
+                        "Name": "Rye Whiskey or Bourbon",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "22.5 ml",
+                        "Name": "Simple syrup",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Fresh lemon juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "Few Drops",
+                        "Name": "Egg White",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Red wine (Shiraz or Malbech)",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients into the shaker.\n2. Shake vigorously with ice.\n3.  Strain into a chilled rocks glass filled with ice.\n4. Float the wine on top.",
+                "Garnish": "Garnish with lemon or orange zest with cherry.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Old Cuban",
+                "Ingredients": [
+                    {
+                        "Volume": "6/8 pieces",
+                        "Name": "Mint Leaves",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "45 ml",
+                        "Name": "Aged Rum",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "22.5 ml",
+                        "Name": "Fresh Lime Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Simple Syrup",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "2 Dashes",
+                        "Name": "Angostura Bitters",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "60 ml",
+                        "Name": "Brut Champagne or Prosecco",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients into cocktail shaker except the wine, shake well with ice, strain into chilled elegant cocktail glass.\n2. Top up with the sparkling wine.",
+                "Garnish": "Garnish with mint springs.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Old Fashioned",
+                "Ingredients": [
+                    {
+                        "Volume": "45 ml",
+                        "Name": "Bourbon or Rye Whiskey",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "1",
+                        "Name": "Sugar Cube",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "Few Dashes",
+                        "Name": "Angostura Bitters",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "Few Dashes",
+                        "Name": "Angostura Bitters",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Place sugar cube in old fashioned glass and saturate with bitter, add few dashes of plain water.\n2. Muddle until dissolved.\n3. Fill the glass with ice cubes and add whiskey.\n4. Stir gently.",
+                "Garnish": "Garnish with an orange slice or zest, and a cocktail cherry.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Paloma",
+                "Ingredients": [
+                    {
+                        "Volume": "50 ml",
+                        "Name": "100% Agave Tequila",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "5 ml",
+                        "Name": "Fresh lime",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "A pinch",
+                        "Name": "Salt",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "100 ml",
+                        "Name": "Pink Grapefruit Soda",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Poor the tequila into a highball glass, squeeze the lime juice.\n2. Add ice and salt, fill up pink grapefruit soda.\n3. Stir gently.",
+                "Garnish": "Garnish with a slice of lime.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Paper Plane",
+                "Ingredients": [
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Bourbon Whiskey",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Amaro Nonino",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Aperol",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Fresh Lemon Juice",
+                        "Optional": false
+                    }
+                ],
+                "Method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Paradise",
+                "Ingredients": [
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Gin",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "20 ml",
+                        "Name": "Apricot Brandy",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Fresh Orange Juice",
+                        "Optional": false
+                    }
+                ],
+                "Method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Penicillin",
+                "Ingredients": [
+                    {
+                        "Volume": "60 ml",
+                        "Name": "Blended Scotch Whisky",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "7.5 ml",
+                        "Name": "Lagavulin 16y Whisky",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "22.5 ml",
+                        "Name": "Fresh Lemon Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "22.5 ml",
+                        "Name": "Honey Syrup",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "2-3 quarter size",
+                        "Name": "Sliced Fresh Ginger",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Muddle fresh ginger in a shaker and add the remaining ingredients, except for the Islay single malt whiskey.\n2. Fill the shaker with ice and shake.\n3. Double-strain into a chilled old fashioned glass with ice.\n4. Float the single malt whisky on top.",
+                "Garnish": "Garnish with candied ginger.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Pina Colada",
+                "Ingredients": [
+                    {
+                        "Volume": "50 ml",
+                        "Name": "White Rum",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Coconut Cream",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "50 ml",
+                        "Name": "Fresh Pineapple Juice",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Blend all the ingredients with ice in an electric blender, pour into a large glass, and serve with straws. \n\n Note : Historically a few drops of fresh lime juice were added to taste.\n4 slices of fresh pineapple can be used instead of juice",
+                "Garnish": "Garnish with a slice of pineapple with a cocktail cherry.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "피스코 사워",
+                "Ingredients": [
+                    {
+                        "Volume": "60 ml",
+                        "Name": "Pisco",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Fresh Lemon Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "20 ml",
+                        "Name": "Simple Syrup",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "1",
+                        "Name": "Egg White",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Add all ingredients into a shaker with ice.\n2. Shake and strain into a chilled goblet glass.",
+                "Garnish": "Few dashes of Amargo bitters on top as an aromatic garnish.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Planter's Punch",
+                "Ingredients": [
+                    {
+                        "Volume": "45 ml",
+                        "Name": "Jamaican Rum",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Lime Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Sugar Cane Juice",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients directly in a small tumbler or a typical terracotta glass.\n\nNOTE : Add dilution up to taste, it can be given by water, ice or fresh juices.",
+                "Garnish": "Garnish with orange zest.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Porto Flip",
+                "Ingredients": [
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Brandy",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "45 ml",
+                        "Name": "Red Tawny Port Wine",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "10 ml",
+                        "Name": "Egg Yolk",
+                        "Optional": false
+                    }
+                ],
+                "Method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+                "Garnish": "Sprinkle with fresh ground nutmeg.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Ramos Fizz",
+                "Ingredients": [
+                    {
+                        "Volume": "45 ml",
+                        "Name": "Gin",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Fresh Lime Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Fresh Lemon Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Sugar Syrup",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "60 ml",
+                        "Name": "Cream",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Egg white",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "3 Dashes",
+                        "Name": "Orange Flower Water",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "2 Drops",
+                        "Name": "Vanilla Extract",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "",
+                        "Name": "Soda Water",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients except soda water in a cocktail shaker with ice, Shake for two minutes, double strain in a glass, pour the drink back in the shaker, and hard shake without ice for one minute.\n2. Strain into a highball glass, top up with soda.\n\nNOTE : The drink was invented by Henry Ramos in 1888, at his bar Meyer's Table d'Hôtel Internationale in New Orleans.\n The Ramos Fizz was originally shaken for 12 minutes by a crew of 30 bartenders who passed the shaker from one to another.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Russian Spring Punch",
+                "Ingredients": [
+                    {
+                        "Volume": "25 ml",
+                        "Name": "Vodka",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "25 ml",
+                        "Name": "Fresh Lemon Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Crème de Cassis",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "10 ml",
+                        "Name": "Sugar syrup",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "Top up",
+                        "Name": "Sparkling wine",
+                        "Optional": false
+                    }
+                ],
+                "Method": "Pour all ingredients into a cocktail shaker except the sparkling wine, shake well with ice, strain into a chilled tall tumbler glass filled with ice, and top up with sparkling wine.",
+                "Garnish": "Garnish with blackberries and optionally a lemon slice as well.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Rusty Nail",
+                "Ingredients": [
+                    {
+                        "Volume": "45 ml",
+                        "Name": "Scotch Whisky",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "25ml",
+                        "Name": "Drambuie",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients directly into an old fashioned glass filled with ice.\n2. Stir gently.",
+                "Garnish": "Garnish with lemon zest.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Sazerac",
+                "Ingredients": [
+                    {
+                        "Volume": "50 ml",
+                        "Name": "Cognac",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "10 ml",
+                        "Name": "Absinthe",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "1",
+                        "Name": "Sugar Cube",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "2 Dashes",
+                        "Name": "Peychaud's Bitters",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Rinse a chilled old-fashioned glass with the absinthe, add crushed ice and set it aside.\n2. Stir the remaining ingredients over ice in a mixing glass.\n3. Discard the ice and any excess absinthe from the prepared glass, strain the mixed drink into the glass.\n\nNOTE: The original recipe changed after the American Civil War, Rye Whiskey substituted Cognac as it became hard to obtain.",
+                "Garnish": "Garnish with lemon zest.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Sea Breeze",
+                "Ingredients": [
+                    {
+                        "Volume": "40 ml",
+                        "Name": " Vodka",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "120 ml",
+                        "Name": "Cranberry Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Grapefruit Juice",
+                        "Optional": false
+                    }
+                ],
+                "Method": "Build all ingredients in a highball glass filled with ice.",
+                "Garnish": "Garnish with orange zest and cherry",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Sex on the Beach",
+                "Ingredients": [
+                    {
+                        "Volume": "40 ml",
+                        "Name": "Vodka",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "20 ml",
+                        "Name": "Peach Schnapps",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "40 ml",
+                        "Name": "Fresh Orange Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "40 ml",
+                        "Name": "Cranberry Juice",
+                        "Optional": false
+                    }
+                ],
+                "Method": "Build all ingredients in a highball glass filled with ice.",
+                "Garnish": "Garnish with a half orange slice.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Sidecar",
+                "Ingredients": [
+                    {
+                        "Volume": "50 ml",
+                        "Name": "Cognac",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "20 ml",
+                        "Name": "Triple Sec",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "20 ml",
+                        "Name": "Fresh Lemon Juice",
+                        "Optional": false
+                    }
+                ],
+                "Method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Singapore Sling",
+                "Ingredients": [
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Gin",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Cherry liqueur",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "7.5 ml",
+                        "Name": "Cointreau",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "7.5 ml",
+                        "Name": "DOM Bénédictine",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "120 ml",
+                        "Name": "Fresh Pineapple Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Fresh Lime Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "10 ml",
+                        "Name": "Grenadine Syrup",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "A dash",
+                        "Name": "Angostura bitters",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients into a cocktail shaker filled with ice cubes.\n2. Shake well.\n3. Strain into Hurricane glass.",
+                "Garnish": "Garnish with pineapple and maraschino cherry",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Spicy Fifty",
+                "Ingredients": [
+                    {
+                        "Volume": "50 ml",
+                        "Name": "Vodka Vanilla",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Elderflower Cordial",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Fresh Lime Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "10 ml",
+                        "Name": "Monin Honey Syrup",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "2 thin Slices",
+                        "Name": "Red Chili Pepper",
+                        "Optional": false
+                    }
+                ],
+                "Method": "Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass.",
+                "Garnish": "Garnish with a red chili pepper",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Spritz",
+                "Ingredients": [
+                    {
+                        "Volume": "90 ml",
+                        "Name": "Prosecco",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "60 ml",
+                        "Name": "Aperol",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "Splash of",
+                        "Name": "Soda water",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Build all ingredients into a wine glass filled with ice.\n2. Stir gently.\n\n NOTE: There are other versions of the Spritz that use Campari, Cynar or Select instead of Aperol.",
+                "Garnish": "Garnish with a slice of orange.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Spritz (ver. Campari",
+                "Ingredients": [
+                    {
+                        "Volume": "90 ml",
+                        "Name": "Prosecco",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "60 ml",
+                        "Name": "Campari",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "Splash of",
+                        "Name": "Soda water",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Build all ingredients into a wine glass filled with ice.\n2. Stir gently.\n\n NOTE: There are other versions of the Spritz that use Aperol, Cynar or Select instead of Campari.",
+                "Garnish": "Garnish with a slice of orange.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Spritz (ver. Select",
+                "Ingredients": [
+                    {
+                        "Volume": "90 ml",
+                        "Name": "Prosecco",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "60 ml",
+                        "Name": "Select",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "Splash of",
+                        "Name": "Soda water",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Build all ingredients into a wine glass filled with ice.\n2. Stir gently.\n\n NOTE: There are other versions of the Spritz that use Campari, Cynar or Aperol instead of Select.",
+                "Garnish": "Garnish with a slice of orange.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Spritz (ver. Cynar",
+                "Ingredients": [
+                    {
+                        "Volume": "90 ml",
+                        "Name": "Prosecco",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "60 ml",
+                        "Name": "Cynar",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "Splash of",
+                        "Name": "Soda water",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Build all ingredients into a wine glass filled with ice.\n2. Stir gently.\n\n NOTE: There are other versions of the Spritz that use Campari, Select or Aperol instead of Cynar.",
+                "Garnish": "Garnish with a slice of orange.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Stinge",
+                "Ingredients": [
+                    {
+                        "Volume": "50 ml",
+                        "Name": "Cognac",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "20 ml",
+                        "Name": "White Crème de Menthe",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into chilled martini cocktail glass.",
+                "Garnish": "Optional mint leave.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Suffering Bastard",
+                "Ingredients": [
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Cognac or Brandy",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Gin",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Fresh Lime Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "2 Dashes",
+                        "Name": "Angostura Bitters",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "Top up",
+                        "Name": "Ginger beer",
+                        "Optional": false
+                    }
+                ],
+                "Method": "Pour all ingredients into a cocktail shaker except the ginger beer, shake well with ice, Pour unstrained into a Collins glass or in the original S. Bastard mug and top up with ginger beer.",
+                "Garnish": "Garnish with mint springs and optionally an orange slice as well.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Tequila Sunrise",
+                "Ingredients": [
+                    {
+                        "Volume": "45ml",
+                        "Name": "Tequila",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "90 ml",
+                        "Name": "Fresh Orange Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Grenadine Syrup",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour tequila and orange juice directly into highball glass filled with ice cubes.\n2. Add the grenadine syrup to create chromatic effect (sunrise), do not stir.",
+                "Garnish": "Garnish with half orange slice or an orange zest",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Tipperary",
+                "Ingredients": [
+                    {
+                        "Volume": "50 ml",
+                        "Name": "Irish Whiskey",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "25 ml",
+                        "Name": "Sweet Red Vermouth",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Green Chartreuse",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "2 Dashes",
+                        "Name": "Angostura Bitters",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into chilled martini cocktail glass.",
+                "Garnish": "Garnish with a slice of orange.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Tommy's Margarita",
+                "Ingredients": [
+                    {
+                        "Volume": "60 ml",
+                        "Name": "Tequila Agave 100% Reposado",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Fresh Lime Juice (Persiano)",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Agave Syrup (1/2 Water + 1/2 Agave Nectar)",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled rocks glass filled with ice.",
+                "Garnish": "Garnish with a lime slice.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Trinidad Sour",
+                "Ingredients": [
+                    {
+                        "Volume": "45 ml",
+                        "Name": "Angostura Bitters",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Orgeat Syrup",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "22.5 ml",
+                        "Name": "Fresh Lemon Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Rye Whisky",
+                        "Optional": false
+                    }
+                ],
+                "Method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Tuxedo",
+                "Ingredients": [
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Old Tom Gin",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Dry Vermouth",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "1/2 Bar Spoon",
+                        "Name": "Maraschino Luxardo",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "1/4 Bar Spoon",
+                        "Name": "Absinthe",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "3 Dashes",
+                        "Name": "Orange Bitters",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into chilled martini cocktail glass.",
+                "Garnish": "Garnish with cherry and lemon zest",
+                "Histoy": "None"
+            },
+            {
+                "Name": "VE.N.TO",
+                "Ingredients": [
+                    {
+                        "Volume": "45 ml",
+                        "Name": "White Smooth Grappa",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "22.5 ml",
+                        "Name": "Fresh lemon Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Honey mix (replace water with chamomile)",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Chamomile cordial",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "10ml",
+                        "Name": "Egg White",
+                        "Optional": true
+                    }
+                ],
+                "Method": "1. Pour all ingredients into the shaker.\n2. Shake vigorously with ice.\n3. Strain into a chilled small tumbler glass filled with ice.\n\n Notes : *If desired water can be replaced by chamomile infusion in the honey mix.",
+                "Garnish": "Garnish with lemon zest and white grapes.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Vesper",
+                "Ingredients": [
+                    {
+                        "Volume": "45 ml",
+                        "Name": "Gin",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Vodka",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "7.5 ml",
+                        "Name": "Lillet Blanc",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients into a cocktail shaker filled with ice cubes.\n2. Shake and strain into a chilled cocktail glass.",
+                "Garnish": "Lemon zest",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Vieux Carrè",
+                "Ingredients": [
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Rye Whiskey",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Cognac",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Sweet Vermouth",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "1 Bar Spoon",
+                        "Name": "Bénédictine",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "2 Dashes",
+                        "Name": "Peychaud's Bitters",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into a chilled cocktail glass.",
+                "Garnish": "Garnish with orange zest and maraschino cherry.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Whiskey Sour",
+                "Ingredients": [
+                    {
+                        "Volume": "45 ml",
+                        "Name": "Bourbon Whiskey",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "25 ml",
+                        "Name": "Fresh Lemon Juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "20 ml",
+                        "Name": "Sugar Syrup",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "20 ml",
+                        "Name": "Egg White",
+                        "Optional": true
+                    }
+                ],
+                "Method": "1. Pour all ingredients into a cocktail shaker filled with ice.\n2. Shake well\n3. Strain into cobbler glass.\n4. If served \"On the rocks\", strain ingredients into an old fashioned glass filled with ice.\n\nNOTE : If egg white is used shake little harder to release and incorporate the foam from the egg white.",
+                "Garnish": "Garnish with a half orange slice and maraschino cherry, optionally use orange zest.",
+                "Histoy": "None"
+            },
+            {
+                "Name": "White Lady",
+                "Ingredients": [
+                    {
+                        "Volume": "40 ml",
+                        "Name": "Gin",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Triple Sec",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "20 ml",
+                        "Name": "Fresh Lemon Juice",
+                        "Optional": false
+                    }
+                ],
+                "Method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Yellow Bird",
+                "Ingredients": [
+                    {
+                        "Volume": "30 ml",
+                        "Name": "White rum",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Galliano",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Triple Sec",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Fresh Lime Juice",
+                        "Optional": false
+                    }
+                ],
+                "Method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+                "Garnish": "N/A",
+                "Histoy": "None"
+            },
+            {
+                "Name": "Zombie",
+                "Ingredients": [
+                    {
+                        "Volume": "45 ml",
+                        "Name": "Jamaican dark rum",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "45 ml",
+                        "Name": "Gold Puerto Rican rum",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "30 ml",
+                        "Name": "Demerara Rum",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "20 ml",
+                        "Name": "Fresh lime juice",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Falernum",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "15 ml",
+                        "Name": "Donn's Mix*",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "1 teaspoon",
+                        "Name": "Grenadine syrup",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "1 dash",
+                        "Name": "Angostura bitters",
+                        "Optional": false
+                    },
+                    {
+                        "Volume": "6 drops",
+                        "Name": "Pernod",
+                        "Optional": false
+                    }
+                ],
+                "Method": "1. Add all ingredients into an electric blender with 170 grams of cracked ice.\n2. With pulse bottom blend for a few seconds.\n3. Serve in a tall tumbler glass.\n\nNote : *Donn's Mix: 2 parts of fresh yellow grapefruit and 1 part of cinnamon syrup",
+                "Garnish": "Garnish with mint leaves.",
+                "Histoy": "None"
+            }
+        ]
+    }
+}
