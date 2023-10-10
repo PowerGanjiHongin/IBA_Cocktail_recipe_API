@@ -22,4 +22,4 @@ jobs:
       run: npm install
 
     - name: Start Express Server
-      run: node index.js # Express 서버를 실행합니다.
+      run: node index.js & # Express 서버를 실행합니다.
