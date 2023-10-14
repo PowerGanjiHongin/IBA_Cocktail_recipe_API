@@ -3,8 +3,8 @@
         "ShopInfo": [
             {
 				"ID" : "OneDayID_001",
-				"Image" : "",
-				"Shop": "js.lounge",
+				"Image" : "/OneDayClass/JSLounge",
+				"Shop": "JSLounge",
                 "Subtitle" : "칵테일원데이클래스",
                 "Address_category" : "서울/인천/경기",
                 "Address": "대한민국 서울특별시 마포구 망원1동 월드컵로15길 56 1층",
@@ -16,7 +16,7 @@
             },
             {
 				"ID" : "OneDayID_002",
-				"Image" : "",
+				"Image" : "/OneDayClass/바결",
 				"Shop": "연남동 핫플 바결",
                 "Subtitle" : "하루만에 배우는 칵테일 클래스",
                 "Address_category" : "서울/인천/경기",
@@ -29,7 +29,7 @@
             },
             {
 				"ID" : "OneDayID_003",
-				"Image" : "",
+				"Image" : "/OneDayClass/퍼지네이블",
 				"Shop": "퍼지네이블(서면점)",
                 "Subtitle" : "퍼지네이블 홈칵테일 원데이클래스",
                 "Address_category" : "경상/대구/부산",
@@ -42,7 +42,7 @@
             },
             {
 				"ID" : "OneDayID_004",
-				"Image" : "",
+				"Image" : "/OneDayClass/바담",
 				"Shop": "바담",
                 "Subtitle" : "일일 바텐더가 되어 전통주로 칵테일 만들어보기",
                 "Address_category" : "서울/경기",
@@ -55,8 +55,8 @@
             },
             {
 				"ID" : "OneDayID_005",
-				"Image" : "",
-				"Shop": "바담",
+				"Image" : "/OneDayClass/펍씨",
+				"Shop": "펍씨",
                 "Subtitle" : "도전! 나도 바텐더, 원데이 칵테일클래스",
                 "Address_category" : "서울/경기",
                 "Address": "경기 안산시 단원구 광덕3로 135-4 110호 바담",
@@ -68,7 +68,7 @@
             },
             {
 				"ID" : "OneDayID_006",
-				"Image" : "",
+				"Image" : "/OneDayClass/로비듀",
 				"Shop": "로비듀",
                 "Subtitle" : "(서울) 칵테일 초급반",
                 "Address_category" : "서울/경기",
