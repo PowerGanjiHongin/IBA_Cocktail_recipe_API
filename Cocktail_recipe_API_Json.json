@@ -3,7 +3,7 @@
         "Cocktail recipe": [
             {
 				"ID" : "IBA_ 0001",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/problem/Alexander.png",
+				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Alexander.webp",
 				"Name": "Alexander",
                 "Ingredients": [
                     {
@@ -53,7 +53,7 @@
             },
             {
 				"ID" : "IBA_ 0003",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Alexandra.jpg",
+				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/problem/Alexandra.jpg",
 				"Name": "Alexandra",
                 "Ingredients": [
                     {
@@ -743,7 +743,7 @@
             },
             {
 				"ID" : "IBN_0028",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/problem/Corpse Reviver #2.jpg",
+				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/problem/Corpse Reviver2.jpg",
 				"Name": "Corpse Reviver #2",
                 "Ingredients": [
                     {
