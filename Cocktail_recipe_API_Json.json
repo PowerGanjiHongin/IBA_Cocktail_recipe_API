@@ -3,7 +3,7 @@
         "Cocktail recipe": [
             {
 				"ID" : "IBA_ 0001",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Alexander.webp",
+				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/problem/Alexander.png",
 				"Name": "Alexander",
                 "Ingredients": [
                     {
@@ -243,7 +243,7 @@
             },
             {
 				"ID" : "IBN_0010",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Bee's Knees.webp",
+				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/problem/Bee's Knees.jpg",
 				"Name": "Bee's Knees",
                 "Ingredients": [
                     {
@@ -743,7 +743,7 @@
             },
             {
 				"ID" : "IBN_0028",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Corpse Reviver #2.webp",
+				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/problem/Corpse Reviver #2.webp",
 				"Name": "Corpse Reviver #2",
                 "Ingredients": [
                     {
@@ -2473,7 +2473,7 @@
             },
             {
 				"ID" : "IBN_0087",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Spritz (ver. Select.webp",
+				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/problem/Spritz (ver. Select.webp",
 				"Name": "Spritz (ver. Select",
                 "Ingredients": [
                     {
