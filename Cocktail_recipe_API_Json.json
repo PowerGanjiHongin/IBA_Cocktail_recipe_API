@@ -3,8 +3,10 @@
         "Cocktail recipe": [
             {
 				"ID" : "IBA_ 0001",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Alexander.webp",
+				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Alexander.webp",                
 				"Name": "Alexander",
+                "Kor_name" : "알렉산더",
+                "Taste": "코냑의 진한향과 Crème de Cacao의 달달함, Fresh Cream의 부드러움이 섞인 진하고 달달한 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
