@@ -3,7 +3,7 @@
         "ShopInfo": [
             {
 				"ID" : "OneDayID_001",
-				"Image" : "https://github.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/blob/main/OneDayClass/JSLounge.jpg",
+				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/OneDayClass/JSLounge.jpg",
 				"Shop": "JSLounge",
                 "Subtitle" : "칵테일원데이클래스",
                 "Address_category" : "서울/인천/경기",
@@ -16,7 +16,7 @@
             },
             {
 				"ID" : "OneDayID_002",
-				"Image" : "https://github.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/blob/main/OneDayClass/바결.jpg",
+				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/OneDayClass/바결.jpg",
 				"Shop": "연남동 핫플 바결",
                 "Subtitle" : "하루만에 배우는 칵테일 클래스",
                 "Address_category" : "서울/인천/경기",
@@ -29,7 +29,7 @@
             },
             {
 				"ID" : "OneDayID_003",
-				"Image" : "https://github.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/blob/main/OneDayClass/퍼지네이블.jpg",
+				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/OneDayClass/퍼지네이블.jpg",
 				"Shop": "퍼지네이블(서면점)",
                 "Subtitle" : "퍼지네이블 홈칵테일 원데이클래스",
                 "Address_category" : "경상/대구/부산",
@@ -42,7 +42,7 @@
             },
             {
 				"ID" : "OneDayID_004",
-				"Image" : "https://github.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/blob/main/OneDayClass/바담.jpg",
+				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/OneDayClass/바담.jpg",
 				"Shop": "바담",
                 "Subtitle" : "일일 바텐더가 되어 전통주로 칵테일 만들어보기",
                 "Address_category" : "서울/경기",
@@ -55,7 +55,7 @@
             },
             {
 				"ID" : "OneDayID_005",
-				"Image" : "https://github.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/blob/main/OneDayClass/펍씨.jpg",
+				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/OneDayClass/펍씨.jpg",
 				"Shop": "펍씨",
                 "Subtitle" : "도전! 나도 바텐더, 원데이 칵테일클래스",
                 "Address_category" : "서울/경기",
@@ -68,7 +68,7 @@
             },
             {
 				"ID" : "OneDayID_006",
-				"Image" : "https://github.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/blob/main/OneDayClass/로비듀.jpg",
+				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/OneDayClass/로비듀.jpg",
 				"Shop": "로비듀",
                 "Subtitle" : "(서울) 칵테일 초급반",
                 "Address_category" : "서울/경기",
