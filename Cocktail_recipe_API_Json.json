@@ -2,23 +2,21 @@
     "Cocktail": {
         "Cocktail recipe": [
             {
-				"ID" : "IBA_ 0001",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Alexander.webp",                
-				"Name": "Alexander",
-                "Kor_name" : "알렉산더",
+                "ID": "IBA_ 0001",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Alexander.webp",
+                "Name": "Alexander",
+                "Kor_name": "알렉산더",
                 "Taste": "코냑의 진한향과 Crème de Cacao의 달달함, Fresh Cream의 부드러움이 섞인 진하고 달달한 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
                         "Name": "Cognac",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Crème de Cacao (Brown)",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Fresh Cream",
                         "Optional": false
@@ -27,23 +25,22 @@
                 "Method": "1. Pour all ingredients into cocktail shaker filled with ice cubes.\n2. Shake and strain into a chilled cocktail glass.",
                 "Garnish": "Sprinkle fresh ground nutmeg on top.",
                 "Histoy": "The Alexander cocktail was born in London in 1922 by Hery Mc Elhone, at Ciro's Club in honor of a famous bride, at the beginning it was called Panama, Gin was used instead of Cognac and light cocoa cream instead of dark."
-            },
-            {
-				"ID" : "IBA_ 0002",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Grasshopper.webp",
-				"Name": "Grasshopper",
+            }, {
+                "ID": "IBA_ 0002",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Grasshopper.webp",
+                "Name": "Grasshopper",
+                "Kor_name": "그레스 호퍼",
+                "Taste": "알렉산더에서 파생된 칵테일로서 Crème de Menthe에서 상쾌하게 느껴지는 민트의 맛이 일품인 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
                         "Name": "Crème de Menthe (Green)",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Crème de Cacao (White)",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Fresh Cream",
                         "Optional": false
@@ -52,48 +49,46 @@
                 "Method": "1. Pour all ingredients into shaker filled with ice.\n2. Shake briskly for few seconds.\n3. Strain into chilled cocktail glass.",
                 "Garnish": "optional mint leaf",
                 "Histoy": "Alexander's variation"
-            },
-            {
-				"ID" : "IBA_ 0003",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/problem/Alexandra.jpg",
-				"Name": "Alexandra",
+            }, {
+                "ID": "IBA_ 0003",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/problem/Alexandra.jpg",
+                "Name": "Alexandra",
+                "Kor_name": "알렉산드라",
+                "Taste": "알랙산더의 파생된 칵테일로 아이스 코코아 크림에서 나오는 진한 코코아 맛의 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
                         "Name": "Cognac",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Crème de Cacao (Brown)",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
-                        "Name": " light cocoa cream",
+                        "Name": "light cocoa cream",
                         "Optional": false
                     }
                 ],
                 "Method": "1. Pour all ingredients into cocktail shaker filled with ice cubes.\n2. Shake and strain into a chilled cocktail glass.",
                 "Garnish": "Sprinkle cocoa on top.",
                 "Histoy": "Alexander's variation"
-            },
-            {
-				"ID" : "IBN_0004",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Alexanders Sister.webp",
-				"Name": "Alexander's Sister",
+            }, {
+                "ID": "IBN_0004",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Alexanders Sister.webp",
+                "Name": "Alexander's Sister",
+                "Kor_name": "알렉산더스 시스터",
+                "Taste": "알렉산더에서 파생된 칵테일로 코냑의 묵직함과 crème de menthe의 상쾌한 민크향이 어우러져 부드러운 우유에 휘감긴 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
                         "Name": "Cognac",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "crème de menthe",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": " Fresh Cream",
                         "Optional": false
@@ -102,23 +97,22 @@
                 "Method": "1. Pour all ingredients into cocktail shaker filled with ice cubes.\n2. Shake and strain",
                 "Garnish": "Sprinkle fresh ground nutmeg on top.",
                 "Histoy": "Alexander's variation"
-            },
-            {
-				"ID" : "IBN_0005",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Alejandro.webp",
-				"Name": "Alejandro",
+            }, {
+                "ID": "IBN_0005",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Alejandro.webp",
+                "Name": "Alejandro",
+                "Kor_name": "알레한드로",
+                "Taste": "알렉산더에서 파생된 칵테일로 코냑 대신 럼이 들어가 Crème de Cacao과 생크림의 부드럼움을 더욱 잘 느낄 수 있는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
                         "Name": "rum",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Crème de Cacao (Brown)",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Fresh Cream",
                         "Optional": false
@@ -127,23 +121,22 @@
                 "Method": "1. Pour all ingredients into cocktail shaker filled with ice cubes.\n2. Shake and strain into a chilled cocktail glass.",
                 "Garnish": "Sprinkle fresh ground nutmeg on top.",
                 "Histoy": "The Alexander cocktail was born in London in 1922 by Hery Mc Elhone, at Ciro's Club in honor of a famous bride, at the beginning it was called Panama, Gin was used instead of Cognac and light cocoa cream instead of dark."
-            },
-            {
-				"ID" : "IBN_0006",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Americano.webp",
-				"Name": "Americano",
+            }, {
+                "ID": "IBN_0006",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Americano.webp",
+                "Name": "Americano",
+                "Kor_name": "아메리카노",
+                "Taste": "캄파리의 쌉쌀함과 스위트 베르무트의 단맛이 탄산을 더하여 식사 전 입맛을 돋구기 좋은 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
                         "Name": "Bitter Campari",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Sweet Red Vermouth",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "A Splash",
                         "Name": "Soda Water",
                         "Optional": false
@@ -152,23 +145,22 @@
                 "Method": "1. Mix the ingredients directly in an old fashioned glass filled with ice cubes.\n2. Add a splash of Soda Water.\n3. Stir gently.",
                 "Garnish": "Garnish with half orange slice and a lemon zest.",
                 "Histoy": "The story of the Americano dates back to the second half of the 1800s in Gaspare Campari's bar in Milan. Over the years the cocktail acquires notoriety thanks to some homages from the world of cinema, including James Bond (007 Casino Royale) whose favorite cocktail was, precisely, the Americano. \nThe nickname \"American\" was born when Primo Carnera, a giant Italian boxer, became world heavyweight champion at Madison Square Garden in New York. When Carnera returned to Italy with the title, he was greeted with this very Italian cocktail which, for the occasion, was called \"Americano\". \nThe Americano entered the IBA Cocktail List only in 1987 but, in reality, it was a cocktail that spread all over Italy during the 1930s."
-            },
-            {
-				"ID" : "IBN_0007",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Angel Face.webp",
-				"Name": "Angel Face",
+            }, {
+                "ID": "IBN_0007",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Angel Face.webp",
+                "Name": "Angel Face",
+                "Kor_name": "엔젤 페이스",
+                "Taste": "진, 칼바도스, 살구 브렌디를 얼음과 함께 차갑게 쉐이킹한 칵테일로 칼바도스와 에프리콧 브랜디의 산뜻한 과일항이 일품인 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
                         "Name": "Gin",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Apricot Brandy",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Calvados",
                         "Optional": false
@@ -177,28 +169,26 @@
                 "Method": "1. Pour all ingredients into cocktail shaker filled with ice cubes.\n2. Shake and strain into a chilled cocktail glass.",
                 "Garnish": "N/A",
                 "Histoy": "Although the origin of the cocktail is not known, the main hypotheses assume that it was born in the twenties of the twentieth century in France: this thesis would prove the presence of calvados, a liqueur commonly used in France and, in particular, in that period, as an epidemic of phylloxera in European vineyards had limited the production of brandy. On this basis, one of the most frequent hypotheses has it that the cocktail was created by Harry MacElhone, founder of Harry's New York Bar in Paris on July 19, 1919, in honor of the celebrations for the victory of the First World War. The first reliable evidence, however, dates back to 1930 when Harry Craddock included the Angel Face among the recipes of his book \"Savoy cocktail book\". Some sources indicate that the name derives from that of an American gangster active during Prohibition; less likely the dedication to Rick Blaine, the protagonist of Casablanca played by Humphrey Bogart, as the film follows the first testimonies (1942)."
-            },
-            {
-				"ID" : "IBN_0008",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Aviation.webp",
-				"Name": "Aviation",
+            }, {
+                "ID": "IBN_0008",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Aviation.webp",
+                "Name": "Aviation",
+                "Kor_name": "에비테이션",
+                "Taste": "쏘는 듯한 신맛 아래 잔잔하게 깔리는 은은한 단맛의 무게감이 느껴지며 진과 Crème de Violette의 화려한 향이 잘 어울리는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
                         "Name": "Gin",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Maraschino Luxardo",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Fresh Lemon Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "1 Bar Spoon",
                         "Name": "Crème de Violette",
                         "Optional": false
@@ -207,33 +197,30 @@
                 "Method": "1. Add all ingredients into a cocktail shaker.\n2. Shake with cracked ice and strain into a chilled cocktail glass.",
                 "Garnish": "N/A",
                 "Histoy": "Aviation was created in New York at the Walkick hotel by the head bartender Hugo Ensslin while he was writing his book \"Recipes for Mixed Drinks\" (1916) one of the last cocktail books published before the start of American Prohibition.\nLately David Wondrich found the aviation recipe in a 1911 magazine, so the recipe is thought to have been born earlier then 1916.\n In his book Ensslin also indicates the type of Gin to be used 'El Bart Gin \"and the recipe is made up in addition to gin, with lemon juice, maraschino Luxardo and Creme di Violette.\nThe recipe is found again in Harry Craddock's 1930 Savoy Cocktail Book but without the Creme de Violette, this probably due to the difficulty of finding the violet cream during the post-war period In the 1960s it was still unavailable and therefore, simply, the basic ingredient of the Aviation cocktail was discontinued and the bartenders definitively gave up the characteristic blue color of the drink.\nThe IBA proposes it today in its original version with the creme de violette which is now on the market again.  This fragrant ingredient not only gave the mix a sweetly floral taste, but also gave it a beautiful sky blue color."
-            },
-            {
-				"ID" : "IBN_0009",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Barracuda.webp",
-				"Name": "Barracuda",
+            }, {
+                "ID": "IBN_0009",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Barracuda.webp",
+                "Name": "Barracuda",
+                "Kor_name": "바라쿠다",
+                "Taste": "럼 베이스의 칵테일로 허브 리큐르인 갈리아노와 파인애플 주스 라임 주스 탄산이 가미된 프로세코 와인이 한데 어우러져 하와이안 느낌의 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
                         "Name": "Gold Rum",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Galliano",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "60 ml",
                         "Name": "Fresh Pineapple Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "1 dash",
                         "Name": "Fresh Lime Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "Top up",
                         "Name": "Prosecco",
                         "Optional": false
@@ -242,28 +229,26 @@
                 "Method": "1. Pour all ingredients into cocktail shaker except the Prosecco, shake well with ice.\n2. strain into chilled highball glass filled with ice and top up with Prosecco.",
                 "Garnish": "Pineapple and Cherry, optional mint sprig for additional aroma.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0010",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/problem/Bee's Knees.jpg",
-				"Name": "Bee's Knees",
+            }, {
+                "ID": "IBN_0010",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/problem/Bee's Knees.jpg",
+                "Name": "Bee's Knees",
+                "Kor_name": "비즈니스",
+                "Taste": "꿀을 넣은 진 베이스의 칵테일로 꿀 특유의 단맛과 풍미를 느낄 수 있는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "52.5 ml",
                         "Name": "Dry Gin",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "2 teaspoons",
                         "Name": "Syrup",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "22.5 ml",
                         "Name": "Fresh Lemon Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "22.5 ml",
                         "Name": "Fresh Orange Juice",
                         "Optional": false
@@ -272,18 +257,18 @@
                 "Method": "1. Stir honey with lemon and orange juices until it dissolves, add gin and shake with ice.\n2. Strain into a chilled cocktail glass.",
                 "Garnish": "Optionally garnish with a lemon or orange zest.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0011",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Bellini.webp",
-				"Name": "Bellini",
+            }, {
+                "ID": "IBN_0011",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Bellini.webp",
+                "Name": "Bellini",
+                "Kor_name": "벨레니",
+                "Taste": "톡 쏘는 탄산의 프레스코와 백도 퓨레가 만난 환상적인 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "100 ml",
                         "Name": "Prosecco",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "50 ml",
                         "Name": "White Peach Puree",
                         "Optional": false
@@ -292,18 +277,18 @@
                 "Method": "1. Pour peach puree into the mixing glass with ice, add the Prosecco wine.\n2. Stir gently and pour in a chilled flute glass.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0012",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/PUCCINI.webp",
-				"Name": "PUCCINI",
+            }, {
+                "ID": "IBN_0012",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/PUCCINI.webp",
+                "Name": "PUCCINI",
+                "Kor_name": "푸치니",
+                "Taste": "톡 쏘는 탄산의 프레스코와 감귤 쥬스가 만난 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "100 ml",
                         "Name": "Prosecco",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "50 ml",
                         "Name": "Fresh Mandarin Orange Juice",
                         "Optional": false
@@ -312,18 +297,18 @@
                 "Method": "1. Fresh Mandarin Orange Juice into mixing glass with ice, add prosecco wine.\n2. stir slowly and pour into cold flute glass.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0013",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/ROSSINI.webp",
-				"Name": "ROSSINI",
+            }, {
+                "ID": "IBN_0013",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/ROSSINI.webp",
+                "Name": "ROSSINI",
+                "Kor_name": "루소니",
+                "Taste": "톡쏘는 탄산의 프레스코와 딸기 퓨레가 만난 환상의 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "100 ml",
                         "Name": "Prosecco",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "50 ml",
                         "Name": "Fresh Strawberry Puree",
                         "Optional": false
@@ -332,18 +317,18 @@
                 "Method": "1. Fresh Strawberry Puree into mixing glass with ice, add prosecco wine.\n2. stir slowly and pour into cold flute glass.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0014",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/TINTORETTO.webp",
-				"Name": "TINTORETTO",
+            }, {
+                "ID": "IBN_0014",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/TINTORETTO.webp",
+                "Name": "TINTORETTO",
+                "Kor_name": "틴토레토",
+                "Taste": "톡 쏘는 탄산의 프레스코와 석류주스가 만난 환상의 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "100 ml",
                         "Name": "Prosecco",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "50 ml",
                         "Name": "Fresh Pomegranate Juice.",
                         "Optional": false
@@ -352,28 +337,26 @@
                 "Method": "1. Fresh Pomegranate Juice. into mixing glass with ice, add prosecco wine.\n2. stir slowly and pour into cold flute glass.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0015",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Between the Sheets.webp",
-				"Name": "Between the Sheets",
+            }, {
+                "ID": "IBN_0015",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Between the Sheets.webp",
+                "Name": "Between the Sheets",
+                "Kor_name": "비트윈 더 시트",
+                "Taste": "이불 사이에서라는 이름처럼 자기전 먹기 좋은 칵테일로 부드러운 맛과 뛰어난 향이 특징인 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
                         "Name": "White Rum",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Cognac",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Triple Sec",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "20 ml",
                         "Name": "Fresh Lemon Juice",
                         "Optional": false
@@ -382,18 +365,18 @@
                 "Method": "Add all ingredients into a cocktail shaker. Shake with ice and strain into a chilled cocktail glass.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0016",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Black Russian.webp",
-				"Name": "Black Russian",
+            }, {
+                "ID": "IBN_0016",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Black Russian.webp",
+                "Name": "Black Russian",
+                "Kor_name": "블랙 러시안",
+                "Taste": "보드카와 커피 리큐르라는 단순한 술들의 만나 풍기는 묵직한 매력의 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "50 ml ",
                         "Name": "Vodka",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "20 ml",
                         "Name": "Coffee Liqueur",
                         "Optional": false
@@ -402,23 +385,22 @@
                 "Method": "Pour the ingredients into the old fashioned glass filled with ice cubes.\n2. Stir gently.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0017",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/White Russian.webp",
-				"Name": "White Russian",
+            }, {
+                "ID": "IBN_0017",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/White Russian.webp",
+                "Name": "White Russian",
+                "Kor_name": "화이트 러시안",
+                "Taste": "도수가 강한 블랙 러시안에 생크림이 들어가 카페라떼와 같은 매력을 풍기는 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "50 ml ",
                         "Name": "Vodka",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "20 ml",
                         "Name": "Coffee Liqueur",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "fresh cream",
                         "Optional": false
@@ -427,43 +409,38 @@
                 "Method": "1. Pour the ingredients into the old fashioned glass filled with ice cubes.\n2. Stir gently.\n3. Float fresh cream on the top and stir in slowly.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0018",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Bloody Mary.webp",
-				"Name": "Bloody Mary",
+            }, {
+                "ID": "IBN_0018",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Bloody Mary.webp",
+                "Name": "Bloody Mary",
+                "Kor_name": "블러드 메리",
+                "Taste": "토마토주스와 레몬주스 우스터 소스라는 달달하고 새콤한 재료들 사이에 보드카가 들어간 칵테일로 기호에 따라 타바스코 소스, 후추, 샐러리 소금을 추가해 먹는다.",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
                         "Name": "Vodka",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "90 ml",
                         "Name": "Tomato Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Fresh Lemon Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "2 dashes",
                         "Name": "Worcestershire Sauce",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "Up to taste",
                         "Name": "Tabasco",
                         "Optional": true
-                    },
-                    {
+                    }, {
                         "Volume": "Up to taste",
                         "Name": "Celery Salt",
                         "Optional": true
-                    },
-                    {
+                    }, {
                         "Volume": "Up to taste",
                         "Name": "Pepper ",
                         "Optional": true
@@ -472,23 +449,22 @@
                 "Method": "Stir gently all the ingredients in a mixing glass with ice, pour into rocks glass. \n\n Note : If requested served with ice, pour into highball glass.",
                 "Garnish": "Celery, Lemon Wedge (Optional)",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0019",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Boulevardier.webp",
-				"Name": "Boulevardier",
+            }, {
+                "ID": "IBN_0019",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Boulevardier.webp",
+                "Name": "Boulevardier",
+                "Kor_name": "불바디에",
+                "Taste": "묵직한 매력의 버번 위스키와 화려한 매력의 캄파리, 베르무트가 섞여 달콤하면서도 쌈쌀한 매력을 뽐내는 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
                         "Name": "Bourbon or Rye Whiskey",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Bitter Campari",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Sweet Red Vermouth",
                         "Optional": false
@@ -497,28 +473,26 @@
                 "Method": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into a chilled cocktail glass.",
                 "Garnish": "Garnish with orange zest, optionally a lemon zest.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0020",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Bramble.webp",
-				"Name": "Bramble",
+            }, {
+                "ID": "IBN_0020",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Bramble.webp",
+                "Name": "Bramble",
+                "Kor_name": "브램블",
+                "Taste": "블루베리위스키인 Crème de Mûr와 진, 레몬주스, 설탕 시럽이 섞인 달달하고도 화려한 향이 매력적인 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "50 ml",
                         "Name": "Gin",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "25 ml",
                         "Name": "Fresh Lemon Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "12,5 ml",
                         "Name": "Sugar Syrup",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Crème de Mûr",
                         "Optional": false
@@ -527,38 +501,34 @@
                 "Method": "1. Pour all ingredients into a cocktail shaker except the Crème de Mûre, shake well with ice, strain into chilled old fashioned glass filled with crushed ice, then pour the blackberry liqueur (Crème de Mûre) over the top of the drink, in a circular motion.",
                 "Garnish": "Garnish optionally with a lemon slice and blackberries.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0021",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Brandy Crusta.webp",
-				"Name": "Brandy Crusta",
+            }, {
+                "ID": "IBN_0021",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Brandy Crusta.webp",
+                "Name": "Brandy Crusta",
+                "Kor_name": "브렌디 크러스타",
+                "Taste": "체리 리큐르인 Maraschino Luxardo와 오렌지 리큐르인 큐라소, 레몬주스의 과일향에 브랜드 위스키가 만나 특색있는 맛을 자랑하는 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "52,5 ml",
                         "Name": "Brandy",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "7,5 ml",
                         "Name": "Maraschino Luxardo",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "1 Bar",
                         "Name": "Curacao",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Fresh Lemon Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "1 Bar",
                         "Name": "Simple Syrup",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "2 Dashes",
                         "Name": "Aromatic Bitters",
                         "Optional": false
@@ -567,28 +537,26 @@
                 "Method": "Mix together all ingredients with ice cubes in a mixing glass and strain into prepared slim cocktail glass.",
                 "Garnish": "Rub a slice of orange (or lemon) around the rim of the glass and dip it in pulverized white sugar, so that the sugar will adhere to the edge of the glass. Carefully curling place the orange/lemon peel around the inside of the glass.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0022",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Canchanchara.webp",
-				"Name": "Canchanchara",
+            }, {
+                "ID": "IBN_0022",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Canchanchara.webp",
+                "Name": "Canchanchara",
+                "Kor_name": "칸찬차라",
+                "Taste": "쿠바에서 유래된 칵테일로 라임과 럼, 꿀의 중세적인 맛을 자랑하는 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "60 ml",
-                        "Name": "Cuban Aguardiente",
+                        "Name": "Cuban Aguardiente (Rum, Cachaça)",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Fresh Lime Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Raw Honey",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "50 ml",
                         "Name": "Water",
                         "Optional": false
@@ -597,23 +565,22 @@
                 "Method": "1. Mix honey with water and lime juice and spread the mixture on the bottom and sides of the glass. \n2. Add cracked ice, and then the rum. End by energetically stirring from bottom to top.",
                 "Garnish": "Lime wedge.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0023",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Caipirinha.webp",
-				"Name": "Caipirinha",
+            }, {
+                "ID": "IBN_0023",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Caipirinha.webp",
+                "Name": "Caipirinha",
+                "Kor_name": "카이피라냐",
+                "Taste": "사탕수수 리큐르인 카샤샤와 라임, 백설탕이 만난 달달한 매력이 있는 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "60 ml",
                         "Name": "Cachaça",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "1",
                         "Name": "Lime cut into small wedges",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "4 Teaspoons",
                         "Name": "White Cane Sugar",
                         "Optional": false
@@ -622,23 +589,22 @@
                 "Method": "1. Place lime and sugar into a double old fashioned glass and muddle gently.\n2. Fill the glass with cracked ice and add Cachaça.\n3. Stir gently to involve ingredients.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0024",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/CAIPIROSKA.webp",
-				"Name": "CAIPIROSKA",
+            }, {
+                "ID": "IBN_0024",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/CAIPIROSKA.webp",
+                "Name": "CAIPIROSKA",
+                "Kor_name": "카이피로스카",
+                "Taste": "카이피라냐에서 파생된 칵테일로 카샤샤 대신 보드카가 들어가 조금 더 묵직한 매력을 자랑하는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "60 ml",
                         "Name": "Vodka",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "1",
                         "Name": "Lime cut into small wedges",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "4 Teaspoons",
                         "Name": "White Cane Sugar",
                         "Optional": false
@@ -647,28 +613,26 @@
                 "Method": "1. Place lime and sugar into a double old fashioned glass and muddle gently.\n2. Fill the glass with cracked ice and add Vodka. \n3. Stir gently to involve ingredients.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0025",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Casino.webp",
-				"Name": "Casino",
+            }, {
+                "ID": "IBN_0025",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Casino.webp",
+                "Name": "Casino",
+                "Kor_name": "카지노",
+                "Taste": "올드 톰 진과 체리 리큐르, 오렌지 비터의 화려한 과일향을 느낄 수 있는 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "40 ml",
                         "Name": "Old Tom Gin",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "10 ml",
                         "Name": "Maraschino Luxardo",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "10 ml",
                         "Name": "Fresh Lemon Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "2 Dashes",
                         "Name": "Orange Bitters",
                         "Optional": false
@@ -677,33 +641,30 @@
                 "Method": "Pour all ingredients into cocktails shaker, shake well with ice, strain into chilled rocks glass with ice.",
                 "Garnish": "Garnish with lemon zest and a maraschino cherry.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0026",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Champagne Cocktail.webp",
-				"Name": "Champagne Cocktail",
+            }, {
+                "ID": "IBN_0026",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Champagne Cocktail.webp",
+                "Name": "Champagne Cocktail",
+                "Kor_name": "샴페인 칵테일",
+                "Taste": "탄산주의 대표격인 샴페인과 코냑을 베이스로 만든 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "90 ml",
                         "Name": "Chilled Champagne",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "10 ml",
                         "Name": "Cognac",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "2 dashes",
                         "Name": "Angostura bitters",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "Few drops",
                         "Name": "Grand Marnier",
                         "Optional": true
-                    },
-                    {
+                    }, {
                         "Volume": "1",
                         "Name": "sugar cube",
                         "Optional": false
@@ -712,28 +673,26 @@
                 "Method": "1. Place the sugar cube with 2 dashes of bitters in a large Champagne glass, add the cognac.\n2. Pour gently chilled Champagne.",
                 "Garnish": "Garnish with orange zest and maraschino cherry.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0027",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Clover Club.webp",
-				"Name": "Clover Club",
+            }, {
+                "ID": "IBN_0027",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Clover Club.webp",
+                "Name": "Clover Club",
+                "Kor_name": "클로버 클럽",
+                "Taste": "달캴 흰자의 부드럽고 폭신폭신한 질감과 새콤달콤한 과일 음료수와 같은 매력을 풍기는 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
                         "Name": "Gin",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Raspberry Syrup",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Fresh Lemon Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "Few Drops",
                         "Name": "Egg White",
                         "Optional": false
@@ -742,33 +701,30 @@
                 "Method": "Pour all ingredients into cocktails shaker, shake well with ice, strain into chilled cocktail glass.",
                 "Garnish": "Fresh raspberries.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0028",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/problem/Corpse Reviver2.jpg",
-				"Name": "Corpse Reviver #2",
+            }, {
+                "ID": "IBN_0028",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/problem/Corpse Reviver2.jpg",
+                "Name": "Corpse Reviver #2",
+                "Kor_name": "콥스 리바이버 #2",
+                "Taste": "압생트의 풍미와 함께 달콤상콤한 맛이 특색인 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
                         "Name": "Gin",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Cointreau",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Lillet Blanc",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Fresh Lemon Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "1 dash",
                         "Name": "Absinthe",
                         "Optional": false
@@ -777,28 +733,26 @@
                 "Method": "Pour all ingredients into shaker with ice. Shake well and strain in chilled cocktail glass.",
                 "Garnish": "Garnish with orange zest",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0029",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Cosmopolitan.webp",
-				"Name": "Cosmopolitan",
+            }, {
+                "ID": "IBN_0029",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Cosmopolitan.webp",
+                "Name": "Cosmopolitan",
+                "Kor_name": "코스모폴리탄",
+                "Taste": "크렌베리 주스와 쿠앵트로의 화려한 맛이 일품이 상큼한 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "40 ml",
                         "Name": "Vodka Citron",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Cointreau",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Fresh Lime Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Cranberry Juice",
                         "Optional": false
@@ -807,23 +761,22 @@
                 "Method": "1. Add all ingredients into a cocktail shaker filled with ice.\n2. Shake well and strain into a large cocktail glass.",
                 "Garnish": "Garnish with a lemon twist.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0030",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Cuba Libre.webp",
-				"Name": "Cuba Libre",
+            }, {
+                "ID": "IBN_0030",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Cuba Libre.webp",
+                "Name": "Cuba Libre",
+                "Kor_name": "쿠바 리브레",
+                "Taste": "라임주스와 콜라, 그리고 럼이 은은하게 어우려져 남미 매력이 짙게 풍기는 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "50 ml",
                         "Name": "White Rum",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "120ml",
                         "Name": "Coca Cola",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "10 ml",
                         "Name": "Fresh Lime Juice",
                         "Optional": false
@@ -832,23 +785,22 @@
                 "Method": "Build all ingredients in a highball glass filled with ice.",
                 "Garnish": "Garnish with lime wedge.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0031",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Daiquiri.webp",
-				"Name": "Daiquiri",
+            }, {
+                "ID": "IBN_0031",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Daiquiri.webp",
+                "Name": "Daiquiri",
+                "Kor_name": "다이키리",
+                "Taste": "럼 베이스에 설탕과 라임 주스를 넣은 단순한 매력의 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "60 ml",
                         "Name": "White Cuban Ron",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "20 ml",
                         "Name": "Fresh Lime Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "2 Bar Spoons",
                         "Name": "Superfine Sugar",
                         "Optional": false
@@ -857,18 +809,18 @@
                 "Method": "1. In a cocktail shaker add all ingredients.\n2. Stir well to dissolve the sugar. Add ice and shake.\n3. Strain into chilled cocktail glass.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0032",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Dark 'n' stormy.webp",
-				"Name": "Dark 'n' stormy",
+            }, {
+                "ID": "IBN_0032",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Dark 'n' stormy.webp",
+                "Name": "Dark 'n' stormy",
+                "Kor_name": "다크 앤 스토미",
+                "Taste": "달고 시원한 느낌과 청량감이 풍부하게 느껴지는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "60 ml",
                         "Name": "Goslings Rum",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "100 ml",
                         "Name": "Ginger Beer",
                         "Optional": false
@@ -877,18 +829,18 @@
                 "Method": "In a highball glass filled with ice pour the ginger beer and top floating with the Rum.",
                 "Garnish": "Garnish with a lime wedge or slice.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0033",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Dry Martini.webp",
-				"Name": "Dry Martini",
+            }, {
+                "ID": "IBN_0033",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Dry Martini.webp",
+                "Name": "Dry Martini",
+                "Kor_name": "드라이 마티니",
+                "Taste": "희미한 단맛을 제외하면 무미건조하다고 볼 수 있는 신사들의 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "60 ml",
                         "Name": "Gin",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "10 ml",
                         "Name": "Dry Vermouth",
                         "Optional": false
@@ -897,28 +849,26 @@
                 "Method": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into chilled martini cocktail glass.",
                 "Garnish": "Squeeze oil from lemon peel onto the drink, or garnish with green olives if requested.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0034",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Espresso Martini.webp",
-				"Name": "Espresso Martini",
+            }, {
+                "ID": "IBN_0034",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Espresso Martini.webp",
+                "Name": "Espresso Martini",
+                "Kor_name": "에소프레소 마티니",
+                "Taste": "마티니에서 파생된 칵테일로 실제 에소프레소와 커피 리큐르를 넣어 진한 커피의 향을 느낄 수 있는 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "50 ml",
                         "Name": "Vodka",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Kahlúa",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "10 ml",
                         "Name": "Sugar Syrup",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "1",
                         "Name": "strong Espresso",
                         "Optional": false
@@ -927,18 +877,18 @@
                 "Method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0035",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Fernandito.webp",
-				"Name": "Fernandito",
+            }, {
+                "ID": "IBN_0035",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Fernandito.webp",
+                "Name": "Fernandito",
+                "Kor_name": "페르난디토",
+                "Taste": "페르넷 블랑카의 진한 허브향과 콜라의 달달함이 만난 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "50 ml",
                         "Name": "Fernet Branca",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "Fill up",
                         "Name": "Cola",
                         "Optional": false
@@ -947,28 +897,26 @@
                 "Method": "1. Pour the Fernet Branca into a double old fashioned glass with ice, fill the glass up with Cola.\n2. Gently stir.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0036",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/French 75.webp",
-				"Name": "French 75",
+            }, {
+                "ID": "IBN_0036",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/French 75.webp",
+                "Name": "French 75",
+                "Kor_name": "프렌치 75",
+                "Taste": "달콤 시큼한 맛에 목넘김 후 시원한 청량감을 동시에 느낄 수 있는 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
                         "Name": "Gin",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Fresh Lemon Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Sugar Syrup",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "60 ml",
                         "Name": "Champagne",
                         "Optional": false
@@ -977,18 +925,18 @@
                 "Method": "1. Pour all the ingredients, except Champagne, into a shaker.\n2. Shake well and strain into a Champagne flute.\n3. Top up with Champagne. Stir gently.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0037",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/French Connection.webp",
-				"Name": "French Connection",
+            }, {
+                "ID": "IBN_0037",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/French Connection.webp",
+                "Name": "French Connection",
+                "Kor_name": "프렌치 커넥션",
+                "Taste": "진한 향을 가진 아마레또와 코냑이 어우러져 매력적이고 화려한 향을 가진 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "35 ml",
                         "Name": "Cognac",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "35 ml",
                         "Name": "Amaretto",
                         "Optional": false
@@ -997,23 +945,22 @@
                 "Method": "1. Pour all ingredients directly into an old fashioned glass filled with ice cubes.\n2. Stir gently.",
                 "Garnish": "",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0038",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/French Martini.webp",
-				"Name": "French Martini",
+            }, {
+                "ID": "IBN_0038",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/French Martini.webp",
+                "Name": "French Martini",
+                "Kor_name": "프렌치 마티니",
+                "Taste": "배르무트 대신 라즈베리 리큐르가 들어가고 파인애플 주스까지 합처져 기존의 무미건조한 드라이 마티니보다 훨씬 달달한 매력이 느껴지는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
                         "Name": "Vodka",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Raspberry Liqueur",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Fresh Pineapple Juice",
                         "Optional": false
@@ -1022,28 +969,26 @@
                 "Method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
                 "Garnish": "Squeeze oil from lemon peel onto the drink.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0039",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Gin Fizz.webp",
-				"Name": "Gin Fizz",
+            }, {
+                "ID": "IBN_0039",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Gin Fizz.webp",
+                "Name": "Gin Fizz",
+                "Kor_name": "진 피즈",
+                "Taste": "진고 탄산수가 합쳐지고 레몬 주스와 설탕으로 만든 마치 음료와도 같은 매력이 느껴지는 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
                         "Name": "Gin",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Fresh Lemon Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "10 ml",
                         "Name": "Simple Syrup",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "Splash of",
                         "Name": "Soda Water",
                         "Optional": false
@@ -1052,28 +997,26 @@
                 "Method": "1. Shake all ingredients with ice except soda water.\n2. Pour into thin tall Tumbler glass, top with a splash soda water.\n Note : Serve without ice.",
                 "Garnish": "Garnish with a lemon slice, optional lemon zest.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0040",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Golden Dream.webp",
-				"Name": "Golden Dream",
+            }, {
+                "ID": "IBN_0040",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Golden Dream.webp",
+                "Name": "Golden Dream",
+                "Kor_name": "골든 드림",
+                "Taste": "식후, 호근 자기 전에 마시기 좋은 부드러운 맛이 특징적인 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "20 ml",
                         "Name": "Galliano",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "20 ml",
                         "Name": "Triple Sec",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "20 ml",
                         "Name": "Fresh Orange Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "10 ml",
                         "Name": "Fresh Cream",
                         "Optional": false
@@ -1082,23 +1025,22 @@
                 "Method": "1. Pour all ingredients into shaker filled with ice.\n2. Shake briskly for few seconds.\n3. Strain into chilled cocktail glass.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0041",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Hanky Panky.webp",
-				"Name": "Hanky Panky",
+            }, {
+                "ID": "IBN_0041",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Hanky Panky.webp",
+                "Name": "Hanky Panky",
+                "Kor_name": "행키 팽키",
+                "Taste": "마티니에서 파생된 칵테일로 마티니에서 허브 리큐르인 페르넷 블랑카가 합쳐진 더욱 향이 화려해진 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
                         "Name": "London Dry Gin",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "45 ml",
                         "Name": "Sweet Red Vermouth",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "7.5 ml",
                         "Name": "Fernet Branca",
                         "Optional": false
@@ -1107,28 +1049,26 @@
                 "Method": "1. Pour all ingredients into mixing glass with ice cubes. Stir well.\n2. Strain into chilled cocktail glass.",
                 "Garnish": "Orange zest.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0042",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Hemingway Special.webp",
-				"Name": "Hemingway Special",
+            }, {
+                "ID": "IBN_0042",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Hemingway Special.webp",
+                "Name": "Hemingway Special",
+                "Kor_name": "헤밍웨이 스페셜",
+                "Taste": "단맛이 전혀 없는 자몽과 라임 특유의 쓴맛과 신맛이 올라오며 굉장히 자극적인 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "60 ml",
                         "Name": "Rum",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "40 ml",
                         "Name": "Grapefruit Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Maraschino Luxardo",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Fresh Lime",
                         "Optional": false
@@ -1137,23 +1077,22 @@
                 "Method": "1. Pour all ingredients into a shaker with ice.\n2. Shake well and strain into a large cocktail glass.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0043",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Horse's Neck.webp",
-				"Name": "Horse's Neck",
+            }, {
+                "ID": "IBN_0043",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Horse's Neck.webp",
+                "Name": "Horse's Neck",
+                "Kor_name": "홀시스 넥",
+                "Taste": "가니쉬가 특징적인 진저에일과 코냑의 어우러진 정작한 맛의 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "40 ml",
                         "Name": "Cognac",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "120 ml",
                         "Name": "Ginger Ale",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "1 dash",
                         "Name": "Angostura Bitters",
                         "Optional": true
@@ -1162,43 +1101,38 @@
                 "Method": "1. Pour Cognac and ginger ale directly into a highball glass with ice cubes.\n2. Stir gently.\n3. If preferred, add dashes of Angostura Bitter.",
                 "Garnish": "Garnish with a rind of one lemon spiral.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0044",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Illegal.webp",
-				"Name": "Illegal",
+            }, {
+                "ID": "IBN_0044",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Illegal.webp",
+                "Name": "Illegal",
+                "Kor_name": "일리갈",
+                "Taste": "오버프루프 럼이 들어가 굉장히 강하지만 팔레넘, 데킬라와 체리 리큐르등의 다양한 맛이 어우러지는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
-                        "Name": "Espadin Mezcal",
+                        "Name": "Espadin Mezcal (ex. Tequila)",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Jamaica Overproof White Rum",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Falernum",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "1 Bar Spoon",
                         "Name": "Maraschino Luxardo",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "22.5 ml",
                         "Name": "Fresh Lime Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Simple Syrup",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "Few Drops",
                         "Name": "Egg White",
                         "Optional": true
@@ -1207,28 +1141,26 @@
                 "Method": "1. Pour all ingredients into the shaker.\n2. Shake vigorously with ice.\n3.  Strain into a chilled cocktail glass, or \"on the rocks\" in a traditional clay or terracotta mug.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0045",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Irish Coffee.webp",
-				"Name": "Irish Coffee",
+            }, {
+                "ID": "IBN_0045",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Irish Coffee.webp",
+                "Name": "Irish Coffee",
+                "Kor_name": "아이리쉬 커피",
+                "Taste": "진짜 커피가 들어가 커피의 향과 생크림의 부드러움 아이리시 위스키가 어우러진 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "50 ml",
                         "Name": "Irish Whiskey",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "120 ml",
                         "Name": "Hot coffee",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "50 ml",
                         "Name": "Fresh cream (Chilled)",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "1 teaspoon",
                         "Name": "Sugar",
                         "Optional": false
@@ -1237,28 +1169,26 @@
                 "Method": "1. Warm black coffee is poured into a pre-heated Irish coffee glass.\n2. Whiskey and at least one teaspoon of sugar is added and stirred until dissolved.\n3. Fresh thick chilled cream is carefully poured over the back of a spoon held just above the surface of the coffee.\n4. The layer of cream will float on the coffee without mixing.\n5. Plain sugar can be replaced with sugar syrup",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0046",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/John Collins.webp",
-				"Name": "John Collins",
+            }, {
+                "ID": "IBN_0046",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/John Collins.webp",
+                "Name": "John Collins",
+                "Kor_name": "존 콜린스",
+                "Taste": "시원한 레몬의 상큼함이 주가 되어 청량한 탄산수에 진이 가미된 느낌을 주는 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
                         "Name": "Gin",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Fresh Lemon Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Simple Syrup",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "60 ml",
                         "Name": "Soda Water",
                         "Optional": false
@@ -1267,28 +1197,26 @@
                 "Method": "1. Pour all ingredients directly into a highball filled with ice.\n2. Stir gently.",
                 "Garnish": "Garnish with a lemon slice and maraschino cherry.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0047",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Tom Collins.webp",
-				"Name": "Tom Collins",
+            }, {
+                "ID": "IBN_0047",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Tom Collins.webp",
+                "Name": "Tom Collins",
+                "Kor_name": "톰 콜린스",
+                "Taste": "상큼한 맛이 아주 시원한 느낌의 칵테일로서향은 강한 레몬향에 이어지는 상쾌한 솔향이 시원한 느낌을 선사하는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
                         "Name": "Gin(Old Tom)",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Fresh Lemon Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Simple Syrup",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "60 ml",
                         "Name": "Soda Water",
                         "Optional": false
@@ -1297,18 +1225,18 @@
                 "Method": "1. Pour all ingredients directly into a highball filled with ice.\n2. Stir gently.",
                 "Garnish": "Garnish with a lemon slice and maraschino cherry.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0048",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/KIR.webp",
-				"Name": "KIR",
+            }, {
+                "ID": "IBN_0048",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/KIR.webp",
+                "Name": "KIR",
+                "Kor_name": "키르",
+                "Taste": "Crème de Cassis와 드라이 화이트 와인이 어우러져 와인의 맛에 따라 맛이 다양하게 갈리는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "90 ml",
                         "Name": "Dry White Wine",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "10 ml",
                         "Name": "Crème de Cassis",
                         "Optional": false
@@ -1317,18 +1245,18 @@
                 "Method": "Pour Crème de Cassis into glass, top up with white wine.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0049",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/KIR ROYAL.webp",
-				"Name": "KIR ROYAL",
+            }, {
+                "ID": "IBN_0049",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/KIR ROYAL.webp",
+                "Name": "KIR ROYAL",
+                "Kor_name": "키르 로얄",
+                "Taste": "키르에서 파생된 칵테일로 드라이 화이트 와인이 샴페인으로 변경되어 새콤 달콤한 Crème de Cassis와 샴페인의 환상적인 조합이 특징적인 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "90 ml",
                         "Name": "Champagne",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "10 ml",
                         "Name": "Crème de Cassis",
                         "Optional": false
@@ -1337,28 +1265,26 @@
                 "Method": "Pour Crème de Cassis into glass, top up with champagne.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0050",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Last word.webp",
-				"Name": "Last word",
+            }, {
+                "ID": "IBN_0050",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Last word.webp",
+                "Name": "Last word",
+                "Kor_name": "라스트 워드",
+                "Taste": "허브리큐르와 체리 리큐르가 합쳐져 허브의 향이 가미되어 약간 새콤, 달콤하며 날카로운 맛이 특징적인 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "22.5 ml",
                         "Name": "Gin",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "22.5 ml",
                         "Name": "Green Chartreuse",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "22.5 ml",
                         "Name": "Maraschino Luxardo",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "22.5 ml",
                         "Name": "Fresh Lime Juice",
                         "Optional": false
@@ -1367,23 +1293,22 @@
                 "Method": "1. Add all ingredients into a cocktail shaker.\n2. Shake with ice and strain into a chilled cocktail glass.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0051",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Lemon Drop Martini.webp",
-				"Name": "Lemon Drop Martini",
+            }, {
+                "ID": "IBN_0051",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Lemon Drop Martini.webp",
+                "Name": "Lemon Drop Martini",
+                "Kor_name": "레몬 드롭 마티니",
+                "Taste": "오렌지 껍질 리큐르인 트리플 섹과 시트론 보드카가 섞여 시트러스 향이 매력적으로 다가오는 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
                         "Name": "Vodka Citron",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "20 ml",
                         "Name": "Triple Sec",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Fresh Lemon Juice",
                         "Optional": false
@@ -1392,48 +1317,42 @@
                 "Method": "1. Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
                 "Garnish": "Garnish with sugar rim around the glass.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0052",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Long Island Ice Tea.webp",
-				"Name": "Long Island Ice Tea",
+            }, {
+                "ID": "IBN_0052",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Long Island Ice Tea.webp",
+                "Name": "Long Island Ice Tea",
+                "Kor_name": "롱 아일랜드 아이스티",
+                "Taste": "굉장히 많은 베이스 주들이 들어가 한데 어우려저 마치 홍차와 같은 맛을 내는 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "15 ml",
                         "Name": "Vodka",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Tequila",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "White rum",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Gin",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Cointreau",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Lemon juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "20 ml",
                         "Name": "Simple syrup",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "Top With",
                         "Name": "Cola",
                         "Optional": false
@@ -1442,38 +1361,34 @@
                 "Method": "1. Add all ingredients into a highball glass filled with ice.\n2. Stir gently.",
                 "Garnish": "Lemon Slice (Optional)",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0053",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Mai-Tai.webp",
-				"Name": "Mai-Tai",
+            }, {
+                "ID": "IBN_0053",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Mai-Tai.webp",
+                "Name": "Mai-Tai",
+                "Kor_name": "마이타이",
+                "Taste": "트로피컬 칵테일인 만큼 과일향이 많이 나는 칵테일이지만 럼의 향과 섞여서 달콤상큼한 맛과 강한 알콜맛이 함께 들어와 전반적으로 강한 맛인 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
                         "Name": "Amber Jamaican Rum",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Martinique Molasses Rhum *",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Orange Curacao",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Orgeat Syrup (Almond)",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Fresh Lime Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "7.5 ml",
                         "Name": "Simple Syrup",
                         "Optional": false
@@ -1482,23 +1397,22 @@
                 "Method": "1. Add all ingredients into a shaker with ice.\n2. Shake and pour into a double rocks glass or a highball glass. \n\n * The Martinique molasses rum used by Trader Vic was not an Agricole rum but a type of \"rummy\" from molasses.",
                 "Garnish": "Garnish with pineapple spear, mint leaves, and lime peel.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0054",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Manhattan.webp",
-				"Name": "Manhattan",
+            }, {
+                "ID": "IBN_0054",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Manhattan.webp",
+                "Name": "Manhattan",
+                "Kor_name": "맨해튼",
+                "Taste": "베르무트의 향이 두드러지게 나타나며 입 안에서 쌉쌀함과 부드러움이 어우러지는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "50 ml",
                         "Name": "Rye Whiskey",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "20 ml",
                         "Name": "Sweet Red Vermouth",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "1 dash",
                         "Name": "Angostura Bitters",
                         "Optional": false
@@ -1507,23 +1421,22 @@
                 "Method": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into a chilled cocktail glass.",
                 "Garnish": "Garnish with a cocktail cherry.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0055",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Margarita.webp",
-				"Name": "Margarita",
+            }, {
+                "ID": "IBN_0055",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Margarita.webp",
+                "Name": "Margarita",
+                "Kor_name": "마가리타",
+                "Taste": "라임과 트리플섹 덕분에 새콤달콤 하지만 도수가 꽤 높아 조금은 독한 느낌의 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "50 ml",
                         "Name": "Tequila 100% Agave",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "20 ml",
                         "Name": "Triple Sec",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Freshly Squeezed Lime Juice",
                         "Optional": false
@@ -1532,28 +1445,26 @@
                 "Method": "1. Add all ingredients into a shaker with ice.\n2. Shake and strain into a chilled cocktail glass",
                 "Garnish": "Half salt rim (Optional)",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0056",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Martinez.webp",
-				"Name": "Martinez",
+            }, {
+                "ID": "IBN_0056",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Martinez.webp",
+                "Name": "Martinez",
+                "Kor_name": "마르티네스",
+                "Taste": "마티니에서 파싱된 칵테일로 체리 리큐르가 들거가서 드랑이한 마티니보다 더욱 달달한 매력을 풍기는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
                         "Name": "London Dry Gin",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "45 ml",
                         "Name": "Sweet Red Vermouth",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "1 Bar Spoon",
                         "Name": "Maraschino Liqueur",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "2 Dashes",
                         "Name": "Orange Bitters",
                         "Optional": false
@@ -1562,28 +1473,26 @@
                 "Method": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into a chilled cocktail glass.",
                 "Garnish": "Lemon zest.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0057",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Mary Pickford.webp",
-				"Name": "Mary Pickford",
+            }, {
+                "ID": "IBN_0057",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Mary Pickford.webp",
+                "Name": "Mary Pickford",
+                "Kor_name": "메리 픽포드",
+                "Taste": "단맛이 거의 느껴지지 않고 쓴맛이 나는 대표적 칵테일이지만 파인애플 주스가 많이 들어가 향이 그윽하게 풍기는 매력적인 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
                         "Name": "White Rum",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "45 ml",
                         "Name": "Fresh Pineapple Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "7.5 ml",
                         "Name": "Maraschino Luxardo",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "5 ml",
                         "Name": "Grenadine Syrup",
                         "Optional": false
@@ -1592,18 +1501,18 @@
                 "Method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0058",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Mimosa.webp",
-				"Name": "Mimosa",
+            }, {
+                "ID": "IBN_0058",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Mimosa.webp",
+                "Name": "Mimosa",
+                "Kor_name": "미모사",
+                "Taste": "스파클링 와인에 오렌지 쥬스의 산미가 추가된 맛으로 부담 없이 즐길 수 있는 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "75 ml",
                         "Name": "Fresh orange juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "75 ml",
                         "Name": "Prosecco",
                         "Optional": false
@@ -1612,28 +1521,26 @@
                 "Method": "1.Pour orange juice into a flute glass and gently pour the sparkling wine.\n2. Stir gently.\n\n Note : Also known as Buck's Fizz.",
                 "Garnish": "Garnish with an orange twist (optional).",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0059",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Mint Julep.webp",
-				"Name": "Mint Julep",
+            }, {
+                "ID": "IBN_0059",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Mint Julep.webp",
+                "Name": "Mint Julep",
+                "Kor_name": "민트 줄랩",
+                "Taste": "향긋하고 상쾌한 민트의 향에 달콤하고 부드러운 버번의 맛이 잘 어우러지는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "60 ml",
                         "Name": "Bourbon Whiskey",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "4",
                         "Name": "fresh Mint sprigs",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "1 teaspoon",
                         "Name": "Powdered Sugar",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "2 teaspoons",
                         "Name": "Water",
                         "Optional": false
@@ -1642,33 +1549,30 @@
                 "Method": "1. In Julep Stainless Steel Cup gently muddle the mint with sugar and water.\n2. Fill the glass with cracked ice, add the Bourbon and stir well until the cup frosts.",
                 "Garnish": "Garnish with a mint sprig.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0060",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Mojito.webp",
-				"Name": "Mojito",
+            }, {
+                "ID": "IBN_0060",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Mojito.webp",
+                "Name": "Mojito",
+                "Kor_name": "모히토",
+                "Taste": "달달함과 동시에 민트 향을 내면서 씁쓸한 뒷맛이 스쳐가는 나름 입체적인 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
                         "Name": "White Cuban Ron",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "20 ml",
                         "Name": "Fresh Lime Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "6 pieces",
                         "Name": "Mint Sprigs",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "2 teaspoons",
                         "Name": "White Cane Sugar",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "",
                         "Name": "Soda Water",
                         "Optional": false
@@ -1677,28 +1581,26 @@
                 "Method": "1. Mix mint springs with sugar and lime juice.\n2. Add splash of soda water and fill the glass with ice.\n3. Pour the rum and top with soda water.\n4. Light stir to involve all ingredients.",
                 "Garnish": "Garnish with sprigs of mint and slice of lime.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0061",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Monkey Gland.webp",
-				"Name": "Monkey Gland",
+            }, {
+                "ID": "IBN_0061",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Monkey Gland.webp",
+                "Name": "Monkey Gland",
+                "Kor_name": "몽키 글랜드",
+                "Taste": "진과 암생트가 섞여 향이 풍부하고 화려하게 풍기며 그레나딘 시럽이 많이 들어가 강한 단맛을 즐길 수 있는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
                         "Name": "Dry Gin",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "45 ml",
                         "Name": "Fresh Orange Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "1 Table Spoon",
                         "Name": "Absinthe",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "1 Table Spoon",
                         "Name": "Grenadine Syrup",
                         "Optional": false
@@ -1707,23 +1609,22 @@
                 "Method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0062",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Moscow Mule.webp",
-				"Name": "Moscow Mule",
+            }, {
+                "ID": "IBN_0062",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Moscow Mule.webp",
+                "Name": "Moscow Mule",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
                         "Name": "Smirnoff Vodka",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "120 ml",
                         "Name": "Ginger Beer",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "10 ml",
                         "Name": "Fresh lime juice",
                         "Optional": false
@@ -1732,28 +1633,26 @@
                 "Method": "1. In a Mule Cup or rocks glass, combine the vodka and ginger beer.\n2. Add lime juice and gently stir to involve all ingredients.",
                 "Garnish": "Garnish with a lime slice",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0063",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Naked and Famous.webp",
-				"Name": "Naked and Famous",
+            }, {
+                "ID": "IBN_0063",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Naked and Famous.webp",
+                "Name": "Naked and Famous",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "22.5 ml",
                         "Name": "Mezcal",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "22.5 ml",
                         "Name": "Yellow Chartreuse",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "22.5 ml",
                         "Name": "Aperol",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "22.5 ml",
                         "Name": "Fresh Lime Juice",
                         "Optional": false
@@ -1762,23 +1661,22 @@
                 "Method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0064",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Negroni.webp",
-				"Name": "Negroni",
+            }, {
+                "ID": "IBN_0064",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Negroni.webp",
+                "Name": "Negroni",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
                         "Name": "Gin",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Bitter Campari",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Sweet Red Vermouth",
                         "Optional": false
@@ -1787,33 +1685,30 @@
                 "Method": "Pour all ingredients directly into a chilled old fashioned glass filled with ice, Stir gently.",
                 "Garnish": "Garnish with a half orange slice.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0065",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/New York Sour.webp",
-				"Name": "New York Sour",
+            }, {
+                "ID": "IBN_0065",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/New York Sour.webp",
+                "Name": "New York Sour",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "60 ml",
                         "Name": "Rye Whiskey or Bourbon",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "22.5 ml",
                         "Name": "Simple syrup",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Fresh lemon juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "Few Drops",
                         "Name": "Egg White",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Red wine (Shiraz or Malbech)",
                         "Optional": false
@@ -1822,38 +1717,34 @@
                 "Method": "1. Pour all ingredients into the shaker.\n2. Shake vigorously with ice.\n3.  Strain into a chilled rocks glass filled with ice.\n4. Float the wine on top.",
                 "Garnish": "Garnish with lemon or orange zest with cherry.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0066",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Old Cuban.webp",
-				"Name": "Old Cuban",
+            }, {
+                "ID": "IBN_0066",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Old Cuban.webp",
+                "Name": "Old Cuban",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "6/8 pieces",
                         "Name": "Mint Leaves",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "45 ml",
                         "Name": "Aged Rum",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "22.5 ml",
                         "Name": "Fresh Lime Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Simple Syrup",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "2 Dashes",
                         "Name": "Angostura Bitters",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "60 ml",
                         "Name": "Brut Champagne or Prosecco",
                         "Optional": false
@@ -1862,28 +1753,26 @@
                 "Method": "1. Pour all ingredients into cocktail shaker except the wine, shake well with ice, strain into chilled elegant cocktail glass.\n2. Top up with the sparkling wine.",
                 "Garnish": "Garnish with mint springs.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0067",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Old Fashioned.webp",
-				"Name": "Old Fashioned",
+            }, {
+                "ID": "IBN_0067",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Old Fashioned.webp",
+                "Name": "Old Fashioned",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
                         "Name": "Bourbon or Rye Whiskey",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "1",
                         "Name": "Sugar Cube",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "Few Dashes",
                         "Name": "Angostura Bitters",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "Few Dashes",
                         "Name": "Angostura Bitters",
                         "Optional": false
@@ -1892,28 +1781,26 @@
                 "Method": "1. Place sugar cube in old fashioned glass and saturate with bitter, add few dashes of plain water.\n2. Muddle until dissolved.\n3. Fill the glass with ice cubes and add whiskey.\n4. Stir gently.",
                 "Garnish": "Garnish with an orange slice or zest, and a cocktail cherry.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0068",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Paloma.webp",
-				"Name": "Paloma",
+            }, {
+                "ID": "IBN_0068",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Paloma.webp",
+                "Name": "Paloma",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "50 ml",
                         "Name": "100% Agave Tequila",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "5 ml",
                         "Name": "Fresh lime",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "A pinch",
                         "Name": "Salt",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "100 ml",
                         "Name": "Pink Grapefruit Soda",
                         "Optional": false
@@ -1922,28 +1809,26 @@
                 "Method": "1. Poor the tequila into a highball glass, squeeze the lime juice.\n2. Add ice and salt, fill up pink grapefruit soda.\n3. Stir gently.",
                 "Garnish": "Garnish with a slice of lime.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0069",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Paper Plane.webp",
-				"Name": "Paper Plane",
+            }, {
+                "ID": "IBN_0069",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Paper Plane.webp",
+                "Name": "Paper Plane",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
                         "Name": "Bourbon Whiskey",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Amaro Nonino",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Aperol",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Fresh Lemon Juice",
                         "Optional": false
@@ -1952,23 +1837,22 @@
                 "Method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0070",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Paradise.webp",
-				"Name": "Paradise",
+            }, {
+                "ID": "IBN_0070",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Paradise.webp",
+                "Name": "Paradise",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
                         "Name": "Gin",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "20 ml",
                         "Name": "Apricot Brandy",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Fresh Orange Juice",
                         "Optional": false
@@ -1977,33 +1861,30 @@
                 "Method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0071",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Penicillin.webp",
-				"Name": "Penicillin",
+            }, {
+                "ID": "IBN_0071",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Penicillin.webp",
+                "Name": "Penicillin",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "60 ml",
                         "Name": "Blended Scotch Whisky",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "7.5 ml",
                         "Name": "Lagavulin 16y Whisky",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "22.5 ml",
                         "Name": "Fresh Lemon Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "22.5 ml",
                         "Name": "Honey Syrup",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "2-3 quarter size",
                         "Name": "Sliced Fresh Ginger",
                         "Optional": false
@@ -2012,23 +1893,22 @@
                 "Method": "1. Muddle fresh ginger in a shaker and add the remaining ingredients, except for the Islay single malt whiskey.\n2. Fill the shaker with ice and shake.\n3. Double-strain into a chilled old fashioned glass with ice.\n4. Float the single malt whisky on top.",
                 "Garnish": "Garnish with candied ginger.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0072",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Pina Colada.webp",
-				"Name": "Pina Colada",
+            }, {
+                "ID": "IBN_0072",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Pina Colada.webp",
+                "Name": "Pina Colada",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "50 ml",
                         "Name": "White Rum",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Coconut Cream",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "50 ml",
                         "Name": "Fresh Pineapple Juice",
                         "Optional": false
@@ -2037,28 +1917,26 @@
                 "Method": "1. Blend all the ingredients with ice in an electric blender, pour into a large glass, and serve with straws. \n\n Note : Historically a few drops of fresh lime juice were added to taste.\n4 slices of fresh pineapple can be used instead of juice",
                 "Garnish": "Garnish with a slice of pineapple with a cocktail cherry.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0073",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Pisco Sour.webp",
-				"Name": "Pisco Sour",
+            }, {
+                "ID": "IBN_0073",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Pisco Sour.webp",
+                "Name": "Pisco Sour",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "60 ml",
                         "Name": "Pisco",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Fresh Lemon Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "20 ml",
                         "Name": "Simple Syrup",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "1",
                         "Name": "Egg White",
                         "Optional": false
@@ -2067,23 +1945,22 @@
                 "Method": "1. Add all ingredients into a shaker with ice.\n2. Shake and strain into a chilled goblet glass.",
                 "Garnish": "Few dashes of Amargo bitters on top as an aromatic garnish.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0074",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Planter's Punch.webp",
-				"Name": "Planter's Punch",
+            }, {
+                "ID": "IBN_0074",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Planter's Punch.webp",
+                "Name": "Planter's Punch",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
                         "Name": "Jamaican Rum",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Lime Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Sugar Cane Juice",
                         "Optional": false
@@ -2092,23 +1969,22 @@
                 "Method": "1. Pour all ingredients directly in a small tumbler or a typical terracotta glass.\n\nNOTE : Add dilution up to taste, it can be given by water, ice or fresh juices.",
                 "Garnish": "Garnish with orange zest.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0075",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Porto Flip.webp",
-				"Name": "Porto Flip",
+            }, {
+                "ID": "IBN_0075",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Porto Flip.webp",
+                "Name": "Porto Flip",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "15 ml",
                         "Name": "Brandy",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "45 ml",
                         "Name": "Red Tawny Port Wine",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "10 ml",
                         "Name": "Egg Yolk",
                         "Optional": false
@@ -2117,53 +1993,46 @@
                 "Method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
                 "Garnish": "Sprinkle with fresh ground nutmeg.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0076",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Ramos Fizz.webp",
-				"Name": "Ramos Fizz",
+            }, {
+                "ID": "IBN_0076",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Ramos Fizz.webp",
+                "Name": "Ramos Fizz",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
                         "Name": "Gin",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Fresh Lime Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Fresh Lemon Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Sugar Syrup",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "60 ml",
                         "Name": "Cream",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Egg white",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "3 Dashes",
                         "Name": "Orange Flower Water",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "2 Drops",
                         "Name": "Vanilla Extract",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "",
                         "Name": "Soda Water",
                         "Optional": false
@@ -2172,33 +2041,30 @@
                 "Method": "1. Pour all ingredients except soda water in a cocktail shaker with ice, Shake for two minutes, double strain in a glass, pour the drink back in the shaker, and hard shake without ice for one minute.\n2. Strain into a highball glass, top up with soda.\n\nNOTE : The drink was invented by Henry Ramos in 1888, at his bar Meyer's Table d'Hôtel Internationale in New Orleans.\n The Ramos Fizz was originally shaken for 12 minutes by a crew of 30 bartenders who passed the shaker from one to another.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0077",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Russian Spring Punch.webp",
-				"Name": "Russian Spring Punch",
+            }, {
+                "ID": "IBN_0077",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Russian Spring Punch.webp",
+                "Name": "Russian Spring Punch",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "25 ml",
                         "Name": "Vodka",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "25 ml",
                         "Name": "Fresh Lemon Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Crème de Cassis",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "10 ml",
                         "Name": "Sugar syrup",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "Top up",
                         "Name": "Sparkling wine",
                         "Optional": false
@@ -2207,18 +2073,18 @@
                 "Method": "Pour all ingredients into a cocktail shaker except the sparkling wine, shake well with ice, strain into a chilled tall tumbler glass filled with ice, and top up with sparkling wine.",
                 "Garnish": "Garnish with blackberries and optionally a lemon slice as well.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0078",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Rusty Nail.webp",
-				"Name": "Rusty Nail",
+            }, {
+                "ID": "IBN_0078",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Rusty Nail.webp",
+                "Name": "Rusty Nail",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
                         "Name": "Scotch Whisky",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "25ml",
                         "Name": "Drambuie",
                         "Optional": false
@@ -2227,28 +2093,26 @@
                 "Method": "1. Pour all ingredients directly into an old fashioned glass filled with ice.\n2. Stir gently.",
                 "Garnish": "Garnish with lemon zest.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0079",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Sazerac.webp",
-				"Name": "Sazerac",
+            }, {
+                "ID": "IBN_0079",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Sazerac.webp",
+                "Name": "Sazerac",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "50 ml",
                         "Name": "Cognac",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "10 ml",
                         "Name": "Absinthe",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "1",
                         "Name": "Sugar Cube",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "2 Dashes",
                         "Name": "Peychaud's Bitters",
                         "Optional": false
@@ -2257,23 +2121,22 @@
                 "Method": "1. Rinse a chilled old-fashioned glass with the absinthe, add crushed ice and set it aside.\n2. Stir the remaining ingredients over ice in a mixing glass.\n3. Discard the ice and any excess absinthe from the prepared glass, strain the mixed drink into the glass.\n\nNOTE: The original recipe changed after the American Civil War, Rye Whiskey substituted Cognac as it became hard to obtain.",
                 "Garnish": "Garnish with lemon zest.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0080",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Sea Breeze.webp",
-				"Name": "Sea Breeze",
+            }, {
+                "ID": "IBN_0080",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Sea Breeze.webp",
+                "Name": "Sea Breeze",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "40 ml",
                         "Name": " Vodka",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "120 ml",
                         "Name": "Cranberry Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Grapefruit Juice",
                         "Optional": false
@@ -2282,28 +2145,26 @@
                 "Method": "Build all ingredients in a highball glass filled with ice.",
                 "Garnish": "Garnish with orange zest and cherry",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0081",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Sex on the Beach.webp",
-				"Name": "Sex on the Beach",
+            }, {
+                "ID": "IBN_0081",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Sex on the Beach.webp",
+                "Name": "Sex on the Beach",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "40 ml",
                         "Name": "Vodka",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "20 ml",
                         "Name": "Peach Schnapps",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "40 ml",
                         "Name": "Fresh Orange Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "40 ml",
                         "Name": "Cranberry Juice",
                         "Optional": false
@@ -2312,23 +2173,22 @@
                 "Method": "Build all ingredients in a highball glass filled with ice.",
                 "Garnish": "Garnish with a half orange slice.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0082",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Sidecar.webp",
-				"Name": "Sidecar",
+            }, {
+                "ID": "IBN_0082",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Sidecar.webp",
+                "Name": "Sidecar",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "50 ml",
                         "Name": "Cognac",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "20 ml",
                         "Name": "Triple Sec",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "20 ml",
                         "Name": "Fresh Lemon Juice",
                         "Optional": false
@@ -2337,48 +2197,42 @@
                 "Method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0083",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Singapore Sling.webp",
-				"Name": "Singapore Sling",
+            }, {
+                "ID": "IBN_0083",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Singapore Sling.webp",
+                "Name": "Singapore Sling",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
                         "Name": "Gin",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Cherry liqueur",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "7.5 ml",
                         "Name": "Cointreau",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "7.5 ml",
                         "Name": "DOM Bénédictine",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "120 ml",
                         "Name": "Fresh Pineapple Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Fresh Lime Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "10 ml",
                         "Name": "Grenadine Syrup",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "A dash",
                         "Name": "Angostura bitters",
                         "Optional": false
@@ -2387,33 +2241,30 @@
                 "Method": "1. Pour all ingredients into a cocktail shaker filled with ice cubes.\n2. Shake well.\n3. Strain into Hurricane glass.",
                 "Garnish": "Garnish with pineapple and maraschino cherry",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0084",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Spicy Fifty.webp",
-				"Name": "Spicy Fifty",
+            }, {
+                "ID": "IBN_0084",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Spicy Fifty.webp",
+                "Name": "Spicy Fifty",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "50 ml",
                         "Name": "Vodka Vanilla",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Elderflower Cordial",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Fresh Lime Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "10 ml",
                         "Name": "Monin Honey Syrup",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "2 thin Slices",
                         "Name": "Red Chili Pepper",
                         "Optional": false
@@ -2422,23 +2273,22 @@
                 "Method": "Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass.",
                 "Garnish": "Garnish with a red chili pepper",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0085",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Spritz.webp",
-				"Name": "Spritz",
+            }, {
+                "ID": "IBN_0085",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Spritz.webp",
+                "Name": "Spritz",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "90 ml",
                         "Name": "Prosecco",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "60 ml",
                         "Name": "Aperol",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "Splash of",
                         "Name": "Soda water",
                         "Optional": false
@@ -2447,23 +2297,22 @@
                 "Method": "1. Build all ingredients into a wine glass filled with ice.\n2. Stir gently.\n\n NOTE: There are other versions of the Spritz that use Campari, Cynar or Select instead of Aperol.",
                 "Garnish": "Garnish with a slice of orange.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0086",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Spritz (ver. Campari.webp",
-				"Name": "Spritz (ver. Campari",
+            }, {
+                "ID": "IBN_0086",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Spritz (ver. Campari.webp",
+                "Name": "Spritz (ver. Campari",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "90 ml",
                         "Name": "Prosecco",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "60 ml",
                         "Name": "Campari",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "Splash of",
                         "Name": "Soda water",
                         "Optional": false
@@ -2472,23 +2321,22 @@
                 "Method": "1. Build all ingredients into a wine glass filled with ice.\n2. Stir gently.\n\n NOTE: There are other versions of the Spritz that use Aperol, Cynar or Select instead of Campari.",
                 "Garnish": "Garnish with a slice of orange.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0087",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/problem/Spritz (ver. Select.webp",
-				"Name": "Spritz (ver. Select",
+            }, {
+                "ID": "IBN_0087",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/problem/Spritz (ver. Select.webp",
+                "Name": "Spritz (ver. Select",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "90 ml",
                         "Name": "Prosecco",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "60 ml",
                         "Name": "Select",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "Splash of",
                         "Name": "Soda water",
                         "Optional": false
@@ -2497,23 +2345,22 @@
                 "Method": "1. Build all ingredients into a wine glass filled with ice.\n2. Stir gently.\n\n NOTE: There are other versions of the Spritz that use Campari, Cynar or Aperol instead of Select.",
                 "Garnish": "Garnish with a slice of orange.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0088",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Spritz (ver. Cynar.webp",
-				"Name": "Spritz (ver. Cynar",
+            }, {
+                "ID": "IBN_0088",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Spritz (ver. Cynar.webp",
+                "Name": "Spritz (ver. Cynar",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "90 ml",
                         "Name": "Prosecco",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "60 ml",
                         "Name": "Cynar",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "Splash of",
                         "Name": "Soda water",
                         "Optional": false
@@ -2522,18 +2369,18 @@
                 "Method": "1. Build all ingredients into a wine glass filled with ice.\n2. Stir gently.\n\n NOTE: There are other versions of the Spritz that use Campari, Select or Aperol instead of Cynar.",
                 "Garnish": "Garnish with a slice of orange.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0089",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Stinger.webp",
-				"Name": "Stinger",
+            }, {
+                "ID": "IBN_0089",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Stinger.webp",
+                "Name": "Stinger",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "50 ml",
                         "Name": "Cognac",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "20 ml",
                         "Name": "White Crème de Menthe",
                         "Optional": false
@@ -2542,33 +2389,30 @@
                 "Method": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into chilled martini cocktail glass.",
                 "Garnish": "Optional mint leave.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0090",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Suffering Bastard.webp",
-				"Name": "Suffering Bastard",
+            }, {
+                "ID": "IBN_0090",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Suffering Bastard.webp",
+                "Name": "Suffering Bastard",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
                         "Name": "Cognac or Brandy",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Gin",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Fresh Lime Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "2 Dashes",
                         "Name": "Angostura Bitters",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "Top up",
                         "Name": "Ginger beer",
                         "Optional": false
@@ -2577,23 +2421,22 @@
                 "Method": "Pour all ingredients into a cocktail shaker except the ginger beer, shake well with ice, Pour unstrained into a Collins glass or in the original S. Bastard mug and top up with ginger beer.",
                 "Garnish": "Garnish with mint springs and optionally an orange slice as well.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0091",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Tequila Sunrise.webp",
-				"Name": "Tequila Sunrise",
+            }, {
+                "ID": "IBN_0091",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Tequila Sunrise.webp",
+                "Name": "Tequila Sunrise",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "45ml",
                         "Name": "Tequila",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "90 ml",
                         "Name": "Fresh Orange Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Grenadine Syrup",
                         "Optional": false
@@ -2602,28 +2445,26 @@
                 "Method": "1. Pour tequila and orange juice directly into highball glass filled with ice cubes.\n2. Add the grenadine syrup to create chromatic effect (sunrise), do not stir.",
                 "Garnish": "Garnish with half orange slice or an orange zest",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0092",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Tipperary.webp",
-				"Name": "Tipperary",
+            }, {
+                "ID": "IBN_0092",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Tipperary.webp",
+                "Name": "Tipperary",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "50 ml",
                         "Name": "Irish Whiskey",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "25 ml",
                         "Name": "Sweet Red Vermouth",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Green Chartreuse",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "2 Dashes",
                         "Name": "Angostura Bitters",
                         "Optional": false
@@ -2632,23 +2473,22 @@
                 "Method": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into chilled martini cocktail glass.",
                 "Garnish": "Garnish with a slice of orange.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0093",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Tommy's Margarita.webp",
-				"Name": "Tommy's Margarita",
+            }, {
+                "ID": "IBN_0093",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Tommy's Margarita.webp",
+                "Name": "Tommy's Margarita",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "60 ml",
                         "Name": "Tequila Agave 100% Reposado",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Fresh Lime Juice (Persiano)",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Agave Syrup (1/2 Water + 1/2 Agave Nectar)",
                         "Optional": false
@@ -2657,28 +2497,26 @@
                 "Method": "1. Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled rocks glass filled with ice.",
                 "Garnish": "Garnish with a lime slice.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0094",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Trinidad Sour.webp",
-				"Name": "Trinidad Sour",
+            }, {
+                "ID": "IBN_0094",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Trinidad Sour.webp",
+                "Name": "Trinidad Sour",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
                         "Name": "Angostura Bitters",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Orgeat Syrup",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "22.5 ml",
                         "Name": "Fresh Lemon Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Rye Whisky",
                         "Optional": false
@@ -2687,33 +2525,30 @@
                 "Method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0095",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Tuxedo.webp",
-				"Name": "Tuxedo",
+            }, {
+                "ID": "IBN_0095",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Tuxedo.webp",
+                "Name": "Tuxedo",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
                         "Name": "Old Tom Gin",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Dry Vermouth",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "1/2 Bar Spoon",
                         "Name": "Maraschino Luxardo",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "1/4 Bar Spoon",
                         "Name": "Absinthe",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "3 Dashes",
                         "Name": "Orange Bitters",
                         "Optional": false
@@ -2722,33 +2557,30 @@
                 "Method": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into chilled martini cocktail glass.",
                 "Garnish": "Garnish with cherry and lemon zest",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0096",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/VE.N.TO.webp",
-				"Name": "VE.N.TO",
+            }, {
+                "ID": "IBN_0096",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/VE.N.TO.webp",
+                "Name": "VE.N.TO",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
                         "Name": "White Smooth Grappa",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "22.5 ml",
                         "Name": "Fresh lemon Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Honey mix (replace water with chamomile)",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Chamomile cordial",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "10ml",
                         "Name": "Egg White",
                         "Optional": true
@@ -2757,23 +2589,22 @@
                 "Method": "1. Pour all ingredients into the shaker.\n2. Shake vigorously with ice.\n3. Strain into a chilled small tumbler glass filled with ice.\n\n Notes : *If desired water can be replaced by chamomile infusion in the honey mix.",
                 "Garnish": "Garnish with lemon zest and white grapes.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0097",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Vesper.webp",
-				"Name": "Vesper",
+            }, {
+                "ID": "IBN_0097",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Vesper.webp",
+                "Name": "Vesper",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
                         "Name": "Gin",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Vodka",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "7.5 ml",
                         "Name": "Lillet Blanc",
                         "Optional": false
@@ -2782,33 +2613,30 @@
                 "Method": "1. Pour all ingredients into a cocktail shaker filled with ice cubes.\n2. Shake and strain into a chilled cocktail glass.",
                 "Garnish": "Lemon zest",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0098",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Vieux Carrè.webp",
-				"Name": "Vieux Carrè",
+            }, {
+                "ID": "IBN_0098",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Vieux Carrè.webp",
+                "Name": "Vieux Carrè",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
                         "Name": "Rye Whiskey",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Cognac",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Sweet Vermouth",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "1 Bar Spoon",
                         "Name": "Bénédictine",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "2 Dashes",
                         "Name": "Peychaud's Bitters",
                         "Optional": false
@@ -2817,28 +2645,26 @@
                 "Method": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into a chilled cocktail glass.",
                 "Garnish": "Garnish with orange zest and maraschino cherry.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0099",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Whiskey Sour.webp",
-				"Name": "Whiskey Sour",
+            }, {
+                "ID": "IBN_0099",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Whiskey Sour.webp",
+                "Name": "Whiskey Sour",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
                         "Name": "Bourbon Whiskey",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "25 ml",
                         "Name": "Fresh Lemon Juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "20 ml",
                         "Name": "Sugar Syrup",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "20 ml",
                         "Name": "Egg White",
                         "Optional": true
@@ -2847,23 +2673,22 @@
                 "Method": "1. Pour all ingredients into a cocktail shaker filled with ice.\n2. Shake well\n3. Strain into cobbler glass.\n4. If served \"On the rocks\", strain ingredients into an old fashioned glass filled with ice.\n\nNOTE : If egg white is used shake little harder to release and incorporate the foam from the egg white.",
                 "Garnish": "Garnish with a half orange slice and maraschino cherry, optionally use orange zest.",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0100",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/White Lady.webp",
-				"Name": "White Lady",
+            }, {
+                "ID": "IBN_0100",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/White Lady.webp",
+                "Name": "White Lady",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "40 ml",
                         "Name": "Gin",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Triple Sec",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "20 ml",
                         "Name": "Fresh Lemon Juice",
                         "Optional": false
@@ -2872,28 +2697,26 @@
                 "Method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-				"ID" : "IBN_0101",
-				"Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Yellow Bird.webp",
-				"Name": "Yellow Bird",
+            }, {
+                "ID": "IBN_0101",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Yellow Bird.webp",
+                "Name": "Yellow Bird",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
                         "Name": "White rum",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Galliano",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Triple Sec",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Fresh Lime Juice",
                         "Optional": false
@@ -2902,53 +2725,46 @@
                 "Method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
                 "Garnish": "N/A",
                 "Histoy": "None"
-            },
-            {
-	            "ID" : "IBN_0102",
-	            "Image" : "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Zombie.webp",
-	            "Name": "Zombie",
+            }, {
+                "ID": "IBN_0102",
+                "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Zombie.webp",
+                "Name": "Zombie",
+                "Kor_name": "",
+                "Taste": "",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
                         "Name": "Jamaican dark rum",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "45 ml",
                         "Name": "Gold Puerto Rican rum",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "30 ml",
                         "Name": "Demerara Rum",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "20 ml",
                         "Name": "Fresh lime juice",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Falernum",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "15 ml",
                         "Name": "Donn's Mix*",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "1 teaspoon",
                         "Name": "Grenadine syrup",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "1 dash",
                         "Name": "Angostura bitters",
                         "Optional": false
-                    },
-                    {
+                    }, {
                         "Volume": "6 drops",
                         "Name": "Pernod",
                         "Optional": false
