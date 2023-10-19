@@ -1613,8 +1613,8 @@
                 "ID": "IBN_0062",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Moscow Mule.webp",
                 "Name": "Moscow Mule",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "모스키바 뮬",
+                "Taste": "옅은 녹색 빛이 비치는 모습의 은은한 레몬향과 새콤 달콤한 맛이 특징인 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
@@ -1637,8 +1637,8 @@
                 "ID": "IBN_0063",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Naked and Famous.webp",
                 "Name": "Naked and Famous",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "네이키드 앤 페이머스",
+                "Taste": "메즈칼에서 오는 스모키, 라임에서 오는 시트러스, 아페롤과 샤르트뢰즈에서 오는 달콤쌉쌀한 허브 맛이 잘 어우러지는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "22.5 ml",
@@ -1665,8 +1665,8 @@
                 "ID": "IBN_0064",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Negroni.webp",
                 "Name": "Negroni",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "네그로니",
+                "Taste": "허브를 잔뜩 머금은 진의 기분 좋은 향기, 자몽같이 달콤 쌉싸름한 캄파리, 달콤한 꽃향기의 스윗 버무스까지. 복잡하면서도 직선적인 맛이 일품인 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
@@ -1689,8 +1689,8 @@
                 "ID": "IBN_0065",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/New York Sour.webp",
                 "Name": "New York Sour",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "뉴욕 샤워",
+                "Taste": "와인의 쌉싸름한 맛과 묵직한 과일향에 약간의 레몬향과 새콤달콤함이 가해진 느낌의 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "60 ml",
@@ -1721,8 +1721,8 @@
                 "ID": "IBN_0066",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Old Cuban.webp",
                 "Name": "Old Cuban",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "올드 쿠반",
+                "Taste": "샴페인의 톡쏘는 탄산과 민트 라임의 조화가 남미의 풍미를 짙하게 끌어 올리는 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "6/8 pieces",
@@ -1757,8 +1757,8 @@
                 "ID": "IBN_0067",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Old Fashioned.webp",
                 "Name": "Old Fashioned",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "올드 패션드",
+                "Taste": "아메리칸 위스키의 바닐라 향과 오크향, 그리고 비터의 쓴 맛이 느껴지지만 시간이 지날 수록 설탕이 용해 되면서 다양한 맛을 즐길 수 있는 매력적인 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
@@ -1785,8 +1785,8 @@
                 "ID": "IBN_0068",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Paloma.webp",
                 "Name": "Paloma",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "팔로마",
+                "Taste": "테킬라의 알싸함과 자몽의 상큼함 그리고 청량감까지 느낄 수 있고 소금이 주는 끝의 짠맛까지, 어디하나 흠잡을 곳이 없는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "50 ml",
@@ -1813,8 +1813,8 @@
                 "ID": "IBN_0069",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Paper Plane.webp",
                 "Name": "Paper Plane",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "페이퍼 플레인",
+                "Taste": "산뜻하고 상큼한 레몬과 오렌지 껍질의 향이 강하게 느껴지며 새콤 쌉쌀한 트로피컬한 맛이 또렷하게 드러나는 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
@@ -1841,8 +1841,8 @@
                 "ID": "IBN_0070",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Paradise.webp",
                 "Name": "Paradise",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "파라다이스",
+                "Taste": "살구 브랜디의 살구향과 새콤달콤한 맛이 진의 드라이한 맛을 중화시켜주어 식전주로 애용되는 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
@@ -1865,8 +1865,8 @@
                 "ID": "IBN_0071",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Penicillin.webp",
                 "Name": "Penicillin",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "페니실린",
+                "Taste": "적당한 레몬의 상큼한 맛과 스카치위스키와 꿀의 단맛이 아주 적절한 조화를 이루고 있는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "60 ml",
@@ -1897,8 +1897,8 @@
                 "ID": "IBN_0072",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Pina Colada.webp",
                 "Name": "Pina Colada",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "피나콜라다",
+                "Taste": "럼 특유의 향과 코코넛 밀크의 달콤함과 부드러움 파인애플 주스의 달콤함이 합쳐져 음료와 같은 매력을 뽐내지만 도수가 결코 낮지 않으니 조심해야하는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "50 ml",
@@ -1921,8 +1921,8 @@
                 "ID": "IBN_0073",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Pisco Sour.webp",
                 "Name": "Pisco Sour",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "피스코 사워",
+                "Taste": "포도 브랜디인 피스코 베이스의 칵테일로 새콤달콤한 맛에 마치 음료와 같지만 목넘김 이후 강력한 도수가 찌르듯이 올라오는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "60 ml",
@@ -1949,8 +1949,8 @@
                 "ID": "IBN_0074",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Planter's Punch.webp",
                 "Name": "Planter's Punch",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "플렌터스 펕치",
+                "Taste": "럼 베이스의 사탕수수 음료가 들어가 탈콤한 음료수로 정말 많은 바리에이션을 시도해볼 수 있는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
@@ -1973,8 +1973,8 @@
                 "ID": "IBN_0075",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Porto Flip.webp",
                 "Name": "Porto Flip",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "프로토 플립",
+                "Taste": "계란 노른자가 들어가 약간의 고소한 맛이 있고 약간의 비린 맛은 가니쉬의 넛맥이 잡아주는 계란 노른자로 시도해볼 수 있는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "15 ml",
@@ -1997,8 +1997,8 @@
                 "ID": "IBN_0076",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Ramos Fizz.webp",
                 "Name": "Ramos Fizz",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "라모스 피즈",
+                "Taste": "크림과 게란 흰자가 들어가 굉장히 폭신하고 단맛이 나는 마치 기분 좋은 요거트를 먹는 기분이 드는 듯한 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
@@ -2045,8 +2045,8 @@
                 "ID": "IBN_0077",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Russian Spring Punch.webp",
                 "Name": "Russian Spring Punch",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "러시안 스프링 펀치",
+                "Taste": "레몬 새콤한 맛과 카시스의 짙은 풍미에 스파클링 와인의 탄산을 가미한 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "25 ml",
@@ -2077,8 +2077,8 @@
                 "ID": "IBN_0078",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Rusty Nail.webp",
                 "Name": "Rusty Nail",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "러스티 네일",
+                "Taste": "위스키의 강한 맛과 벌꿀의 단맛, 허브의 스파이시한맛이 어우러져 식후 음료로 자주 즐기는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
@@ -2097,8 +2097,8 @@
                 "ID": "IBN_0079",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Sazerac.webp",
                 "Name": "Sazerac",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "사제락",
+                "Taste": "코냑의 짙은 풍미에 압생트의 향이 가미되어 압생트를 좋아하는 사람이 가장 좋아하는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "50 ml",
@@ -2125,8 +2125,8 @@
                 "ID": "IBN_0080",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Sea Breeze.webp",
                 "Name": "Sea Breeze",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "시 브리즈",
+                "Taste": "크랜베리 주스의 맛과 자몽 주스의 맛이 지배적인 칵테일로 굉장히 트로피컬한 매력을 풍기는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "40 ml",
@@ -2149,8 +2149,8 @@
                 "ID": "IBN_0081",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Sex on the Beach.webp",
                 "Name": "Sex on the Beach",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "섹스 온 더 비치",
+                "Taste": "야한 이름의 술은 달콤함 뒤에 강한 도수가 숨겨저 있다는 말처럼 전체적으로 굉장히 달콤한 맛에 강력한 도수가 숨겨져 있는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "40 ml",
@@ -2177,8 +2177,8 @@
                 "ID": "IBN_0082",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Sidecar.webp",
                 "Name": "Sidecar",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "사이드카",
+                "Taste": "오랜지 껍질 리큐르인 트리플 섹과 레몬 쥬스의 날카로운 새콤한 맛이 향긋한 코냑과 어우러진 굉장히 매력적인 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "50 ml",
@@ -2201,8 +2201,8 @@
                 "ID": "IBN_0083",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Singapore Sling.webp",
                 "Name": "Singapore Sling",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "싱가폴 슬링",
+                "Taste": "상큼하고 달콤한 재로들이 많이 들어가 새콤달콤한 맛이 주를 이루는 음료와도 같은 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
@@ -2245,8 +2245,8 @@
                 "ID": "IBN_0084",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Spicy Fifty.webp",
                 "Name": "Spicy Fifty",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "스파이시 피프티",
+                "Taste": "보드카 바닐라의 달콤한 맛을 내면서도, 마지막은 미묘한 칠리 향이 스쳐가며 깔끔한 마무리를 짓는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "50 ml",
@@ -2277,8 +2277,8 @@
                 "ID": "IBN_0085",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Spritz.webp",
                 "Name": "Spritz",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "스피리츠",
+                "Taste": "살구브랜디에 프로세코와 탄산수의 탄산이 환상적으로 만난 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "90 ml",
@@ -2301,8 +2301,8 @@
                 "ID": "IBN_0086",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Spritz (ver. Campari.webp",
                 "Name": "Spritz (ver. Campari",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "스피리츠 (ver. 캄파리)",
+                "Taste": "살구 브랜디 대신 캄파리가 들어가서 허브향이 더해져 더욱 향을 돋우는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "90 ml",
@@ -2325,8 +2325,8 @@
                 "ID": "IBN_0087",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/problem/Spritz (ver. Select.webp",
                 "Name": "Spritz (ver. Select",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "스피리츠 (ver. 셀렉트)",
+                "Taste": "살구 브랜디 대신 셀렉트가 들어가 향긋하고 달콤한 맛을 느낄수 있는 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "90 ml",
@@ -2349,8 +2349,8 @@
                 "ID": "IBN_0088",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Spritz (ver. Cynar.webp",
                 "Name": "Spritz (ver. Cynar",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "스피리츠 (ver. 치나)",
+                "Taste": "살구 브랜디 대신 치나가 들어가서 허브 향이 더해져 더욱 향을 돋우는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "90 ml",
@@ -2373,8 +2373,8 @@
                 "ID": "IBN_0089",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Stinger.webp",
                 "Name": "Stinger",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "스팅어",
+                "Taste": "화이트 크렘 드 멘테의 톡 쏘는 민트 향과 향기로운 코냑이 조화를 이루는 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "50 ml",
@@ -2393,8 +2393,8 @@
                 "ID": "IBN_0090",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Suffering Bastard.webp",
                 "Name": "Suffering Bastard",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "서퍼링 바스타드",
+                "Taste": "\"고통받는 자식\" 이 술의 제목처럼 숙취에 고생하는 사람에게 해장술로서 딱 맞는 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
@@ -2425,8 +2425,8 @@
                 "ID": "IBN_0091",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Tequila Sunrise.webp",
                 "Name": "Tequila Sunrise",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "데킬라 선라이즈",
+                "Taste": "데킬라 베이스 칵테일로 그레나딘 시럽이 아래에 깔려있는 오랜지 주스의 모습이 정말 아름다운 달콤한 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "45ml",
@@ -2449,8 +2449,8 @@
                 "ID": "IBN_0092",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Tipperary.webp",
                 "Name": "Tipperary",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "티퍼러리",
+                "Taste": "모든 재료들이 마치 화음처럼 곡물, 과일 및 허브의 향이 어우러지는 듯한 굉장히 조화로운 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "50 ml",
@@ -2477,8 +2477,8 @@
                 "ID": "IBN_0093",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Tommy's Margarita.webp",
                 "Name": "Tommy's Margarita",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "토미스 마가리타",
+                "Taste": "기존 마가리타의 존재감이 강한 트리플 섹을 제외, 아가베 시럽으로 단 맛을 잡아 만들어 데킬라 본연의 맛을 끌어올린 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "60 ml",
@@ -2501,8 +2501,8 @@
                 "ID": "IBN_0094",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Trinidad Sour.webp",
                 "Name": "Trinidad Sour",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "트리니다드 사워",
+                "Taste": "비터 베이스의 칵테일로 앙고스투라의 허브와 과일향 그리고 레몬의 신맛이 절묘한 균형을 이루는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
@@ -2529,8 +2529,8 @@
                 "ID": "IBN_0095",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Tuxedo.webp",
                 "Name": "Tuxedo",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "턱시도",
+                "Taste": "맛은 옅게 달착지근하다. 소량 들어간 마라스키노 리큐르와 올드톰진이 약간의 감미를 더해주고 있어서, 알코올맛을 살짝 잡아주고 있다. 중후반에는 비터스와 압생트의 쌉싸름함이 다가와서 혀에 쓴맛을 남긴다. 도수도 좀 높고 맛도 쌉쌀한 편이니 상당히 어른스러운 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
@@ -2561,8 +2561,8 @@
                 "ID": "IBN_0096",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/VE.N.TO.webp",
                 "Name": "VE.N.TO",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "벤토",
+                "Taste": "이탈리아 정신인 그라파에 경의를 표하는 칵테일로 IBA 유일의 그라파 베이스의 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
@@ -2593,8 +2593,8 @@
                 "ID": "IBN_0097",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Vesper.webp",
                 "Name": "Vesper",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "베스퍼",
+                "Taste": "선명하게 존재감을 드러내는 높은 도수와 진, 릴레 블랑의 화려한 꽃 향기와 은은하게 느껴지는 달콤함이 느껴지는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
@@ -2617,8 +2617,8 @@
                 "ID": "IBN_0098",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Vieux Carrè.webp",
                 "Name": "Vieux Carrè",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "뷰 카레",
+                "Taste": "달달함이 기본적으로 깔려있지만 은은한 신맛이 깔려있다. 허브향이 짙게 들어가 있지만 계속해서 변화하는 향이 굉장히 매력적인 칵테일.",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
@@ -2649,8 +2649,8 @@
                 "ID": "IBN_0099",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Whiskey Sour.webp",
                 "Name": "Whiskey Sour",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "위스키 사워",
+                "Taste": "레몬 주스와 설탕이 재료로 들어가 맛이 무척 부드럽고 조화로운 신맛과 단맛을 느낄 수 있는 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
@@ -2677,8 +2677,8 @@
                 "ID": "IBN_0100",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/White Lady.webp",
                 "Name": "White Lady",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "화이트 레이디",
+                "Taste": "트리플섹과 진이 어우러져 잇지만 레몬의 신선함이 굉장히 잘 느껴저 굉장히 상큼한 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "40 ml",
@@ -2701,8 +2701,8 @@
                 "ID": "IBN_0101",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Yellow Bird.webp",
                 "Name": "Yellow Bird",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "엘로 버드",
+                "Taste": "새콤함이 강하게 들어오지만 갈리아노에 의한 허브향이 첨가된 깔끔한 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "30 ml",
@@ -2729,8 +2729,8 @@
                 "ID": "IBN_0102",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Zombie.webp",
                 "Name": "Zombie",
-                "Kor_name": "",
-                "Taste": "",
+                "Kor_name": "좀비",
+                "Taste": "여러 과일주스와 시럽이 들어가지만 오버프루프 럼의 존재감으로 굉장히 도수가 높은 칵테일",
                 "Ingredients": [
                     {
                         "Volume": "45 ml",
