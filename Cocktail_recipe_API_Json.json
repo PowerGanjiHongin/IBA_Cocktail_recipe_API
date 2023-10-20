@@ -741,12 +741,12 @@
                         "Optional": true
                     }, {
                         "Volume": "1",
-                        "Name": "sugar cube",
+                        "Name": "Sugar Cube",
                         "Optional": false
                     }
                 ],
                 "Method": "1. 큰 샴페인 잔에 설탕 큐브에 쓴맛 2회를 넣고 꼬냑을 부어주세요.\n2. 부드럽게 식힌 샴페인을 부어주세요.",
-                "Method_Eng": "1. Place the sugar cube with 2 dashes of bitters in a large Champagne glass, add the cognac.\n2. Pour gently chilled Champagne.",
+                "Method_Eng": "1. Place the Sugar Cube with 2 dashes of bitters in a large Champagne glass, add the cognac.\n2. Pour gently chilled Champagne.",
                 "Garnish": "오렌지 제스트와 마라스키노 체리로 고명을 얹습니다.",
                 "Garnish_Eng": "Garnish with orange zest and maraschino cherry.",
                 "Histoy": "알려지지 않음",
@@ -920,7 +920,7 @@
                     }
                 ],
                 "Method": "얼음으로 가득 찬 하이볼 컵에 럼를 부어주고 윗부분에 진저 비어를 부어줍니다.",
-                "Method_Eng": "In a highball glass filled with ice pour the ginger beer and top floating with the Rum.",
+                "Method_Eng": "In a highball glass filled with ice pour the Ginger Beer and top floating with the Rum.",
                 "Garnish": "레몬조각이나 슬라이스로 장식합니다.",
                 "Garnish_Eng": "Garnish with a lime wedge or slice.",
                 "Histoy": "알려지지 않음",
@@ -1109,7 +1109,7 @@
                     }
                 ],
                 "Method": "1. 탄산음료 물을 제외한 모든 재료를 얼음으로 흔듭니다.\n2. 얇은 텀블러 잔에 붓고, 탄산음료 물을 붓습니다.\n 참고 : 얼음 없이 제공합니다.",
-                "Method_Eng": "1. Shake all ingredients with ice except soda water.\n2. Pour into thin tall Tumbler glass, top with a splash soda water.\n Note : Serve without ice.",
+                "Method_Eng": "1. Shake all ingredients with ice except Soda Water.\n2. Pour into thin tall Tumbler glass, top with a splash Soda Water.\n Note : Serve without ice.",
                 "Garnish": "레몬 조각, 선택사항인 레몬 제스트로 고명을 얹습니다.",
                 "Garnish_Eng": "Garnish with a lemon slice, optional lemon zest.",
                 "Histoy": "알려지지 않음",
@@ -1407,7 +1407,7 @@
                     }
                 ],
                 "Method": "크렘 드 카시스를 잔에 붓고 샴페인을 보충합니다.",
-                "Method_Eng": "Pour Crème de Cassis into glass, top up with champagne.",
+                "Method_Eng": "Pour Crème de Cassis into glass, top up with Champagne.",
                 "Garnish": "가니쉬 없음",
                 "Garnish_Eng": "N/A",
                 "Histoy": "알려지지 않음",
@@ -1503,7 +1503,7 @@
                         "Optional": false
                     }, {
                         "Volume": "20 ml",
-                        "Name": "Simple syrup",
+                        "Name": "Simple Syrup",
                         "Optional": false
                     }, {
                         "Volume": "Top With",
@@ -1756,7 +1756,7 @@
                     }
                 ],
                 "Method": "1. 민트 스프링에 설탕과 라임 주스를 섞으세요.\n2. 탄산수를 붓고 얼음을 잔에 채우세요.\n3. 럼주를 붓고 탄산음료 물을 부어주세요.\n4. 모든 재료가 포함되도록 가볍게 저어주세요.",
-                "Method_Eng": "1. Mix mint springs with sugar and lime juice.\n2. Add splash of soda water and fill the glass with ice.\n3. Pour the rum and top with soda water.\n4. Light stir to involve all ingredients.",
+                "Method_Eng": "1. Mix mint springs with sugar and lime juice.\n2. Add splash of Soda Water and fill the glass with ice.\n3. Pour the rum and top with Soda Water.\n4. Light stir to involve all ingredients.",
                 "Garnish": "민트 잔가지와 라임 조각으로 장식하세요.",
                 "Garnish_Eng": "Garnish with sprigs of mint and slice of lime.",
                 "Histoy": "알려지지 않음",
@@ -1809,12 +1809,12 @@
                         "Optional": false
                     }, {
                         "Volume": "10 ml",
-                        "Name": "Fresh lime juice",
+                        "Name": "Fresh Lime Juice",
                         "Optional": false
                     }
                 ],
                 "Method": "1. 뮬 컵이나 락 글라스에 보드카와 진저 비어를 섞습니다.\n2. 라임 주스를 넣고 모든 재료가 들어가도록 부드럽게 저어주세요.",
-                "Method_Eng": "1. In a Mule Cup or rocks glass, combine the vodka and ginger beer.\n2. Add lime juice and gently stir to involve all ingredients.",
+                "Method_Eng": "1. In a Mule Cup or rocks glass, combine the Vodka and Ginger Beer.\n2. Add lime juice and gently stir to involve all ingredients.",
                 "Garnish": "라임 슬라이스로 고명하기",
                 "Garnish_Eng": "Garnish with a lime slice",
                 "Histoy": "알려지지 않음",
@@ -1890,11 +1890,11 @@
                         "Optional": false
                     }, {
                         "Volume": "22.5 ml",
-                        "Name": "Simple syrup",
+                        "Name": "Simple Syrup",
                         "Optional": false
                     }, {
                         "Volume": "30 ml",
-                        "Name": "Fresh lemon juice",
+                        "Name": "Fresh Lemon Juice",
                         "Optional": false
                     }, {
                         "Volume": "Few Drops",
@@ -1977,7 +1977,7 @@
                     }
                 ],
                 "Method": "1. 각설탕를 올드 패션드 글라스에 넣고 생수를 약간 넣어 녹여주세요.\n2. 녹을 때까지 머들입니다.\n3. 유리잔에 얼음 큐브를 채우고 위스키를 넣으십시오.\n4. 부드럽게 저으세요.",
-                "Method_Eng": "1. Place sugar cube in old fashioned glass and saturate with bitter, add few dashes of plain water.\n2. Muddle until dissolved.\n3. Fill the glass with ice cubes and add whiskey.\n4. Stir gently.",
+                "Method_Eng": "1. Place Sugar Cube in old fashioned glass and saturate with bitter, add few dashes of plain water.\n2. Muddle until dissolved.\n3. Fill the glass with ice cubes and add whiskey.\n4. Stir gently.",
                 "Garnish": "오렌지 슬라이스 혹은 제스트 그리고 칵테일 체리로 장식하세요.",
                 "Garnish_Eng": "Garnish with an orange slice or zest, and a cocktail cherry.",
                 "Histoy": "알려지지 않음",
@@ -1995,7 +1995,7 @@
                         "Optional": false
                     }, {
                         "Volume": "5 ml",
-                        "Name": "Fresh lime",
+                        "Name": "Fresh Lime",
                         "Optional": false
                     }, {
                         "Volume": "A pinch",
@@ -2128,7 +2128,7 @@
                     }
                 ],
                 "Method": "1. 모든 재료를 전기 믹서기에 얼음과 함께 블랜딩하여 큰 유리잔에 붓고 빨대와 함께 제공합니다.\n\n참고 : 역사적으로 신선한 라임 주스 몇 방울이 맛을 내기 위해 첨가되었습니다.\n4조각의 신선한 파인애플이 주스 대신 사용될 수 있습니다",
-                "Method_Eng": "1. Blend all the ingredients with ice in an electric blender, pour into a large glass, and serve with straws. \n\n Note : Historically a few drops of fresh lime juice were added to taste.\n4 slices of fresh pineapple can be used instead of juice",
+                "Method_Eng": "1. Blend all the ingredients with ice in an electric blender, pour into a large glass, and serve with straws. \n\n Note : Historically a few drops of Fresh Lime Juice were added to taste.\n4 slices of fresh pineapple can be used instead of juice",
                 "Garnish": "파인애플 조각과 칵테일 체리를 곁들여 고명을 얹습니다.",
                 "Garnish_Eng": "Garnish with a slice of pineapple with a cocktail cherry.",
                 "Histoy": "알려지지 않음",
@@ -2264,7 +2264,7 @@
                     }
                 ],
                 "Method": "1. 탄산수를 제외한 모든 재료를 칵테일 쉐이커에 얼음과 함께 붓고, 2분간 흔들어 잔에 두 번 거른 후 음료를 쉐이커에 다시 붓고, 얼음 없이 1분간 세게 흔듭니다.\n2. 하이볼 잔에 스트레인하고, 탄산수를 보충하세요.",
-                "Method_Eng": "1. Pour all ingredients except soda water in a cocktail shaker with ice, Shake for two minutes, double strain in a glass, pour the drink back in the shaker, and hard shake without ice for one minute.\n2. Strain into a highball glass, top up with soda.",
+                "Method_Eng": "1. Pour all ingredients except Soda Water in a cocktail shaker with ice, Shake for two minutes, double strain in a glass, pour the drink back in the shaker, and hard shake without ice for one minute.\n2. Strain into a highball glass, top up with soda.",
                 "Garnish": "가니쉬 없음",
                 "Garnish_Eng": "N/A",
                 "Histoy": "이 음료는 헨리 라모스(Henry Ramos)가 1888년 뉴올리언즈(New Orleans)에 있는 그의 바 메이어스 호텔 인터내셔널(Meyer's Table d'Hotel Internationale)에서 발명했습니다.\n 라모스 피즈(Ramos Fizz)는 원래 쉐이커를 한 곳에서 다른 곳으로 지나가는 30명의 바텐더 승무원에 의해 12분 동안 흔들렸습니다.",
@@ -2542,7 +2542,7 @@
                         "Optional": false
                     }, {
                         "Volume": "Splash of",
-                        "Name": "Soda water",
+                        "Name": "Soda Water",
                         "Optional": false
                     }
                 ],
@@ -2569,7 +2569,7 @@
                         "Optional": false
                     }, {
                         "Volume": "Splash of",
-                        "Name": "Soda water",
+                        "Name": "Soda Water",
                         "Optional": false
                     }
                 ],
@@ -2596,7 +2596,7 @@
                         "Optional": false
                     }, {
                         "Volume": "Splash of",
-                        "Name": "Soda water",
+                        "Name": "Soda Water",
                         "Optional": false
                     }
                 ],
@@ -2623,7 +2623,7 @@
                         "Optional": false
                     }, {
                         "Volume": "Splash of",
-                        "Name": "Soda water",
+                        "Name": "Soda Water",
                         "Optional": false
                     }
                 ],
@@ -2681,12 +2681,12 @@
                         "Optional": false
                     }, {
                         "Volume": "Top up",
-                        "Name": "Ginger beer",
+                        "Name": "Ginger Beer",
                         "Optional": false
                     }
                 ],
                 "Method": "진저 맥주를 제외한 모든 재료를 칵테일 쉐이커에 붓고, 얼음으로 잘 흔들며, 콜린스 잔이나 원래 S. Bastard 머그잔에 거르지 않고 붓고 진저 맥주로 보충합니다.",
-                "Method_Eng": "Pour all ingredients into a cocktail shaker except the ginger beer, shake well with ice, Pour unstrained into a Collins glass or in the original S. Bastard mug and top up with ginger beer.",
+                "Method_Eng": "Pour all ingredients into a cocktail shaker except the Ginger Beer, shake well with ice, Pour unstrained into a Collins glass or in the original S. Bastard mug and top up with Ginger Beer.",
                 "Garnish": "민트 스프링과 선택적으로 오렌지 슬라이스로 장식합니다.",
                 "Garnish_Eng": "Garnish with mint springs and optionally an orange slice as well.",
                 "Histoy": "알려지지 않음",
@@ -2713,7 +2713,7 @@
                     }
                 ],
                 "Method": "1. 테킬라와 오렌지 주스를 각얼음이 채워진 하이볼 글라스에 직접 부으세요.\n2. 그레나딘 시럽을 넣어 색 효과를 내세요(석양), 휘저지 마세요.",
-                "Method_Eng": "1. Pour tequila and orange juice directly into highball glass filled with ice cubes.\n2. Add the grenadine syrup to create chromatic effect (sunrise), do not stir.",
+                "Method_Eng": "1. Pour tequila and orange juice directly into highball glass filled with ice cubes.\n2. Add the Grenadine Syrup to create chromatic effect (sunrise), do not stir.",
                 "Garnish": "오렌지 슬라이스 반개 또는 오렌지 제스트로 고명을 얹습니다",
                 "Garnish_Eng": "Garnish with half orange slice or an orange zest",
                 "Histoy": "알려지지 않음",
@@ -2855,7 +2855,7 @@
                         "Optional": false
                     }, {
                         "Volume": "22.5 ml",
-                        "Name": "Fresh lemon Juice",
+                        "Name": "Fresh Lemon Juice",
                         "Optional": false
                     }, {
                         "Volume": "15 ml",
@@ -3049,7 +3049,7 @@
                         "Optional": false
                     }, {
                         "Volume": "20 ml",
-                        "Name": "Fresh lime juice",
+                        "Name": "Fresh Lime Juice",
                         "Optional": false
                     }, {
                         "Volume": "15 ml",
@@ -3061,7 +3061,7 @@
                         "Optional": false
                     }, {
                         "Volume": "1 teaspoon",
-                        "Name": "Grenadine syrup",
+                        "Name": "Grenadine Syrup",
                         "Optional": false
                     }, {
                         "Volume": "1 dash",
