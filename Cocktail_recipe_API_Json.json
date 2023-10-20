@@ -22,9 +22,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients into cocktail shaker filled with ice cubes.\n2. Shake and strain into a chilled cocktail glass.",
-                "Garnish": "Sprinkle fresh ground nutmeg on top.",
-                "Histoy": "The Alexander cocktail was born in London in 1922 by Hery Mc Elhone, at Ciro's Club in honor of a famous bride, at the beginning it was called Panama, Gin was used instead of Cognac and light cocoa cream instead of dark."
+                "Method": "1. 모든 재료들을 각얼음이 채워진 칵테일 쉐이커에 붓습니다.\n2. 차가운 칵테일 잔에 흔들어 섞습니다.",
+                "Method_Eng": "1. Pour all ingredients into cocktail shaker filled with ice cubes.\n2. Shake and strain into a chilled cocktail glass.",
+                "Garnish": "신선한 육두구를 위에 뿌립니다.",
+                "Garnish_Eng": "Sprinkle fresh ground nutmeg on top.",
+                "Histoy": "알렉산더 칵테일은 1922년 런던에서 유명한 신부를 기리기 위해 Ciro's Club에서 Herry McElhone에 의해 탄생했습니다. 처음에는 파나마라고 불렸는데, 코냑 대신 진, 다크 대신 라이트 코코아 크림이 사용되었습니다.",
+                "Histoy_Eng": "The Alexander cocktail was born in London in 1922 by Hery Mc Elhone, at Ciro's Club in honor of a famous bride, at the beginning it was called Panama, Gin was used instead of Cognac and light cocoa cream instead of dark."
             }, {
                 "ID": "IBA_ 0002",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Grasshopper.webp",
@@ -46,9 +49,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients into shaker filled with ice.\n2. Shake briskly for few seconds.\n3. Strain into chilled cocktail glass.",
-                "Garnish": "optional mint leaf",
-                "Histoy": "Alexander's variation"
+                "Method": "1. 얼음이 채워진 쉐이커에 모든 재료를 붓습니다.\n2. 몇 초 동안 강하게 흔드세요.\n3. 차가운 칵테일 잔에 담으세요.",
+                "Method_Eng": "1. Pour all ingredients into shaker filled with ice.\n2. Shake briskly for few seconds.\n3. Strain into chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "optional mint leaf",
+                "Histoy": "",
+                "Histoy_Eng": "Alexander's variation"
             }, {
                 "ID": "IBA_ 0003",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/problem/Alexandra.jpg",
@@ -70,9 +76,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients into cocktail shaker filled with ice cubes.\n2. Shake and strain into a chilled cocktail glass.",
-                "Garnish": "Sprinkle cocoa on top.",
-                "Histoy": "Alexander's variation"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients into cocktail shaker filled with ice cubes.\n2. Shake and strain into a chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "Sprinkle cocoa on top.",
+                "Histoy": "",
+                "Histoy_Eng": "Alexander's variation"
             }, {
                 "ID": "IBN_0004",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Alexanders Sister.webp",
@@ -94,9 +103,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients into cocktail shaker filled with ice cubes.\n2. Shake and strain",
-                "Garnish": "Sprinkle fresh ground nutmeg on top.",
-                "Histoy": "Alexander's variation"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients into cocktail shaker filled with ice cubes.\n2. Shake and strain",
+                "Garnish": "",
+                "Garnish_Eng": "Sprinkle fresh ground nutmeg on top.",
+                "Histoy": "",
+                "Histoy_Eng": "Alexander's variation"
             }, {
                 "ID": "IBN_0005",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Alejandro.webp",
@@ -118,9 +130,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients into cocktail shaker filled with ice cubes.\n2. Shake and strain into a chilled cocktail glass.",
-                "Garnish": "Sprinkle fresh ground nutmeg on top.",
-                "Histoy": "The Alexander cocktail was born in London in 1922 by Hery Mc Elhone, at Ciro's Club in honor of a famous bride, at the beginning it was called Panama, Gin was used instead of Cognac and light cocoa cream instead of dark."
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients into cocktail shaker filled with ice cubes.\n2. Shake and strain into a chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "Sprinkle fresh ground nutmeg on top.",
+                "Histoy": "",
+                "Histoy_Eng": "The Alexander cocktail was born in London in 1922 by Hery Mc Elhone, at Ciro's Club in honor of a famous bride, at the beginning it was called Panama, Gin was used instead of Cognac and light cocoa cream instead of dark."
             }, {
                 "ID": "IBN_0006",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Americano.webp",
@@ -142,9 +157,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Mix the ingredients directly in an old fashioned glass filled with ice cubes.\n2. Add a splash of Soda Water.\n3. Stir gently.",
-                "Garnish": "Garnish with half orange slice and a lemon zest.",
-                "Histoy": "The story of the Americano dates back to the second half of the 1800s in Gaspare Campari's bar in Milan. Over the years the cocktail acquires notoriety thanks to some homages from the world of cinema, including James Bond (007 Casino Royale) whose favorite cocktail was, precisely, the Americano. \nThe nickname \"American\" was born when Primo Carnera, a giant Italian boxer, became world heavyweight champion at Madison Square Garden in New York. When Carnera returned to Italy with the title, he was greeted with this very Italian cocktail which, for the occasion, was called \"Americano\". \nThe Americano entered the IBA Cocktail List only in 1987 but, in reality, it was a cocktail that spread all over Italy during the 1930s."
+                "Method": "",
+                "Method_Eng": "1. Mix the ingredients directly in an old fashioned glass filled with ice cubes.\n2. Add a splash of Soda Water.\n3. Stir gently.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with half orange slice and a lemon zest.",
+                "Histoy": "",
+                "Histoy_Eng": "The story of the Americano dates back to the second half of the 1800s in Gaspare Campari's bar in Milan. Over the years the cocktail acquires notoriety thanks to some homages from the world of cinema, including James Bond (007 Casino Royale) whose favorite cocktail was, precisely, the Americano. \nThe nickname \"American\" was born when Primo Carnera, a giant Italian boxer, became world heavyweight champion at Madison Square Garden in New York. When Carnera returned to Italy with the title, he was greeted with this very Italian cocktail which, for the occasion, was called \"Americano\". \nThe Americano entered the IBA Cocktail List only in 1987 but, in reality, it was a cocktail that spread all over Italy during the 1930s."
             }, {
                 "ID": "IBN_0007",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Angel Face.webp",
@@ -166,9 +184,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients into cocktail shaker filled with ice cubes.\n2. Shake and strain into a chilled cocktail glass.",
-                "Garnish": "N/A",
-                "Histoy": "Although the origin of the cocktail is not known, the main hypotheses assume that it was born in the twenties of the twentieth century in France: this thesis would prove the presence of calvados, a liqueur commonly used in France and, in particular, in that period, as an epidemic of phylloxera in European vineyards had limited the production of brandy. On this basis, one of the most frequent hypotheses has it that the cocktail was created by Harry MacElhone, founder of Harry's New York Bar in Paris on July 19, 1919, in honor of the celebrations for the victory of the First World War. The first reliable evidence, however, dates back to 1930 when Harry Craddock included the Angel Face among the recipes of his book \"Savoy cocktail book\". Some sources indicate that the name derives from that of an American gangster active during Prohibition; less likely the dedication to Rick Blaine, the protagonist of Casablanca played by Humphrey Bogart, as the film follows the first testimonies (1942)."
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients into cocktail shaker filled with ice cubes.\n2. Shake and strain into a chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "Although the origin of the cocktail is not known, the main hypotheses assume that it was born in the twenties of the twentieth century in France: this thesis would prove the presence of calvados, a liqueur commonly used in France and, in particular, in that period, as an epidemic of phylloxera in European vineyards had limited the production of brandy. On this basis, one of the most frequent hypotheses has it that the cocktail was created by Harry MacElhone, founder of Harry's New York Bar in Paris on July 19, 1919, in honor of the celebrations for the victory of the First World War. The first reliable evidence, however, dates back to 1930 when Harry Craddock included the Angel Face among the recipes of his book \"Savoy cocktail book\". Some sources indicate that the name derives from that of an American gangster active during Prohibition; less likely the dedication to Rick Blaine, the protagonist of Casablanca played by Humphrey Bogart, as the film follows the first testimonies (1942)."
             }, {
                 "ID": "IBN_0008",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Aviation.webp",
@@ -194,9 +215,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Add all ingredients into a cocktail shaker.\n2. Shake with cracked ice and strain into a chilled cocktail glass.",
-                "Garnish": "N/A",
-                "Histoy": "Aviation was created in New York at the Walkick hotel by the head bartender Hugo Ensslin while he was writing his book \"Recipes for Mixed Drinks\" (1916) one of the last cocktail books published before the start of American Prohibition.\nLately David Wondrich found the aviation recipe in a 1911 magazine, so the recipe is thought to have been born earlier then 1916.\n In his book Ensslin also indicates the type of Gin to be used 'El Bart Gin \"and the recipe is made up in addition to gin, with lemon juice, maraschino Luxardo and Creme di Violette.\nThe recipe is found again in Harry Craddock's 1930 Savoy Cocktail Book but without the Creme de Violette, this probably due to the difficulty of finding the violet cream during the post-war period In the 1960s it was still unavailable and therefore, simply, the basic ingredient of the Aviation cocktail was discontinued and the bartenders definitively gave up the characteristic blue color of the drink.\nThe IBA proposes it today in its original version with the creme de violette which is now on the market again.  This fragrant ingredient not only gave the mix a sweetly floral taste, but also gave it a beautiful sky blue color."
+                "Method": "",
+                "Method_Eng": "1. Add all ingredients into a cocktail shaker.\n2. Shake with cracked ice and strain into a chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "Aviation was created in New York at the Walkick hotel by the head bartender Hugo Ensslin while he was writing his book \"Recipes for Mixed Drinks\" (1916) one of the last cocktail books published before the start of American Prohibition.\nLately David Wondrich found the aviation recipe in a 1911 magazine, so the recipe is thought to have been born earlier then 1916.\n In his book Ensslin also indicates the type of Gin to be used 'El Bart Gin \"and the recipe is made up in addition to gin, with lemon juice, maraschino Luxardo and Creme di Violette.\nThe recipe is found again in Harry Craddock's 1930 Savoy Cocktail Book but without the Creme de Violette, this probably due to the difficulty of finding the violet cream during the post-war period In the 1960s it was still unavailable and therefore, simply, the basic ingredient of the Aviation cocktail was discontinued and the bartenders definitively gave up the characteristic blue color of the drink.\nThe IBA proposes it today in its original version with the creme de violette which is now on the market again.  This fragrant ingredient not only gave the mix a sweetly floral taste, but also gave it a beautiful sky blue color."
             }, {
                 "ID": "IBN_0009",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Barracuda.webp",
@@ -226,9 +250,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients into cocktail shaker except the Prosecco, shake well with ice.\n2. strain into chilled highball glass filled with ice and top up with Prosecco.",
-                "Garnish": "Pineapple and Cherry, optional mint sprig for additional aroma.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients into cocktail shaker except the Prosecco, shake well with ice.\n2. strain into chilled highball glass filled with ice and top up with Prosecco.",
+                "Garnish": "",
+                "Garnish_Eng": "Pineapple and Cherry, optional mint sprig for additional aroma.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0010",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/problem/Bee's Knees.jpg",
@@ -254,9 +281,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Stir honey with lemon and orange juices until it dissolves, add gin and shake with ice.\n2. Strain into a chilled cocktail glass.",
-                "Garnish": "Optionally garnish with a lemon or orange zest.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Stir honey with lemon and orange juices until it dissolves, add gin and shake with ice.\n2. Strain into a chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "Optionally garnish with a lemon or orange zest.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0011",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Bellini.webp",
@@ -274,9 +304,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour peach puree into the mixing glass with ice, add the Prosecco wine.\n2. Stir gently and pour in a chilled flute glass.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour peach puree into the mixing glass with ice, add the Prosecco wine.\n2. Stir gently and pour in a chilled flute glass.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0012",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/PUCCINI.webp",
@@ -294,9 +327,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Fresh Mandarin Orange Juice into mixing glass with ice, add prosecco wine.\n2. stir slowly and pour into cold flute glass.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Fresh Mandarin Orange Juice into mixing glass with ice, add prosecco wine.\n2. stir slowly and pour into cold flute glass.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0013",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/ROSSINI.webp",
@@ -314,9 +350,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Fresh Strawberry Puree into mixing glass with ice, add prosecco wine.\n2. stir slowly and pour into cold flute glass.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Fresh Strawberry Puree into mixing glass with ice, add prosecco wine.\n2. stir slowly and pour into cold flute glass.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0014",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/TINTORETTO.webp",
@@ -334,9 +373,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Fresh Pomegranate Juice. into mixing glass with ice, add prosecco wine.\n2. stir slowly and pour into cold flute glass.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Fresh Pomegranate Juice. into mixing glass with ice, add prosecco wine.\n2. stir slowly and pour into cold flute glass.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0015",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Between the Sheets.webp",
@@ -362,9 +404,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "Add all ingredients into a cocktail shaker. Shake with ice and strain into a chilled cocktail glass.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Add all ingredients into a cocktail shaker. Shake with ice and strain into a chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0016",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Black Russian.webp",
@@ -382,9 +427,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "Pour the ingredients into the old fashioned glass filled with ice cubes.\n2. Stir gently.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Pour the ingredients into the old fashioned glass filled with ice cubes.\n2. Stir gently.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0017",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/White Russian.webp",
@@ -406,9 +454,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour the ingredients into the old fashioned glass filled with ice cubes.\n2. Stir gently.\n3. Float fresh cream on the top and stir in slowly.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour the ingredients into the old fashioned glass filled with ice cubes.\n2. Stir gently.\n3. Float fresh cream on the top and stir in slowly.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0018",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Bloody Mary.webp",
@@ -446,9 +497,12 @@
                         "Optional": true
                     }
                 ],
-                "Method": "Stir gently all the ingredients in a mixing glass with ice, pour into rocks glass. \n\n Note : If requested served with ice, pour into highball glass.",
-                "Garnish": "Celery, Lemon Wedge (Optional)",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Stir gently all the ingredients in a mixing glass with ice, pour into rocks glass. \n\n Note : If requested served with ice, pour into highball glass.",
+                "Garnish": "",
+                "Garnish_Eng": "Celery, Lemon Wedge (Optional)",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0019",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Boulevardier.webp",
@@ -470,9 +524,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into a chilled cocktail glass.",
-                "Garnish": "Garnish with orange zest, optionally a lemon zest.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into a chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with orange zest, optionally a lemon zest.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0020",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Bramble.webp",
@@ -498,9 +555,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients into a cocktail shaker except the Crème de Mûre, shake well with ice, strain into chilled old fashioned glass filled with crushed ice, then pour the blackberry liqueur (Crème de Mûre) over the top of the drink, in a circular motion.",
-                "Garnish": "Garnish optionally with a lemon slice and blackberries.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients into a cocktail shaker except the Crème de Mûre, shake well with ice, strain into chilled old fashioned glass filled with crushed ice, then pour the blackberry liqueur (Crème de Mûre) over the top of the drink, in a circular motion.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish optionally with a lemon slice and blackberries.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0021",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Brandy Crusta.webp",
@@ -534,9 +594,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "Mix together all ingredients with ice cubes in a mixing glass and strain into prepared slim cocktail glass.",
-                "Garnish": "Rub a slice of orange (or lemon) around the rim of the glass and dip it in pulverized white sugar, so that the sugar will adhere to the edge of the glass. Carefully curling place the orange/lemon peel around the inside of the glass.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Mix together all ingredients with ice cubes in a mixing glass and strain into prepared slim cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "Rub a slice of orange (or lemon) around the rim of the glass and dip it in pulverized white sugar, so that the sugar will adhere to the edge of the glass. Carefully curling place the orange/lemon peel around the inside of the glass.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0022",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Canchanchara.webp",
@@ -562,9 +625,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Mix honey with water and lime juice and spread the mixture on the bottom and sides of the glass. \n2. Add cracked ice, and then the rum. End by energetically stirring from bottom to top.",
-                "Garnish": "Lime wedge.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Mix honey with water and lime juice and spread the mixture on the bottom and sides of the glass. \n2. Add cracked ice, and then the rum. End by energetically stirring from bottom to top.",
+                "Garnish": "",
+                "Garnish_Eng": "Lime wedge.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0023",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Caipirinha.webp",
@@ -586,9 +652,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Place lime and sugar into a double old fashioned glass and muddle gently.\n2. Fill the glass with cracked ice and add Cachaça.\n3. Stir gently to involve ingredients.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Place lime and sugar into a double old fashioned glass and muddle gently.\n2. Fill the glass with cracked ice and add Cachaça.\n3. Stir gently to involve ingredients.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0024",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/CAIPIROSKA.webp",
@@ -610,9 +679,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Place lime and sugar into a double old fashioned glass and muddle gently.\n2. Fill the glass with cracked ice and add Vodka. \n3. Stir gently to involve ingredients.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Place lime and sugar into a double old fashioned glass and muddle gently.\n2. Fill the glass with cracked ice and add Vodka. \n3. Stir gently to involve ingredients.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0025",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Casino.webp",
@@ -638,9 +710,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "Pour all ingredients into cocktails shaker, shake well with ice, strain into chilled rocks glass with ice.",
-                "Garnish": "Garnish with lemon zest and a maraschino cherry.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Pour all ingredients into cocktails shaker, shake well with ice, strain into chilled rocks glass with ice.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with lemon zest and a maraschino cherry.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0026",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Champagne Cocktail.webp",
@@ -670,9 +745,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Place the sugar cube with 2 dashes of bitters in a large Champagne glass, add the cognac.\n2. Pour gently chilled Champagne.",
-                "Garnish": "Garnish with orange zest and maraschino cherry.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Place the sugar cube with 2 dashes of bitters in a large Champagne glass, add the cognac.\n2. Pour gently chilled Champagne.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with orange zest and maraschino cherry.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0027",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Clover Club.webp",
@@ -698,9 +776,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "Pour all ingredients into cocktails shaker, shake well with ice, strain into chilled cocktail glass.",
-                "Garnish": "Fresh raspberries.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Pour all ingredients into cocktails shaker, shake well with ice, strain into chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "Fresh raspberries.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0028",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/problem/Corpse Reviver2.jpg",
@@ -730,9 +811,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "Pour all ingredients into shaker with ice. Shake well and strain in chilled cocktail glass.",
-                "Garnish": "Garnish with orange zest",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Pour all ingredients into shaker with ice. Shake well and strain in chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with orange zest",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0029",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Cosmopolitan.webp",
@@ -758,9 +842,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Add all ingredients into a cocktail shaker filled with ice.\n2. Shake well and strain into a large cocktail glass.",
-                "Garnish": "Garnish with a lemon twist.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Add all ingredients into a cocktail shaker filled with ice.\n2. Shake well and strain into a large cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with a lemon twist.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0030",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Cuba Libre.webp",
@@ -782,9 +869,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "Build all ingredients in a highball glass filled with ice.",
-                "Garnish": "Garnish with lime wedge.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Build all ingredients in a highball glass filled with ice.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with lime wedge.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0031",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Daiquiri.webp",
@@ -806,9 +896,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. In a cocktail shaker add all ingredients.\n2. Stir well to dissolve the sugar. Add ice and shake.\n3. Strain into chilled cocktail glass.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. In a cocktail shaker add all ingredients.\n2. Stir well to dissolve the sugar. Add ice and shake.\n3. Strain into chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0032",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Dark 'n' stormy.webp",
@@ -826,9 +919,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "In a highball glass filled with ice pour the ginger beer and top floating with the Rum.",
-                "Garnish": "Garnish with a lime wedge or slice.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "In a highball glass filled with ice pour the ginger beer and top floating with the Rum.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with a lime wedge or slice.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0033",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Dry Martini.webp",
@@ -846,9 +942,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into chilled martini cocktail glass.",
-                "Garnish": "Squeeze oil from lemon peel onto the drink, or garnish with green olives if requested.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into chilled martini cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "Squeeze oil from lemon peel onto the drink, or garnish with green olives if requested.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0034",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Espresso Martini.webp",
@@ -874,9 +973,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0035",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Fernandito.webp",
@@ -894,9 +996,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour the Fernet Branca into a double old fashioned glass with ice, fill the glass up with Cola.\n2. Gently stir.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour the Fernet Branca into a double old fashioned glass with ice, fill the glass up with Cola.\n2. Gently stir.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0036",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/French 75.webp",
@@ -922,9 +1027,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all the ingredients, except Champagne, into a shaker.\n2. Shake well and strain into a Champagne flute.\n3. Top up with Champagne. Stir gently.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all the ingredients, except Champagne, into a shaker.\n2. Shake well and strain into a Champagne flute.\n3. Top up with Champagne. Stir gently.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0037",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/French Connection.webp",
@@ -942,9 +1050,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients directly into an old fashioned glass filled with ice cubes.\n2. Stir gently.",
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients directly into an old fashioned glass filled with ice cubes.\n2. Stir gently.",
                 "Garnish": "",
-                "Histoy": "None"
+                "Garnish_Eng": "",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0038",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/French Martini.webp",
@@ -966,9 +1077,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
-                "Garnish": "Squeeze oil from lemon peel onto the drink.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "Squeeze oil from lemon peel onto the drink.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0039",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Gin Fizz.webp",
@@ -994,9 +1108,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Shake all ingredients with ice except soda water.\n2. Pour into thin tall Tumbler glass, top with a splash soda water.\n Note : Serve without ice.",
-                "Garnish": "Garnish with a lemon slice, optional lemon zest.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Shake all ingredients with ice except soda water.\n2. Pour into thin tall Tumbler glass, top with a splash soda water.\n Note : Serve without ice.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with a lemon slice, optional lemon zest.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0040",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Golden Dream.webp",
@@ -1022,9 +1139,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients into shaker filled with ice.\n2. Shake briskly for few seconds.\n3. Strain into chilled cocktail glass.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients into shaker filled with ice.\n2. Shake briskly for few seconds.\n3. Strain into chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0041",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Hanky Panky.webp",
@@ -1046,9 +1166,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients into mixing glass with ice cubes. Stir well.\n2. Strain into chilled cocktail glass.",
-                "Garnish": "Orange zest.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients into mixing glass with ice cubes. Stir well.\n2. Strain into chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "Orange zest.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0042",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Hemingway Special.webp",
@@ -1074,9 +1197,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients into a shaker with ice.\n2. Shake well and strain into a large cocktail glass.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients into a shaker with ice.\n2. Shake well and strain into a large cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0043",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Horse's Neck.webp",
@@ -1098,9 +1224,12 @@
                         "Optional": true
                     }
                 ],
-                "Method": "1. Pour Cognac and ginger ale directly into a highball glass with ice cubes.\n2. Stir gently.\n3. If preferred, add dashes of Angostura Bitter.",
-                "Garnish": "Garnish with a rind of one lemon spiral.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour Cognac and ginger ale directly into a highball glass with ice cubes.\n2. Stir gently.\n3. If preferred, add dashes of Angostura Bitter.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with a rind of one lemon spiral.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0044",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Illegal.webp",
@@ -1138,9 +1267,12 @@
                         "Optional": true
                     }
                 ],
-                "Method": "1. Pour all ingredients into the shaker.\n2. Shake vigorously with ice.\n3.  Strain into a chilled cocktail glass, or \"on the rocks\" in a traditional clay or terracotta mug.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients into the shaker.\n2. Shake vigorously with ice.\n3.  Strain into a chilled cocktail glass, or \"on the rocks\" in a traditional clay or terracotta mug.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0045",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Irish Coffee.webp",
@@ -1166,9 +1298,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Warm black coffee is poured into a pre-heated Irish coffee glass.\n2. Whiskey and at least one teaspoon of sugar is added and stirred until dissolved.\n3. Fresh thick chilled cream is carefully poured over the back of a spoon held just above the surface of the coffee.\n4. The layer of cream will float on the coffee without mixing.\n5. Plain sugar can be replaced with sugar syrup",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Warm black coffee is poured into a pre-heated Irish coffee glass.\n2. Whiskey and at least one teaspoon of sugar is added and stirred until dissolved.\n3. Fresh thick chilled cream is carefully poured over the back of a spoon held just above the surface of the coffee.\n4. The layer of cream will float on the coffee without mixing.\n5. Plain sugar can be replaced with sugar syrup",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0046",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/John Collins.webp",
@@ -1194,9 +1329,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients directly into a highball filled with ice.\n2. Stir gently.",
-                "Garnish": "Garnish with a lemon slice and maraschino cherry.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients directly into a highball filled with ice.\n2. Stir gently.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with a lemon slice and maraschino cherry.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0047",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Tom Collins.webp",
@@ -1222,9 +1360,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients directly into a highball filled with ice.\n2. Stir gently.",
-                "Garnish": "Garnish with a lemon slice and maraschino cherry.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients directly into a highball filled with ice.\n2. Stir gently.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with a lemon slice and maraschino cherry.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0048",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/KIR.webp",
@@ -1242,9 +1383,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "Pour Crème de Cassis into glass, top up with white wine.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Pour Crème de Cassis into glass, top up with white wine.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0049",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/KIR ROYAL.webp",
@@ -1262,9 +1406,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "Pour Crème de Cassis into glass, top up with champagne.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Pour Crème de Cassis into glass, top up with champagne.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0050",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Last word.webp",
@@ -1290,9 +1437,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Add all ingredients into a cocktail shaker.\n2. Shake with ice and strain into a chilled cocktail glass.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Add all ingredients into a cocktail shaker.\n2. Shake with ice and strain into a chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0051",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Lemon Drop Martini.webp",
@@ -1314,9 +1464,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
-                "Garnish": "Garnish with sugar rim around the glass.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with sugar rim around the glass.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0052",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Long Island Ice Tea.webp",
@@ -1358,9 +1511,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Add all ingredients into a highball glass filled with ice.\n2. Stir gently.",
-                "Garnish": "Lemon Slice (Optional)",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Add all ingredients into a highball glass filled with ice.\n2. Stir gently.",
+                "Garnish": "",
+                "Garnish_Eng": "Lemon Slice (Optional)",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0053",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Mai-Tai.webp",
@@ -1394,9 +1550,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Add all ingredients into a shaker with ice.\n2. Shake and pour into a double rocks glass or a highball glass. \n\n * The Martinique molasses rum used by Trader Vic was not an Agricole rum but a type of \"rummy\" from molasses.",
-                "Garnish": "Garnish with pineapple spear, mint leaves, and lime peel.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Add all ingredients into a shaker with ice.\n2. Shake and pour into a double rocks glass or a highball glass. \n\n * The Martinique molasses rum used by Trader Vic was not an Agricole rum but a type of \"rummy\" from molasses.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with pineapple spear, mint leaves, and lime peel.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0054",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Manhattan.webp",
@@ -1418,9 +1577,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into a chilled cocktail glass.",
-                "Garnish": "Garnish with a cocktail cherry.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into a chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with a cocktail cherry.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0055",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Margarita.webp",
@@ -1442,9 +1604,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Add all ingredients into a shaker with ice.\n2. Shake and strain into a chilled cocktail glass",
-                "Garnish": "Half salt rim (Optional)",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Add all ingredients into a shaker with ice.\n2. Shake and strain into a chilled cocktail glass",
+                "Garnish": "",
+                "Garnish_Eng": "Half salt rim (Optional)",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0056",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Martinez.webp",
@@ -1470,9 +1635,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into a chilled cocktail glass.",
-                "Garnish": "Lemon zest.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into a chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "Lemon zest.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0057",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Mary Pickford.webp",
@@ -1498,9 +1666,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0058",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Mimosa.webp",
@@ -1518,9 +1689,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1.Pour orange juice into a flute glass and gently pour the sparkling wine.\n2. Stir gently.\n\n Note : Also known as Buck's Fizz.",
-                "Garnish": "Garnish with an orange twist (optional).",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1.Pour orange juice into a flute glass and gently pour the sparkling wine.\n2. Stir gently.\n\n Note : Also known as Buck's Fizz.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with an orange twist (optional).",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0059",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Mint Julep.webp",
@@ -1546,9 +1720,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. In Julep Stainless Steel Cup gently muddle the mint with sugar and water.\n2. Fill the glass with cracked ice, add the Bourbon and stir well until the cup frosts.",
-                "Garnish": "Garnish with a mint sprig.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. In Julep Stainless Steel Cup gently muddle the mint with sugar and water.\n2. Fill the glass with cracked ice, add the Bourbon and stir well until the cup frosts.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with a mint sprig.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0060",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Mojito.webp",
@@ -1578,9 +1755,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Mix mint springs with sugar and lime juice.\n2. Add splash of soda water and fill the glass with ice.\n3. Pour the rum and top with soda water.\n4. Light stir to involve all ingredients.",
-                "Garnish": "Garnish with sprigs of mint and slice of lime.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Mix mint springs with sugar and lime juice.\n2. Add splash of soda water and fill the glass with ice.\n3. Pour the rum and top with soda water.\n4. Light stir to involve all ingredients.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with sprigs of mint and slice of lime.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0061",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Monkey Gland.webp",
@@ -1606,9 +1786,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0062",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Moscow Mule.webp",
@@ -1630,9 +1813,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. In a Mule Cup or rocks glass, combine the vodka and ginger beer.\n2. Add lime juice and gently stir to involve all ingredients.",
-                "Garnish": "Garnish with a lime slice",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. In a Mule Cup or rocks glass, combine the vodka and ginger beer.\n2. Add lime juice and gently stir to involve all ingredients.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with a lime slice",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0063",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Naked and Famous.webp",
@@ -1658,9 +1844,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0064",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Negroni.webp",
@@ -1682,9 +1871,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "Pour all ingredients directly into a chilled old fashioned glass filled with ice, Stir gently.",
-                "Garnish": "Garnish with a half orange slice.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Pour all ingredients directly into a chilled old fashioned glass filled with ice, Stir gently.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with a half orange slice.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0065",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/New York Sour.webp",
@@ -1714,9 +1906,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients into the shaker.\n2. Shake vigorously with ice.\n3.  Strain into a chilled rocks glass filled with ice.\n4. Float the wine on top.",
-                "Garnish": "Garnish with lemon or orange zest with cherry.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients into the shaker.\n2. Shake vigorously with ice.\n3.  Strain into a chilled rocks glass filled with ice.\n4. Float the wine on top.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with lemon or orange zest with cherry.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0066",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Old Cuban.webp",
@@ -1750,9 +1945,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients into cocktail shaker except the wine, shake well with ice, strain into chilled elegant cocktail glass.\n2. Top up with the sparkling wine.",
-                "Garnish": "Garnish with mint springs.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients into cocktail shaker except the wine, shake well with ice, strain into chilled elegant cocktail glass.\n2. Top up with the sparkling wine.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with mint springs.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0067",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Old Fashioned.webp",
@@ -1778,9 +1976,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Place sugar cube in old fashioned glass and saturate with bitter, add few dashes of plain water.\n2. Muddle until dissolved.\n3. Fill the glass with ice cubes and add whiskey.\n4. Stir gently.",
-                "Garnish": "Garnish with an orange slice or zest, and a cocktail cherry.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Place sugar cube in old fashioned glass and saturate with bitter, add few dashes of plain water.\n2. Muddle until dissolved.\n3. Fill the glass with ice cubes and add whiskey.\n4. Stir gently.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with an orange slice or zest, and a cocktail cherry.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0068",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Paloma.webp",
@@ -1806,9 +2007,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Poor the tequila into a highball glass, squeeze the lime juice.\n2. Add ice and salt, fill up pink grapefruit soda.\n3. Stir gently.",
-                "Garnish": "Garnish with a slice of lime.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Poor the tequila into a highball glass, squeeze the lime juice.\n2. Add ice and salt, fill up pink grapefruit soda.\n3. Stir gently.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with a slice of lime.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0069",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Paper Plane.webp",
@@ -1834,9 +2038,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0070",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Paradise.webp",
@@ -1858,9 +2065,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0071",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Penicillin.webp",
@@ -1890,9 +2100,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Muddle fresh ginger in a shaker and add the remaining ingredients, except for the Islay single malt whiskey.\n2. Fill the shaker with ice and shake.\n3. Double-strain into a chilled old fashioned glass with ice.\n4. Float the single malt whisky on top.",
-                "Garnish": "Garnish with candied ginger.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Muddle fresh ginger in a shaker and add the remaining ingredients, except for the Islay single malt whiskey.\n2. Fill the shaker with ice and shake.\n3. Double-strain into a chilled old fashioned glass with ice.\n4. Float the single malt whisky on top.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with candied ginger.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0072",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Pina Colada.webp",
@@ -1914,9 +2127,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Blend all the ingredients with ice in an electric blender, pour into a large glass, and serve with straws. \n\n Note : Historically a few drops of fresh lime juice were added to taste.\n4 slices of fresh pineapple can be used instead of juice",
-                "Garnish": "Garnish with a slice of pineapple with a cocktail cherry.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Blend all the ingredients with ice in an electric blender, pour into a large glass, and serve with straws. \n\n Note : Historically a few drops of fresh lime juice were added to taste.\n4 slices of fresh pineapple can be used instead of juice",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with a slice of pineapple with a cocktail cherry.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0073",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Pisco Sour.webp",
@@ -1942,9 +2158,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Add all ingredients into a shaker with ice.\n2. Shake and strain into a chilled goblet glass.",
-                "Garnish": "Few dashes of Amargo bitters on top as an aromatic garnish.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Add all ingredients into a shaker with ice.\n2. Shake and strain into a chilled goblet glass.",
+                "Garnish": "",
+                "Garnish_Eng": "Few dashes of Amargo bitters on top as an aromatic garnish.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0074",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Planter's Punch.webp",
@@ -1966,9 +2185,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients directly in a small tumbler or a typical terracotta glass.\n\nNOTE : Add dilution up to taste, it can be given by water, ice or fresh juices.",
-                "Garnish": "Garnish with orange zest.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients directly in a small tumbler or a typical terracotta glass.\n\nNOTE : Add dilution up to taste, it can be given by water, ice or fresh juices.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with orange zest.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0075",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Porto Flip.webp",
@@ -1990,9 +2212,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
-                "Garnish": "Sprinkle with fresh ground nutmeg.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "Sprinkle with fresh ground nutmeg.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0076",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Ramos Fizz.webp",
@@ -2038,9 +2263,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients except soda water in a cocktail shaker with ice, Shake for two minutes, double strain in a glass, pour the drink back in the shaker, and hard shake without ice for one minute.\n2. Strain into a highball glass, top up with soda.\n\nNOTE : The drink was invented by Henry Ramos in 1888, at his bar Meyer's Table d'Hôtel Internationale in New Orleans.\n The Ramos Fizz was originally shaken for 12 minutes by a crew of 30 bartenders who passed the shaker from one to another.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients except soda water in a cocktail shaker with ice, Shake for two minutes, double strain in a glass, pour the drink back in the shaker, and hard shake without ice for one minute.\n2. Strain into a highball glass, top up with soda.\n\nNOTE : The drink was invented by Henry Ramos in 1888, at his bar Meyer's Table d'Hôtel Internationale in New Orleans.\n The Ramos Fizz was originally shaken for 12 minutes by a crew of 30 bartenders who passed the shaker from one to another.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0077",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Russian Spring Punch.webp",
@@ -2070,9 +2298,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "Pour all ingredients into a cocktail shaker except the sparkling wine, shake well with ice, strain into a chilled tall tumbler glass filled with ice, and top up with sparkling wine.",
-                "Garnish": "Garnish with blackberries and optionally a lemon slice as well.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Pour all ingredients into a cocktail shaker except the sparkling wine, shake well with ice, strain into a chilled tall tumbler glass filled with ice, and top up with sparkling wine.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with blackberries and optionally a lemon slice as well.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0078",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Rusty Nail.webp",
@@ -2090,9 +2321,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients directly into an old fashioned glass filled with ice.\n2. Stir gently.",
-                "Garnish": "Garnish with lemon zest.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients directly into an old fashioned glass filled with ice.\n2. Stir gently.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with lemon zest.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0079",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Sazerac.webp",
@@ -2118,9 +2352,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Rinse a chilled old-fashioned glass with the absinthe, add crushed ice and set it aside.\n2. Stir the remaining ingredients over ice in a mixing glass.\n3. Discard the ice and any excess absinthe from the prepared glass, strain the mixed drink into the glass.\n\nNOTE: The original recipe changed after the American Civil War, Rye Whiskey substituted Cognac as it became hard to obtain.",
-                "Garnish": "Garnish with lemon zest.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Rinse a chilled old-fashioned glass with the absinthe, add crushed ice and set it aside.\n2. Stir the remaining ingredients over ice in a mixing glass.\n3. Discard the ice and any excess absinthe from the prepared glass, strain the mixed drink into the glass.\n\nNOTE: The original recipe changed after the American Civil War, Rye Whiskey substituted Cognac as it became hard to obtain.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with lemon zest.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0080",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Sea Breeze.webp",
@@ -2142,9 +2379,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "Build all ingredients in a highball glass filled with ice.",
-                "Garnish": "Garnish with orange zest and cherry",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Build all ingredients in a highball glass filled with ice.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with orange zest and cherry",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0081",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Sex on the Beach.webp",
@@ -2170,9 +2410,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "Build all ingredients in a highball glass filled with ice.",
-                "Garnish": "Garnish with a half orange slice.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Build all ingredients in a highball glass filled with ice.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with a half orange slice.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0082",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Sidecar.webp",
@@ -2194,9 +2437,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0083",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Singapore Sling.webp",
@@ -2238,9 +2484,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients into a cocktail shaker filled with ice cubes.\n2. Shake well.\n3. Strain into Hurricane glass.",
-                "Garnish": "Garnish with pineapple and maraschino cherry",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients into a cocktail shaker filled with ice cubes.\n2. Shake well.\n3. Strain into Hurricane glass.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with pineapple and maraschino cherry",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0084",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Spicy Fifty.webp",
@@ -2270,9 +2519,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass.",
-                "Garnish": "Garnish with a red chili pepper",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with a red chili pepper",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0085",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Spritz.webp",
@@ -2294,9 +2546,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Build all ingredients into a wine glass filled with ice.\n2. Stir gently.\n\n NOTE: There are other versions of the Spritz that use Campari, Cynar or Select instead of Aperol.",
-                "Garnish": "Garnish with a slice of orange.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Build all ingredients into a wine glass filled with ice.\n2. Stir gently.\n\n NOTE: There are other versions of the Spritz that use Campari, Cynar or Select instead of Aperol.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with a slice of orange.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0086",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Spritz (ver. Campari.webp",
@@ -2318,9 +2573,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Build all ingredients into a wine glass filled with ice.\n2. Stir gently.\n\n NOTE: There are other versions of the Spritz that use Aperol, Cynar or Select instead of Campari.",
-                "Garnish": "Garnish with a slice of orange.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Build all ingredients into a wine glass filled with ice.\n2. Stir gently.\n\n NOTE: There are other versions of the Spritz that use Aperol, Cynar or Select instead of Campari.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with a slice of orange.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0087",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/problem/Spritz (ver. Select.webp",
@@ -2342,9 +2600,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Build all ingredients into a wine glass filled with ice.\n2. Stir gently.\n\n NOTE: There are other versions of the Spritz that use Campari, Cynar or Aperol instead of Select.",
-                "Garnish": "Garnish with a slice of orange.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Build all ingredients into a wine glass filled with ice.\n2. Stir gently.\n\n NOTE: There are other versions of the Spritz that use Campari, Cynar or Aperol instead of Select.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with a slice of orange.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0088",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Spritz (ver. Cynar.webp",
@@ -2366,9 +2627,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Build all ingredients into a wine glass filled with ice.\n2. Stir gently.\n\n NOTE: There are other versions of the Spritz that use Campari, Select or Aperol instead of Cynar.",
-                "Garnish": "Garnish with a slice of orange.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Build all ingredients into a wine glass filled with ice.\n2. Stir gently.\n\n NOTE: There are other versions of the Spritz that use Campari, Select or Aperol instead of Cynar.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with a slice of orange.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0089",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Stinger.webp",
@@ -2386,9 +2650,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into chilled martini cocktail glass.",
-                "Garnish": "Optional mint leave.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into chilled martini cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "Optional mint leave.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0090",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Suffering Bastard.webp",
@@ -2418,9 +2685,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "Pour all ingredients into a cocktail shaker except the ginger beer, shake well with ice, Pour unstrained into a Collins glass or in the original S. Bastard mug and top up with ginger beer.",
-                "Garnish": "Garnish with mint springs and optionally an orange slice as well.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Pour all ingredients into a cocktail shaker except the ginger beer, shake well with ice, Pour unstrained into a Collins glass or in the original S. Bastard mug and top up with ginger beer.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with mint springs and optionally an orange slice as well.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0091",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Tequila Sunrise.webp",
@@ -2442,9 +2712,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour tequila and orange juice directly into highball glass filled with ice cubes.\n2. Add the grenadine syrup to create chromatic effect (sunrise), do not stir.",
-                "Garnish": "Garnish with half orange slice or an orange zest",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour tequila and orange juice directly into highball glass filled with ice cubes.\n2. Add the grenadine syrup to create chromatic effect (sunrise), do not stir.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with half orange slice or an orange zest",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0092",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Tipperary.webp",
@@ -2470,9 +2743,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into chilled martini cocktail glass.",
-                "Garnish": "Garnish with a slice of orange.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into chilled martini cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with a slice of orange.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0093",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Tommy's Margarita.webp",
@@ -2494,9 +2770,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled rocks glass filled with ice.",
-                "Garnish": "Garnish with a lime slice.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled rocks glass filled with ice.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with a lime slice.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0094",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Trinidad Sour.webp",
@@ -2522,9 +2801,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0095",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Tuxedo.webp",
@@ -2554,9 +2836,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into chilled martini cocktail glass.",
-                "Garnish": "Garnish with cherry and lemon zest",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into chilled martini cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with cherry and lemon zest",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0096",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/VE.N.TO.webp",
@@ -2586,9 +2871,12 @@
                         "Optional": true
                     }
                 ],
-                "Method": "1. Pour all ingredients into the shaker.\n2. Shake vigorously with ice.\n3. Strain into a chilled small tumbler glass filled with ice.\n\n Notes : *If desired water can be replaced by chamomile infusion in the honey mix.",
-                "Garnish": "Garnish with lemon zest and white grapes.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients into the shaker.\n2. Shake vigorously with ice.\n3. Strain into a chilled small tumbler glass filled with ice.\n\n Notes : *If desired water can be replaced by chamomile infusion in the honey mix.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with lemon zest and white grapes.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0097",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Vesper.webp",
@@ -2610,9 +2898,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients into a cocktail shaker filled with ice cubes.\n2. Shake and strain into a chilled cocktail glass.",
-                "Garnish": "Lemon zest",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients into a cocktail shaker filled with ice cubes.\n2. Shake and strain into a chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "Lemon zest",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0098",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Vieux Carrè.webp",
@@ -2642,9 +2933,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into a chilled cocktail glass.",
-                "Garnish": "Garnish with orange zest and maraschino cherry.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into a chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with orange zest and maraschino cherry.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0099",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Whiskey Sour.webp",
@@ -2670,9 +2964,12 @@
                         "Optional": true
                     }
                 ],
-                "Method": "1. Pour all ingredients into a cocktail shaker filled with ice.\n2. Shake well\n3. Strain into cobbler glass.\n4. If served \"On the rocks\", strain ingredients into an old fashioned glass filled with ice.\n\nNOTE : If egg white is used shake little harder to release and incorporate the foam from the egg white.",
-                "Garnish": "Garnish with a half orange slice and maraschino cherry, optionally use orange zest.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Pour all ingredients into a cocktail shaker filled with ice.\n2. Shake well\n3. Strain into cobbler glass.\n4. If served \"On the rocks\", strain ingredients into an old fashioned glass filled with ice.\n\nNOTE : If egg white is used shake little harder to release and incorporate the foam from the egg white.",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with a half orange slice and maraschino cherry, optionally use orange zest.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0100",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/White Lady.webp",
@@ -2694,9 +2991,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0101",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Yellow Bird.webp",
@@ -2722,9 +3022,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
-                "Garnish": "N/A",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+                "Garnish": "",
+                "Garnish_Eng": "N/A",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }, {
                 "ID": "IBN_0102",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Zombie.webp",
@@ -2770,9 +3073,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "1. Add all ingredients into an electric blender with 170 grams of cracked ice.\n2. With pulse bottom blend for a few seconds.\n3. Serve in a tall tumbler glass.\n\nNote : *Donn's Mix: 2 parts of fresh yellow grapefruit and 1 part of cinnamon syrup",
-                "Garnish": "Garnish with mint leaves.",
-                "Histoy": "None"
+                "Method": "",
+                "Method_Eng": "1. Add all ingredients into an electric blender with 170 grams of cracked ice.\n2. With pulse bottom blend for a few seconds.\n3. Serve in a tall tumbler glass.\n\nNote : *Donn's Mix: 2 parts of fresh yellow grapefruit and 1 part of cinnamon syrup",
+                "Garnish": "",
+                "Garnish_Eng": "Garnish with mint leaves.",
+                "Histoy": "",
+                "Histoy_Eng": "None"
             }
         ]
     }
