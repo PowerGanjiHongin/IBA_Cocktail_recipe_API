@@ -1331,7 +1331,7 @@
                 ],
                 "Method": "1. 모든 재료들을 얼음이 채워진 하이볼 잔에 직접 부으세요.\n2. 부드럽게 저으세요.",
                 "Method_Eng": "1. Pour all ingredients directly into a highball filled with ice.\n2. Stir gently.",
-                "Garnish": "",
+                "Garnish": "레몬 조각과 마라스키노 체리로 고명을 얹습니다.",
                 "Garnish_Eng": "Garnish with a lemon slice and maraschino cherry.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -1383,7 +1383,7 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "크렘 드 카시스를 잔에 붓고 화이트 와인을 보충합니다.",
                 "Method_Eng": "Pour Crème de Cassis into glass, top up with white wine.",
                 "Garnish": "가니쉬 없음",
                 "Garnish_Eng": "N/A",
@@ -1406,7 +1406,7 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "크렘 드 카시스를 잔에 붓고 샴페인을 보충합니다.",
                 "Method_Eng": "Pour Crème de Cassis into glass, top up with champagne.",
                 "Garnish": "가니쉬 없음",
                 "Garnish_Eng": "N/A",
@@ -1437,7 +1437,7 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 모든 재료를 쉐이커에 추가하세요.\n2. 얼음과 차가운 칵테일 유리으로 흔들립니다.",
                 "Method_Eng": "1. Add all ingredients into a cocktail shaker.\n2. Shake with ice and strain into a chilled cocktail glass.",
                 "Garnish": "가니쉬 없음",
                 "Garnish_Eng": "N/A",
@@ -1464,9 +1464,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 칵테일 쉐이커에 모든 재료를 붓고, 얼음으로 잘 흔들며, 차가운 칵테일 잔에 걸러냅니다.",
                 "Method_Eng": "1. Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
-                "Garnish": "",
+                "Garnish": "유리잔 테두리에 설탕 테두리를 두르세요.",
                 "Garnish_Eng": "Garnish with sugar rim around the glass.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -1511,9 +1511,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 얼음이 채워진 하이볼 잔에 모든 재료를 넣으세요.\n2. 부드럽게 저으세요.",
                 "Method_Eng": "1. Add all ingredients into a highball glass filled with ice.\n2. Stir gently.",
-                "Garnish": "",
+                "Garnish": "레몬 슬라이스(선택)",
                 "Garnish_Eng": "Lemon Slice (Optional)",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -1550,9 +1550,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 모든 재료를 얼음이 있는 쉐이커에 넣으세요.\n2. 흔들어서 더블 락 글라스나 하이볼 글라스에 부으세요.\n\n * 트레이더 빅이 사용한 마르티니크 당밀 럼은 아그리콜 럼이 아니라 당밀에서 나온 \"러미\"의 한 종류였습니다.",
                 "Method_Eng": "1. Add all ingredients into a shaker with ice.\n2. Shake and pour into a double rocks glass or a highball glass. \n\n * The Martinique molasses rum used by Trader Vic was not an Agricole rum but a type of \"rummy\" from molasses.",
-                "Garnish": "",
+                "Garnish": "파인애플 창, 민트 잎, 라임 껍질로 고명을 얹습니다.",
                 "Garnish_Eng": "Garnish with pineapple spear, mint leaves, and lime peel.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -1577,9 +1577,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 모든 재료들을 얼음 조각들과 섞는 유리에 부으세요.\n2. 잘 저어주세요.\n3. 차가운 칵테일 잔에 넣으세요.",
                 "Method_Eng": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into a chilled cocktail glass.",
-                "Garnish": "",
+                "Garnish": "칵테일 체리로 고명을 얹습니다.",
                 "Garnish_Eng": "Garnish with a cocktail cherry.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -1604,9 +1604,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 모든 재료를 얼음과 함께 쉐이커에 넣습니다.\n2. 차가운 칵테일 잔에 흔들어 걸러냅니다",
                 "Method_Eng": "1. Add all ingredients into a shaker with ice.\n2. Shake and strain into a chilled cocktail glass",
-                "Garnish": "",
+                "Garnish": "잔 테두리 반절 정도에 소금을 둘러주세요 (선택)",
                 "Garnish_Eng": "Half salt rim (Optional)",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -1635,9 +1635,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 모든 재료들을 얼음 조각들과 섞는 유리에 부으세요.\n2. 잘 저어주세요.\n3. 차가운 칵테일 잔에 넣으세요.",
                 "Method_Eng": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into a chilled cocktail glass.",
-                "Garnish": "",
+                "Garnish": "레몬 제스트",
                 "Garnish_Eng": "Lemon zest.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -1666,7 +1666,7 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "칵테일 쉐이커에 모든 재료를 붓고, 얼음과 함께 잘 흔들며, 차가운 칵테일 잔에 변형시킵니다.",
                 "Method_Eng": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
                 "Garnish": "가니쉬 없음",
                 "Garnish_Eng": "N/A",
@@ -1689,9 +1689,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "플루트 잔에 오렌지 주스를 붓고 스파클링 와인을 부드럽게 따르세요.\n2. 부드럽게 저으세요.\n\n 참고 : 벅의 피즈라고도 알려져 있습니다.",
                 "Method_Eng": "1.Pour orange juice into a flute glass and gently pour the sparkling wine.\n2. Stir gently.\n\n Note : Also known as Buck's Fizz.",
-                "Garnish": "",
+                "Garnish": "오렌지 트위스트로 장식합니다(옵션).",
                 "Garnish_Eng": "Garnish with an orange twist (optional).",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -1720,9 +1720,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 줄렙 스테인리스 스틸 컵에서 민트를 설탕과 물로 부드럽게 섞습니다.\n2. 유리에 금이 간 얼음을 채우고 부르봉을 넣고 컵이 얼 때까지 잘 저어주세요.",
                 "Method_Eng": "1. In Julep Stainless Steel Cup gently muddle the mint with sugar and water.\n2. Fill the glass with cracked ice, add the Bourbon and stir well until the cup frosts.",
-                "Garnish": "",
+                "Garnish": "민트 가지로 장식합니다.",
                 "Garnish_Eng": "Garnish with a mint sprig.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -1755,9 +1755,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 민트 스프링에 설탕과 라임 주스를 섞으세요.\n2. 탄산수를 붓고 얼음을 잔에 채우세요.\n3. 럼주를 붓고 탄산음료 물을 부어주세요.\n4. 모든 재료가 포함되도록 가볍게 저어주세요.",
                 "Method_Eng": "1. Mix mint springs with sugar and lime juice.\n2. Add splash of soda water and fill the glass with ice.\n3. Pour the rum and top with soda water.\n4. Light stir to involve all ingredients.",
-                "Garnish": "",
+                "Garnish": "민트 잔가지와 라임 조각으로 장식하세요.",
                 "Garnish_Eng": "Garnish with sprigs of mint and slice of lime.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -1786,7 +1786,7 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "칵테일 쉐이커에 모든 재료를 붓고, 얼음과 함께 잘 흔들며, 차가운 칵테일 잔에 걸러냅니다.",
                 "Method_Eng": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
                 "Garnish": "가니쉬 없음",
                 "Garnish_Eng": "N/A",
@@ -1813,9 +1813,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 뮬 컵이나 락 글라스에 보드카와 진저 비어를 섞습니다.\n2. 라임 주스를 넣고 모든 재료가 들어가도록 부드럽게 저어주세요.",
                 "Method_Eng": "1. In a Mule Cup or rocks glass, combine the vodka and ginger beer.\n2. Add lime juice and gently stir to involve all ingredients.",
-                "Garnish": "",
+                "Garnish": "라임 슬라이스로 고명하기",
                 "Garnish_Eng": "Garnish with a lime slice",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -1844,7 +1844,7 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "칵테일 쉐이커에 모든 재료를 붓고, 얼음으로 잘 흔들며, 차가운 칵테일 잔에 걸러냅니다.",
                 "Method_Eng": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
                 "Garnish": "가니쉬 없음",
                 "Garnish_Eng": "N/A",
@@ -1871,9 +1871,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "모든 재료들을 얼음으로 가득 찬 차가운 오래된 유리잔에 직접 붓고, 부드럽게 저으세요.",
                 "Method_Eng": "Pour all ingredients directly into a chilled old fashioned glass filled with ice, Stir gently.",
-                "Garnish": "",
+                "Garnish": "오렌지 슬라이스를 반절로 잘라 고명으로 얹습니다.",
                 "Garnish_Eng": "Garnish with a half orange slice.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -1906,9 +1906,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 모든 재료들을 쉐이커에 부으세요.\n2. 얼음과 함께 강하게 흔드세요.\n3. 얼음이 채워진 차가운 락 글라스에 담으세요.\n4. 와인을 위에 띄우세요.",
                 "Method_Eng": "1. Pour all ingredients into the shaker.\n2. Shake vigorously with ice.\n3.  Strain into a chilled rocks glass filled with ice.\n4. Float the wine on top.",
-                "Garnish": "",
+                "Garnish": "레몬이나 오렌지 제스트에 체리를 곁들여 장식하세요.",
                 "Garnish_Eng": "Garnish with lemon or orange zest with cherry.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -1945,9 +1945,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 와인을 제외한 모든 재료를 칵테일 쉐이커에 붓고, 얼음과 함께 잘 흔들어 식힌 우아한 칵테일 잔에 담으세요.\n2. 스파클링 와인을 보충하세요.",
                 "Method_Eng": "1. Pour all ingredients into cocktail shaker except the wine, shake well with ice, strain into chilled elegant cocktail glass.\n2. Top up with the sparkling wine.",
-                "Garnish": "",
+                "Garnish": "민트 가지로 장식합니다.",
                 "Garnish_Eng": "Garnish with mint springs.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -1976,9 +1976,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 각설탕를 올드 패션드 글라스에 넣고 생수를 약간 넣어 녹여주세요.\n2. 녹을 때까지 머들입니다.\n3. 유리잔에 얼음 큐브를 채우고 위스키를 넣으십시오.\n4. 부드럽게 저으세요.",
                 "Method_Eng": "1. Place sugar cube in old fashioned glass and saturate with bitter, add few dashes of plain water.\n2. Muddle until dissolved.\n3. Fill the glass with ice cubes and add whiskey.\n4. Stir gently.",
-                "Garnish": "",
+                "Garnish": "오렌지 슬라이스 혹은 제스트 그리고 칵테일 체리로 장식하세요.",
                 "Garnish_Eng": "Garnish with an orange slice or zest, and a cocktail cherry.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -2007,9 +2007,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 데킬라를 하이볼 잔에 넣고 라임 주스를 짜세요.\n2. 얼음과 소금을 넣고 분홍색 자몽 소다를 채웁니다.\n3. 부드럽게 저으세요.",
                 "Method_Eng": "1. Poor the tequila into a highball glass, squeeze the lime juice.\n2. Add ice and salt, fill up pink grapefruit soda.\n3. Stir gently.",
-                "Garnish": "",
+                "Garnish": "라임 한 조각으로 고명을 얹습니다.",
                 "Garnish_Eng": "Garnish with a slice of lime.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -2038,7 +2038,7 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "칵테일 쉐이커에 모든 재료를 붓고, 얼음으로 잘 흔들며, 차가운 칵테일 잔에 걸러냅니다.",
                 "Method_Eng": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
                 "Garnish": "가니쉬 없음",
                 "Garnish_Eng": "N/A",
@@ -2065,7 +2065,7 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "칵테일 쉐이커에 모든 재료를 붓고, 얼음으로 잘 흔들며, 차가운 칵테일 잔에 걸러냅니다.",
                 "Method_Eng": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
                 "Garnish": "가니쉬 없음",
                 "Garnish_Eng": "N/A",
@@ -2100,9 +2100,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 신선한 생강을 쉐이커에 섞고 아이리쉬 싱글 몰트 위스키를 제외한 나머지 재료를 추가합니다.\n2. 쉐이커에 얼음을 채우고 흔듭니다.\n3. 차가운 오래된 유리잔에 얼음을 넣어 이중으로 거릅니다.\n4. 싱글 몰트 위스키를 위에 띄우세요.",
                 "Method_Eng": "1. Muddle fresh ginger in a shaker and add the remaining ingredients, except for the Islay single malt whiskey.\n2. Fill the shaker with ice and shake.\n3. Double-strain into a chilled old fashioned glass with ice.\n4. Float the single malt whisky on top.",
-                "Garnish": "",
+                "Garnish": "설탕에 절인 생강으로 고명을 얹습니다.",
                 "Garnish_Eng": "Garnish with candied ginger.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -2127,9 +2127,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 모든 재료를 전기 믹서기에 얼음과 함께 블랜딩하여 큰 유리잔에 붓고 빨대와 함께 제공합니다.\n\n참고 : 역사적으로 신선한 라임 주스 몇 방울이 맛을 내기 위해 첨가되었습니다.\n4조각의 신선한 파인애플이 주스 대신 사용될 수 있습니다",
                 "Method_Eng": "1. Blend all the ingredients with ice in an electric blender, pour into a large glass, and serve with straws. \n\n Note : Historically a few drops of fresh lime juice were added to taste.\n4 slices of fresh pineapple can be used instead of juice",
-                "Garnish": "",
+                "Garnish": "파인애플 조각과 칵테일 체리를 곁들여 고명을 얹습니다.",
                 "Garnish_Eng": "Garnish with a slice of pineapple with a cocktail cherry.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -2158,9 +2158,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 모든 재료들을 얼음이 있는 쉐이커에 넣으세요.\n2. 차가운 유리잔에 흔들어 걸러냅니다.",
                 "Method_Eng": "1. Add all ingredients into a shaker with ice.\n2. Shake and strain into a chilled goblet glass.",
-                "Garnish": "",
+                "Garnish": "아마르고 비터를 몇 번 뿌려 아로마향을 입혀주세요.",
                 "Garnish_Eng": "Few dashes of Amargo bitters on top as an aromatic garnish.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -2185,9 +2185,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 모든 재료들을 작은 텀블러나 전형적인 테라코타 유리잔에 직접 부으세요.\n\n참고: 입맛에 맞게 물, 얼음 또는 신선한 주스 등을 이용하여 희석해 드세요.",
                 "Method_Eng": "1. Pour all ingredients directly in a small tumbler or a typical terracotta glass.\n\nNOTE : Add dilution up to taste, it can be given by water, ice or fresh juices.",
-                "Garnish": "",
+                "Garnish": "오렌지 제스트로 고명을 얹습니다.",
                 "Garnish_Eng": "Garnish with orange zest.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -2212,9 +2212,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "칵테일 쉐이커에 모든 재료를 붓고, 얼음과 함께 잘 흔들며, 차가운 칵테일 잔에 변형시킵니다.",
                 "Method_Eng": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
-                "Garnish": "",
+                "Garnish": "신선한 육두구를 뿌립니다.",
                 "Garnish_Eng": "Sprinkle with fresh ground nutmeg.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -2263,12 +2263,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
-                "Method_Eng": "1. Pour all ingredients except soda water in a cocktail shaker with ice, Shake for two minutes, double strain in a glass, pour the drink back in the shaker, and hard shake without ice for one minute.\n2. Strain into a highball glass, top up with soda.\n\nNOTE : The drink was invented by Henry Ramos in 1888, at his bar Meyer's Table d'Hôtel Internationale in New Orleans.\n The Ramos Fizz was originally shaken for 12 minutes by a crew of 30 bartenders who passed the shaker from one to another.",
+                "Method": "1. 탄산수를 제외한 모든 재료를 칵테일 쉐이커에 얼음과 함께 붓고, 2분간 흔들어 잔에 두 번 거른 후 음료를 쉐이커에 다시 붓고, 얼음 없이 1분간 세게 흔듭니다.\n2. 하이볼 잔에 스트레인하고, 탄산수를 보충하세요.",
+                "Method_Eng": "1. Pour all ingredients except soda water in a cocktail shaker with ice, Shake for two minutes, double strain in a glass, pour the drink back in the shaker, and hard shake without ice for one minute.\n2. Strain into a highball glass, top up with soda.",
                 "Garnish": "가니쉬 없음",
                 "Garnish_Eng": "N/A",
-                "Histoy": "알려지지 않음",
-                "Histoy_Eng": "None"
+                "Histoy": "이 음료는 헨리 라모스(Henry Ramos)가 1888년 뉴올리언즈(New Orleans)에 있는 그의 바 메이어스 호텔 인터내셔널(Meyer's Table d'Hotel Internationale)에서 발명했습니다.\n 라모스 피즈(Ramos Fizz)는 원래 쉐이커를 한 곳에서 다른 곳으로 지나가는 30명의 바텐더 승무원에 의해 12분 동안 흔들렸습니다.",
+                "Histoy_Eng": "The drink was invented by Henry Ramos in 1888, at his bar Meyer's Table d'Hôtel Internationale in New Orleans.\n The Ramos Fizz was originally shaken for 12 minutes by a crew of 30 bartenders who passed the shaker from one to another."
             }, {
                 "ID": "IBN_0077",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Russian Spring Punch.webp",
@@ -2298,9 +2298,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "스파클링 와인을 제외한 모든 재료를 칵테일 쉐이커에 붓고 얼음으로 잘 흔들어 얼음이 가득 찬 차가운 높은 텀블러 잔에 스트레인한 후 스파클링 와인을 보충합니다.",
                 "Method_Eng": "Pour all ingredients into a cocktail shaker except the sparkling wine, shake well with ice, strain into a chilled tall tumbler glass filled with ice, and top up with sparkling wine.",
-                "Garnish": "",
+                "Garnish": "블랙베리와 선택적으로 레몬 조각으로 장식합니다.",
                 "Garnish_Eng": "Garnish with blackberries and optionally a lemon slice as well.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -2321,9 +2321,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 얼음이 채워진 오래된 유리잔에 모든 재료를 직접 붓습니다.\n2. 부드럽게 저으세요.",
                 "Method_Eng": "1. Pour all ingredients directly into an old fashioned glass filled with ice.\n2. Stir gently.",
-                "Garnish": "",
+                "Garnish": "레몬 제스트로 고명을 얹습니다.",
                 "Garnish_Eng": "Garnish with lemon zest.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -2352,12 +2352,12 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
-                "Method_Eng": "1. Rinse a chilled old-fashioned glass with the absinthe, add crushed ice and set it aside.\n2. Stir the remaining ingredients over ice in a mixing glass.\n3. Discard the ice and any excess absinthe from the prepared glass, strain the mixed drink into the glass.\n\nNOTE: The original recipe changed after the American Civil War, Rye Whiskey substituted Cognac as it became hard to obtain.",
-                "Garnish": "",
+                "Method": "1. 차가운 구식 유리잔에 복근을 헹구고 얼음을 으깨어 옆에 두세요.\n2. 믹싱 글라스 안에 남은 재료들을 얼음 위에서 저으세요.\n3. 준비된 유리잔의 얼음과 여분의 복근을 버리고 혼합 음료를 잔에 걸러주세요.",
+                "Method_Eng": "1. Rinse a chilled old-fashioned glass with the absinthe, add crushed ice and set it aside.\n2. Stir the remaining ingredients over ice in a mixing glass.\n3. Discard the ice and any excess absinthe from the prepared glass, strain the mixed drink into the glass.",
+                "Garnish": "레몬 제스트로 고명을 얹습니다.",
                 "Garnish_Eng": "Garnish with lemon zest.",
-                "Histoy": "알려지지 않음",
-                "Histoy_Eng": "None"
+                "Histoy": "참고: 미국 남북전쟁 이후 원래의 조리법이 바뀌었고, 호밀 위스키는 구하기 어려워지면서 코냑을 대체했습니다.",
+                "Histoy_Eng": "The original recipe changed after the American Civil War, Rye Whiskey substituted Cognac as it became hard to obtain."
             }, {
                 "ID": "IBN_0080",
                 "Image": "https://raw.githubusercontent.com/PowerGanjiHongin/IBA_Cocktail_recipe_API/main/Cocktail/Sea Breeze.webp",
@@ -2379,9 +2379,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "모든 재료들을 얼음으로 가득 찬 하이볼 글라스 안에 만드세요.",
                 "Method_Eng": "Build all ingredients in a highball glass filled with ice.",
-                "Garnish": "",
+                "Garnish": "오렌지 제스트와 체리로 고명을 얹습니다",
                 "Garnish_Eng": "Garnish with orange zest and cherry",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -2410,9 +2410,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "모든 재료들을 얼음으로 가득 찬 하이볼 글라스 안에 만드세요.",
                 "Method_Eng": "Build all ingredients in a highball glass filled with ice.",
-                "Garnish": "",
+                "Garnish": "하프 오렌지 슬라이스로 고명을 얹습니다.",
                 "Garnish_Eng": "Garnish with a half orange slice.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -2437,7 +2437,7 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "칵테일 쉐이커에 모든 재료를 붓고, 얼음과 함께 잘 흔들어, 차가운 칵테일 잔에 변형시킵니다.",
                 "Method_Eng": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
                 "Garnish": "가니쉬 없음",
                 "Garnish_Eng": "N/A",
@@ -2484,9 +2484,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 모든 재료들을 각얼음이 채워진 칵테일 쉐이커에 부어주세요.\n2. 잘 흔들어주세요.\n3. 허리케인 유리 안에 넣어주세요.",
                 "Method_Eng": "1. Pour all ingredients into a cocktail shaker filled with ice cubes.\n2. Shake well.\n3. Strain into Hurricane glass.",
-                "Garnish": "",
+                "Garnish": "파인애플과 마라스키노 체리로 가니쉬를 얹습니다",
                 "Garnish_Eng": "Garnish with pineapple and maraschino cherry",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -2519,9 +2519,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "칵테일 쉐이커에 모든 재료를 붓고, 얼음으로 잘 흔들며, 차가운 칵테일 잔에 이중으로 거릅니다.",
                 "Method_Eng": "Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass.",
-                "Garnish": "",
+                "Garnish": "빨간 고추로 가니쉬를 얹습니다",
                 "Garnish_Eng": "Garnish with a red chili pepper",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -2546,9 +2546,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 모든 재료를 얼음으로 가득 찬 와인 잔으로 만드세요.\n2. 부드럽게 저으세요.\n\n참고: 아페롤 대신 캄파리, 시나르, 셀렉트를 사용하는 다른 버전의 스프리츠도 있습니다.",
                 "Method_Eng": "1. Build all ingredients into a wine glass filled with ice.\n2. Stir gently.\n\n NOTE: There are other versions of the Spritz that use Campari, Cynar or Select instead of Aperol.",
-                "Garnish": "",
+                "Garnish": "오렌지 슬라이스로 고명을 얹습니다.",
                 "Garnish_Eng": "Garnish with a slice of orange.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -2573,7 +2573,7 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 모든 재료를 얼음으로 가득 찬 와인 잔으로 만드세요.\n2. 부드럽게 저으세요.\n\n참고: 캄파리 대신 아페롤, 시나르, 셀렉트를 사용하는 다른 버전의 스프리츠도 있습니다.",
                 "Method_Eng": "1. Build all ingredients into a wine glass filled with ice.\n2. Stir gently.\n\n NOTE: There are other versions of the Spritz that use Aperol, Cynar or Select instead of Campari.",
                 "Garnish": "",
                 "Garnish_Eng": "Garnish with a slice of orange.",
@@ -2600,9 +2600,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 모든 재료를 얼음으로 가득 찬 와인 잔으로 만드세요.\n2. 부드럽게 저으세요.\n\n참고: 셀렉트 대신 캄파리, 시나르, 아페롤을 사용하는 다른 버전의 스프리츠도 있습니다.",
                 "Method_Eng": "1. Build all ingredients into a wine glass filled with ice.\n2. Stir gently.\n\n NOTE: There are other versions of the Spritz that use Campari, Cynar or Aperol instead of Select.",
-                "Garnish": "",
+                "Garnish": "오렌지 슬라이스로 가니쉬를 얹습니다.",
                 "Garnish_Eng": "Garnish with a slice of orange.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -2627,9 +2627,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 모든 재료를 얼음으로 가득 찬 와인잔으로 만드세요.\n2. 부드럽게 저으세요.\n\n참고: 치나 대신 캄파리, 셀렉트, 아페롤을 사용하는 다른 버전의 스프리츠도 있습니다.",
                 "Method_Eng": "1. Build all ingredients into a wine glass filled with ice.\n2. Stir gently.\n\n NOTE: There are other versions of the Spritz that use Campari, Select or Aperol instead of Cynar.",
-                "Garnish": "",
+                "Garnish": "오렌지 슬라이스로 가니쉬를 얹습니다.",
                 "Garnish_Eng": "Garnish with a slice of orange.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -2650,9 +2650,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 모든 재료들을 얼음 조각들과 섞는 유리에 부어주세요.\n2. 잘 저어주세요.\n3. 차가운 마티니 칵테일 잔에 넣어주세요.",
                 "Method_Eng": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into chilled martini cocktail glass.",
-                "Garnish": "",
+                "Garnish": "민트 잎을 선택적으로 사용하세요.",
                 "Garnish_Eng": "Optional mint leave.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -2685,9 +2685,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "진저 맥주를 제외한 모든 재료를 칵테일 쉐이커에 붓고, 얼음으로 잘 흔들며, 콜린스 잔이나 원래 S. Bastard 머그잔에 거르지 않고 붓고 진저 맥주로 보충합니다.",
                 "Method_Eng": "Pour all ingredients into a cocktail shaker except the ginger beer, shake well with ice, Pour unstrained into a Collins glass or in the original S. Bastard mug and top up with ginger beer.",
-                "Garnish": "",
+                "Garnish": "민트 스프링과 선택적으로 오렌지 슬라이스로 장식합니다.",
                 "Garnish_Eng": "Garnish with mint springs and optionally an orange slice as well.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -2712,9 +2712,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 테킬라와 오렌지 주스를 각얼음이 채워진 하이볼 글라스에 직접 부으세요.\n2. 그레나딘 시럽을 넣어 색 효과를 내세요(석양), 휘저지 마세요.",
                 "Method_Eng": "1. Pour tequila and orange juice directly into highball glass filled with ice cubes.\n2. Add the grenadine syrup to create chromatic effect (sunrise), do not stir.",
-                "Garnish": "",
+                "Garnish": "오렌지 슬라이스 반개 또는 오렌지 제스트로 고명을 얹습니다",
                 "Garnish_Eng": "Garnish with half orange slice or an orange zest",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -2743,9 +2743,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 모든 재료들을 얼음 조각들과 섞는 유리에 부어주세요.\n2. 잘 저어주세요.\n3. 차가운 마티니 칵테일 잔에 넣어주세요.",
                 "Method_Eng": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into chilled martini cocktail glass.",
-                "Garnish": "",
+                "Garnish": "오렌지 한 조각으로 가니쉬를 얹습니다.",
                 "Garnish_Eng": "Garnish with a slice of orange.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -2770,9 +2770,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
-                "Method_Eng": "1. Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled rocks glass filled with ice.",
-                "Garnish": "",
+                "Method": "칵테일 쉐이커에 모든 재료를 붓고, 얼음과 함께 잘 흔들며, 얼음이 채워진 차가운 바위 유리잔에 채웁니다.",
+                "Method_Eng": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled rocks glass filled with ice.",
+                "Garnish": "라임 슬라이스로 가니쉬를 얹습니다.",
                 "Garnish_Eng": "Garnish with a lime slice.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -2801,7 +2801,7 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "칵테일 쉐이커에 모든 재료를 붓고, 얼음과 함께 잘 흔들며, 차가운 칵테일 잔에 걸러냅니다.",
                 "Method_Eng": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
                 "Garnish": "가니쉬 없음",
                 "Garnish_Eng": "N/A",
@@ -2836,7 +2836,7 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 모든 재료들을 얼음 조각들과 섞는 유리에 부어주세요.\n2. 잘 저어주세요.\n3. 차가운 마티니 칵테일 잔에 넣어주세요.",
                 "Method_Eng": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into chilled martini cocktail glass.",
                 "Garnish": "",
                 "Garnish_Eng": "Garnish with cherry and lemon zest",
@@ -2871,9 +2871,9 @@
                         "Optional": true
                     }
                 ],
-                "Method": "",
+                "Method": "1. 모든 재료를 쉐이커에 부으세요.\n2. 얼음과 함께 격렬하게 흔드세요.\n3. 얼음이 채워진 차가운 작은 텀블러 잔에 걸러냅니다.\n\n참고 사항 : *필요한 물이 허니 믹스에 캐모마일 주입으로 대체될 수 있다면.",
                 "Method_Eng": "1. Pour all ingredients into the shaker.\n2. Shake vigorously with ice.\n3. Strain into a chilled small tumbler glass filled with ice.\n\n Notes : *If desired water can be replaced by chamomile infusion in the honey mix.",
-                "Garnish": "",
+                "Garnish": "레몬 제스트와 백포도로 고명을 얹습니다.",
                 "Garnish_Eng": "Garnish with lemon zest and white grapes.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -2898,9 +2898,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 모든 재료들을 각얼음이 채워진 칵테일 쉐이커에 붓습니다.\n2. 차가운 칵테일 잔에 흔들어 섞습니다.",
                 "Method_Eng": "1. Pour all ingredients into a cocktail shaker filled with ice cubes.\n2. Shake and strain into a chilled cocktail glass.",
-                "Garnish": "",
+                "Garnish": "레몬제스트",
                 "Garnish_Eng": "Lemon zest",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -2933,9 +2933,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 모든 재료들을 얼음 조각들과 섞는 유리에 부으세요.\n2. 잘 저어주세요.\n3. 차가운 칵테일 잔에 넣으세요.",
                 "Method_Eng": "1. Pour all ingredients into mixing glass with ice cubes.\n2. Stir well.\n3. Strain into a chilled cocktail glass.",
-                "Garnish": "",
+                "Garnish": "오렌지 제스트와 마라스키노 체리로 고명을 얹습니다.",
                 "Garnish_Eng": "Garnish with orange zest and maraschino cherry.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -2964,9 +2964,9 @@
                         "Optional": true
                     }
                 ],
-                "Method": "",
+                "Method": "1. 얼음이 채워진 칵테일 쉐이커에 모든 재료를 부으세요.\n2. 잘 흔들어주세요\n3. 코블러 잔에 넣어주세요.\n4. \"온더락\"이 제공된다면, 재료들을 얼음이 채워진 오래된 잔에 넣어주세요.\n\n참고: 계란 흰자가 사용된다면, 계란 흰자의 거품을 방출하고 혼합하기 위해 조금 더 세게 흔들어주세요.",
                 "Method_Eng": "1. Pour all ingredients into a cocktail shaker filled with ice.\n2. Shake well\n3. Strain into cobbler glass.\n4. If served \"On the rocks\", strain ingredients into an old fashioned glass filled with ice.\n\nNOTE : If egg white is used shake little harder to release and incorporate the foam from the egg white.",
-                "Garnish": "",
+                "Garnish": "오렌지 슬라이스 반개와 마라스키노 체리로 고명을 얹고, 선택적으로 오렌지 제스트를 사용합니다.",
                 "Garnish_Eng": "Garnish with a half orange slice and maraschino cherry, optionally use orange zest.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
@@ -2991,7 +2991,7 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "칵테일 쉐이커에 모든 재료를 붓고, 얼음과 함께 잘 흔들며, 차가운 칵테일 잔에 변형시킵니다.",
                 "Method_Eng": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
                 "Garnish": "가니쉬 없음",
                 "Garnish_Eng": "N/A",
@@ -3022,7 +3022,7 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "칵테일 쉐이커에 모든 재료를 붓고, 얼음과 함께 잘 흔들며, 차가운 칵테일 잔에 담아냅니다.",
                 "Method_Eng": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
                 "Garnish": "가니쉬 없음",
                 "Garnish_Eng": "N/A",
@@ -3073,9 +3073,9 @@
                         "Optional": false
                     }
                 ],
-                "Method": "",
+                "Method": "1. 170그램의 갈라진 얼음과 함께 모든 재료들을 전기 믹서기에 넣으세요.\n2. 펄스 바텀 블렌드와 함께 몇 초 동안.\n3. 큰 텀블러 잔에 담아주세요.\n\n참고: *돈의 믹스: 신선한 노란 자몽 2부와 계피 시럽 1부",
                 "Method_Eng": "1. Add all ingredients into an electric blender with 170 grams of cracked ice.\n2. With pulse bottom blend for a few seconds.\n3. Serve in a tall tumbler glass.\n\nNote : *Donn's Mix: 2 parts of fresh yellow grapefruit and 1 part of cinnamon syrup",
-                "Garnish": "",
+                "Garnish": "민트 잎으로 장식합니다.",
                 "Garnish_Eng": "Garnish with mint leaves.",
                 "Histoy": "알려지지 않음",
                 "Histoy_Eng": "None"
