@@ -369,7 +369,7 @@
                         "Optional": false
                     }, {
                         "Volume": "50 ml",
-                        "Name": "Fresh Pomegranate Juice.",
+                        "Name": "Fresh Pomegranate Juice",
                         "Optional": false
                     }
                 ],
@@ -450,12 +450,12 @@
                         "Optional": false
                     }, {
                         "Volume": "30 ml",
-                        "Name": "fresh cream",
+                        "Name": "Fresh Cream",
                         "Optional": false
                     }
                 ],
                 "Method": "1. 재료들을 각얼음들로 채워진 오래된 유리잔에 부으세요.\n2. 부드럽게 저으세요.\n3. 신선한 크림을 위에 띄우고 천천히 저으세요.",
-                "Method_Eng": "1. Pour the ingredients into the old fashioned glass filled with ice cubes.\n2. Stir gently.\n3. Float fresh cream on the top and stir in slowly.",
+                "Method_Eng": "1. Pour the ingredients into the old fashioned glass filled with ice cubes.\n2. Stir gently.\n3. Float Fresh Cream on the top and stir in slowly.",
                 "Garnish": "가니쉬 없음",
                 "Garnish_Eng": "N/A",
                 "Histoy": "알려지지 않음",
@@ -1290,7 +1290,7 @@
                         "Optional": false
                     }, {
                         "Volume": "50 ml",
-                        "Name": "Fresh cream (Chilled)",
+                        "Name": "Fresh Cream (Chilled)",
                         "Optional": false
                     }, {
                         "Volume": "1 teaspoon",
